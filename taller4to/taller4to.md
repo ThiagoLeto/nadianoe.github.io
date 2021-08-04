@@ -1,5 +1,8 @@
 ## TALLER DE INNOVACIONES TECNOLÓGICAS
 
+## Ejemplo JavaScript
+- [ejemplo](https://github.com/materiasipm/materiasipm.github.io/blob/master/taller4to/ejemplo4deAgosto.html)
+
 ## Resumen de temas a evaluar
 - [resumen](https://github.com/materiasipm/materiasipm.github.io/blob/master/taller4to/resumen.md)
 
