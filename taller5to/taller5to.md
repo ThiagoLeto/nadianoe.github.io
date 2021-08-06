@@ -1,5 +1,8 @@
 ## TALLER DE TECNOLOGÍAS DE SOPORTE INFORMÁTICO
 
+## Link - Bootstrap
+- [link](https://getbootstrap.com/docs/4.0/getting-started/download/)
+
 ## Tarea 2 de Julio
 - [enunciado](https://github.com/materiasipm/materiasipm.github.io/blob/master/taller5to/enunciado2deJulio.md)
 
