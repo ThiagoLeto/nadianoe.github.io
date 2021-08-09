@@ -26,4 +26,7 @@ contener la información del mismo según el siguiente formato:
   hora: ... | fecha: ... | precio: ... | saldo: ...
   hora: ... | fecha: ... | precio: ... | saldo: ...
 ```
-Utilizar el método "toString()" de las clases Viaje y Tarjeta.
+Utilizar los métodos "toString()" de las clases Viaje y Tarjeta.
+
+4. Aplicar el concepto de alta cohesión y bajo acoplamiento sobre el 
+trabajo integrador.
