@@ -10,7 +10,7 @@ contener la información de todos los viajes realizados según el siguiente form
 ```
 Utilizar el método "toString()" de la clase Viaje.
 
-4. Redefinir el método "toString()" de la clase Pasajero, el string retornado deberá
+3. Redefinir el método "toString()" de la clase Pasajero, el string retornado deberá
 contener la información del mismo según el siguiente formato:
 ```
   Nombre:
