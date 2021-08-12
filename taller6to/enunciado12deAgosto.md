@@ -3,3 +3,16 @@
 - El archivo .ipynb a entregar deberá contener todas las funciones que fueron necesarias realizar para lograr que 
 el set de datos tenga un resultado final como el propuesto.
 - Recordar que para realizar esta tarea deberán tener en cuenta lo visto la clase correspondiente al 1 de Julio.
+
+
+
+
+
+
+
+
+
+Aclaración: el set de datos provisto fué creado por Enzo Tagliazucchi.
+
+
+
