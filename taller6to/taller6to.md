@@ -1,5 +1,10 @@
 ## TALLER DE TECNOLOGÍAS DE SOPORTE INFORMÁTICO
 
+## Tarea 12 de Agosto
+- [enunciado](https://github.com/materiasipm/materiasipm.github.io/blob/master/taller6to/enunciado12deAgosto.md)
+- [set de datos](https://raw.githubusercontent.com/materiasipm/materiasipm.github.io/master/taller6to/datos.csv)
+- [set de datos limpiosl](https://raw.githubusercontent.com/materiasipm/materiasipm.github.io/master/taller6to/datos_limpios.csv)
+
 ## Estructura que debe tener el trabajo a entregar
 - [estructura](https://github.com/materiasipm/materiasipm.github.io/blob/master/taller6to/estructura.md)
 
