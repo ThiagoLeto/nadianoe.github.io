@@ -1,5 +1,8 @@
 ## TALLER DE TECNOLOGÍAS DE SOPORTE INFORMÁTICO
 
+## Tarea 13 de Agosto
+- [enunciado](https://github.com/materiasipm/materiasipm.github.io/blob/master/taller5to/enunciado13deAgosto.md)
+
 ## Link - Bootstrap
 - [link](https://getbootstrap.com/docs/4.0/getting-started/download/)
 
