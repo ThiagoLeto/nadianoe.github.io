@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+
+    <html>
+
+    <head>
+        <meta charset="UTF-8">
+         <script src="ejemplo.js"></script>
+        <title>Ejemplo</title>
+    </head>
+
+    <body>
+        <p>Ingrese nombre:</p>
+        <input type="text" id="nombre">
+
+        <p>Ingrese apellido:</p>
+        <input type="text" id="apellido">
+
+        <p>Ingrese edad:</p>
+        <input type="number" id="edad">
+
+        <br>
+
+        <button onclick="mostrarDatos()"> Mostrar datos ingresados </button>
+
+        <h1 id="respuesta-nombre"></h1>
+        <h1 id="respuesta-apellido"></h1>
+        <h1 id="respuesta-edad"></h1>
+
+        <script>
+            
+            console.log("hola");
+
+            let numeros = [1,2,3,4,5];
+            numeros.push(3);
+            let size = numeros.length;
+            numeros.pop();
+            
+
+            for (let i = 0; i < numeros.length; i++) {
+              let valor = numeros[i];
+              console.log(valor);
+            }
+
+        </script>
+    </body>
+
+</html>
