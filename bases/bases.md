@@ -4,7 +4,7 @@
 - [enunciado](https://github.com/materiasipm/materiasipm.github.io/blob/master/bases/Ejercicios%20DER%20I.pdf)
 
 Se recomienda descargar el pdf.
-- [resolucion de ejercicio 1](https://github.com/materiasipm/tareas/blob/3c1ef6619d7da55d9d27a6012892c3b4946fcefb/ejercicio1Resuelto.png)
+- [resolucion de ejercicio 1](https://github.com/materiasipm/materiasipm.github.io/blob/ecafa556e04d05858a28a51518330f6653760eb3/bases/ejercicio1Resuelto.png)
 
 ## 7 de Julio
 - [enunciado](https://github.com/materiasipm/materiasipm.github.io/blob/master/bases/enunciado7deJulio.txt)
