@@ -1,5 +1,10 @@
 ## TALLER DE INNOVACIONES TECNOLÓGICAS
 
+## Tarea 18 de Agosto
+- [ejemplo .html](https://github.com/materiasipm/materiasipm.github.io/blob/master/taller4to/ejemplo.html)
+- [ejemplo .js](https://github.com/materiasipm/materiasipm.github.io/blob/master/taller4to/ejemplo.js)
+- [enunciado](https://github.com/materiasipm/materiasipm.github.io/blob/master/taller4to/enunciado18deAgosto.md)
+
 ## Ejemplo JavaScript
 - [ejemplo](https://github.com/materiasipm/materiasipm.github.io/blob/master/taller4to/ejemplo4deAgosto.html)
 
