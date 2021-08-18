@@ -9,7 +9,8 @@ public class EjemploGUI2 {
 
         JFrame ventana = new JFrame();
         ventana.setLayout(new BorderLayout());
-
+        ventana.setSize(500, 400);
+        
         JPanel panelSuperior = new JPanel();
 
         panelSuperior.setLayout(new GridLayout(3,3));
