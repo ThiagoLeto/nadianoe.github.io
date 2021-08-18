@@ -2,6 +2,7 @@
 
 ## 18 de Agosto
 - [enunciado](https://github.com/materiasipm/materiasipm.github.io/blob/master/bases/Ejercicios%20DER%20I.pdf)
+
 Se recomienda descargar el pdf.
 - [resolucion de ejercicio 1](https://github.com/materiasipm/tareas/blob/3c1ef6619d7da55d9d27a6012892c3b4946fcefb/ejercicio1Resuelto.png)
 
