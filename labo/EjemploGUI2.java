@@ -43,6 +43,11 @@ public class EjemploGUI2 {
          */
 
         ventana.setVisible(true);
+        
+        /*
+        para eliminar un componente de la ventana, utilizar el método .remove
+        El mismo recibe como parámetro el elemento a eliminar.
+        */
 
 
     }
