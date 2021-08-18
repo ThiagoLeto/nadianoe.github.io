@@ -1,5 +1,8 @@
 ## BASES DE DATOS
 
+## 18 de Agosto
+- [enunciado](https://github.com/materiasipm/materiasipm.github.io/blob/master/bases/Ejercicios%20DER%20I.pdf)
+
 ## 7 de Julio
 - [enunciado](https://github.com/materiasipm/materiasipm.github.io/blob/master/bases/enunciado7deJulio.txt)
 
