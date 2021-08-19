@@ -1,0 +1,3 @@
+- Eliminar los espacios de las columnas 
+- Transformar los "nan" del set de datos provisto y luego aplicar la función dropna
+- Entregar el trabajo
