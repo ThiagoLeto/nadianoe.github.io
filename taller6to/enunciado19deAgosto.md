@@ -1,3 +1,3 @@
 - Eliminar los espacios de las columnas 
-- Transformar los "nan" del set de datos provisto y luego aplicar la función dropna
+- Crear una función para transformar los "nan" del set de datos provisto y luego aplicar la función dropna sobre el dataframe utilizado
 - Entregar el trabajo
