@@ -1,9 +1,7 @@
 ## BASES DE DATOS
 
 ## 18 de Agosto
-- [enunciado](https://github.com/materiasipm/materiasipm.github.io/blob/master/bases/Ejercicios%20DER%20I.pdf)
-
-Se recomienda descargar el pdf.
+- [enunciado (descargar para verlo correctamente](https://github.com/materiasipm/materiasipm.github.io/blob/master/bases/Ejercicios%20DER%20I.pdf)
 - [resolucion de ejercicio 1](https://github.com/materiasipm/materiasipm.github.io/blob/ecafa556e04d05858a28a51518330f6653760eb3/bases/ejercicio1Resuelto.png)
 
 ## 7 de Julio
