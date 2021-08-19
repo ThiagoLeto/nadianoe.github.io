@@ -6,8 +6,10 @@ import pandas as pd
 import numpy as np
 
 
-# Representación de NaN
-np.nan
+# Representación de NaN: np.nan
+
+# Asignación
+valor = np.nan
 
 df = pd.DataFrame({' Weight ':[23, 88, 56, 15, 71],
                    'Nam e':['Sam', 'Andrea', 'Alex', "nan", 'Kia'],
