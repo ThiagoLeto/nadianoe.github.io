@@ -1,5 +1,9 @@
 ## TALLER DE TECNOLOGÍAS DE SOPORTE INFORMÁTICO
 
+## Tarea 19 de Agosto
+- [ejemplo](https://github.com/materiasipm/materiasipm.github.io/blob/master/taller6to/ejemplo19deAgosto.md)
+- [enunciado](https://github.com/materiasipm/materiasipm.github.io/blob/master/taller6to/enunciado19deAgosto.md)
+
 ## Tarea 12 de Agosto
 - [enunciado](https://github.com/materiasipm/materiasipm.github.io/blob/master/taller6to/enunciado12deAgosto.md)
 - [set de datos](https://raw.githubusercontent.com/materiasipm/materiasipm.github.io/master/taller6to/datos.csv)
