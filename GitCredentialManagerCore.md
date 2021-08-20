@@ -8,8 +8,7 @@
   
 ### Windows
 
-- Descargar versión que incluye Git-Credential-Manager-Core, [aquí](Git-2.33.0-32-bit.exe
-  )
+- Descargar versión que incluye Git-Credential-Manager-Core, [aquí](https://github.com/git-for-windows/git/releases/tag/v2.33.0.windows.1)
 - Ejecutar ```git config --global credential.credentialStore cache```
 - Seleccionar tiempo en segundos. En este ejemplo se eligieron 360 segundos
   
