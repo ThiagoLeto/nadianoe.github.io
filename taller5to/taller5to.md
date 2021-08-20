@@ -1,5 +1,8 @@
 ## TALLER DE TECNOLOGÍAS DE SOPORTE INFORMÁTICO
 
+## Tarea 20 de Agosto
+- [enunciado](https://github.com/materiasipm/materiasipm.github.io/blob/master/taller5to/enunciado20deAgosto.md)
+
 ## Tarea 13 de Agosto
 - [enunciado](https://github.com/materiasipm/materiasipm.github.io/blob/master/taller5to/enunciado13deAgosto.md)
 
