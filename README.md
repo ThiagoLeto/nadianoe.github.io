@@ -13,6 +13,8 @@
 
 ### [ALGUNOS COMANDOS DE GIT, LOS MÁS NECESARIOS](https://github.com/materiasipm/materiasipm.github.io/blob/master/comandos.md)
 
+### [GIT CREDENTIAL MANAGER CORE]
+(https://github.com/materiasipm/materiasipm.github.io/blob/master/GitCredentialManagerCore.md)
 
 
 
