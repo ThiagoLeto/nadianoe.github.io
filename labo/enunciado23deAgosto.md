@@ -5,3 +5,5 @@ en dicha sección se deberán ofrecer tres acciones a realizar: juego nuevo, pun
 - Para simplificar la notación del tachado de símbolos, utilizar los siguientes: 
 - -X- para indicar la "X" tachada y
 - -O- para indicar la "O" tachada.
+
+Aclaración: en esta primer versión los "X" y "O", los deberá asignar el programa.
