@@ -1,5 +1,10 @@
 ## PROGRAMA DEL LABORATORIO DE PROGRAMACIÓN ORIENTADA A OBJETOS
 
+## Tarea 23 de Agosto
+- [ejemplo 1](https://github.com/materiasipm/materiasipm.github.io/blob/master/labo/EjemploGUI3.java)
+- [ejemplo 2](https://github.com/materiasipm/materiasipm.github.io/blob/master/labo/EjemploGUI4.java)
+- [enunciado](https://github.com/materiasipm/materiasipm.github.io/blob/master/labo/enunciado23deAgosto.md)
+
 ## Tarea 18 de Agosto
 - [ejemplo](https://github.com/materiasipm/materiasipm.github.io/blob/master/labo/EjemploGUI2.java)
 - [enunciado](https://github.com/materiasipm/materiasipm.github.io/blob/master/labo/enunciado18deAgosto.md)
