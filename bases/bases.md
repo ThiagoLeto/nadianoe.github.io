@@ -1,5 +1,9 @@
 ## BASES DE DATOS
 
+## 25 de Agosto
+- [símbolos](https://github.com/materiasipm/materiasipm.github.io/blob/master/bases/simbolosDER.png)
+- [ejemplo](https://github.com/materiasipm/materiasipm.github.io/blob/master/bases/derEjemplo.png)
+
 ## 18 de Agosto
 - [enunciado (descargar para verlo correctamente)](https://github.com/materiasipm/materiasipm.github.io/blob/master/bases/Ejercicios%20DER%20I.pdf)
 - [resolucion de ejercicio 1](https://github.com/materiasipm/materiasipm.github.io/blob/ecafa556e04d05858a28a51518330f6653760eb3/bases/ejercicio1Resuelto.png)
