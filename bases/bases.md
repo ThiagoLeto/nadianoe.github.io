@@ -1,6 +1,7 @@
 ## BASES DE DATOS
 
 ## 25 de Agosto
+- [enunciado](https://github.com/materiasipm/materiasipm.github.io/blob/master/bases/enunciado25deAgosto.md)
 - [símbolos](https://github.com/materiasipm/materiasipm.github.io/blob/master/bases/simbolosDER.png)
 - [ejemplo](https://github.com/materiasipm/materiasipm.github.io/blob/master/bases/derEjemplo.png)
 
