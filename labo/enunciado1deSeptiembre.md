@@ -4,8 +4,7 @@ Crear una nueva versión del juego realizado.
 
 - La misma deberá ser la ventana con el menú creado anteriormente; además, deberá tener como atributos un set (HashSet) con los 9 botones creados.
 
-- En esta versión no deberán existir líneas de código repetidas, es decir, si se detectan
-porciones de código que se repiten, deberán crear un método que que realice el trabajo para luego invocarlo las veces que sea necesario.
+- Si se detectan porciones de código que se repiten, deberán crear un método que que realice el trabajo para luego invocarlo las veces que sea necesario.
 
 - Aplicar los conceptos de "ALTA COHESIÓN" Y "BAJO ACOPLAMIENTO".
 
