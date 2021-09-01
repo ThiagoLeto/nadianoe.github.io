@@ -20,12 +20,11 @@
 
         <br>
 
-        <button onclick="mostrarDatos()"> Mostrar datos ingresados </button>
+        
+        <button onclick="mostrarDatos()"> MOSTRAR DATOS INGRESADOS </button>
 
-        <h1 id="respuesta-nombre"></h1>
-        <h1 id="respuesta-apellido"></h1>
-        <h1 id="respuesta-edad"></h1>
-
+        <p id="datosIngresados"><p>
+        
         <script>
             
             console.log("hola");
@@ -39,6 +38,14 @@
             for (let i = 0; i < numeros.length; i++) {
               let valor = numeros[i];
               console.log(valor);
+            }
+            
+            function mostrarDatos() {
+                var nombre = document.getElementById("nombre").value;
+                var apellido = document.getElementById("apellido").value;
+                var edad = document.getElementById("edad").value;
+                document.getElementById("datosIngresados").innerHTML = "Datos: " + nombre + " " + apellido + " " + edad;
+                document.getElementById("datosIngresados").style.color = "green";
             }
 
         </script>
