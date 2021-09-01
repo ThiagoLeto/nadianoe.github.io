@@ -20,8 +20,7 @@ plt1.show()
 
 
 x_values = df1['grupo_etario'].unique()
-nombres_x = ["nombre \n largooooo",
-"otro nombre \n largo",
-"nombre largo\n my largo "]
+nombres_x = ["nombre \n largooooo", "otro nombre \n largo","nombre largo \n muy largo "]
 x_values = np.array(nombres_x)
 plt1.barh(x_values,y_values)
+
