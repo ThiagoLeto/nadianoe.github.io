@@ -2,7 +2,7 @@
 en diferentes archivos con extensión .html
 - Las funciones deberán estar en un archivo con extensión .js y todas deberán retornar un valor
 - Crear una función que sirva para asignar un valor en un elemento a través del "id".
-La signatura de función deberá ser la siguiente: 
+La signatura de la función deberá ser la siguiente: 
 ```
   function asignarValor(valor,id);
 ```
