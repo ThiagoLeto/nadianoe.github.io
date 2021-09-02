@@ -1,5 +1,8 @@
 ## TALLER DE TECNOLOGÍAS DE SOPORTE INFORMÁTICO
 
+## 2 de Septiembre
+- [nota](https://github.com/materiasipm/materiasipm.github.io/blob/master/taller6to/enunciado2deSeptiembre.md)
+
 ## Tarea 26 de Agosto
 - [enunciado](https://github.com/materiasipm/materiasipm.github.io/blob/master/taller6to/enunciado26deAgosto.md)
 
