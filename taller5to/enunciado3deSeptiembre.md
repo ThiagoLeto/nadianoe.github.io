@@ -7,6 +7,6 @@ ingresado por el usuario y que luego los muestre de nuevo (utilizar "toggle", "f
 - Por último, agregar un botón que se llame "comenzar de nuevo"; el mismo deberá hacer desaparecer todos los
 elementos de la página utilizando los efectos "fadeIn", "slideUp" y "animate". 
 Recomendación: aplicar los efecto a elementos que contengan otros elementos, por ejemplo, elementos
-con tipos de etiqueta "nav", "div", "table".
+con tipos de etiqueta "nav", "div", "table", etc.
 - Luego deberá existir un botón que al clickearlo, vuelve a mostrar los elementos utilizando los efectos
 "fadeOut", "slideDown" y "animate".
