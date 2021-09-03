@@ -1,5 +1,8 @@
 ## TALLER DE TECNOLOGÍAS DE SOPORTE INFORMÁTICO
 
+## 3 de Septiembre
+- [ejercicio](https://github.com/materiasipm/materiasipm.github.io/blob/master/taller5to/enunciado3deSeptiembre.md)
+
 ## 27 de Agosto
 - [ejemplo .html](https://github.com/materiasipm/materiasipm.github.io/blob/master/muestras.html)
 - [ejemplo .js](https://github.com/materiasipm/materiasipm.github.io/blob/master/muestras.js)
