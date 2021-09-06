@@ -5,6 +5,6 @@ a viernes debe asistir.
 - Cada empleado tiene una lista de asistencias, esto quiere decir que cuando el empleado 
 ingresa a la empresa, se registra y dicho registro ingresa a una lista conteniendo la fecha y 
 hora de ingreso.
-- Debe existir una forma de comprobar el porcentaje de asistencia en un mes en particular.
+- El empleado debe tener una forma de comprobar el porcentaje de asistencia en un mes en particular.
 - Los empleados deben pertenecer a una empresa y se debe tener la posibilidad de extraer el
 porcentaje de asistencia del total en un mes de empleados de la empresa.
