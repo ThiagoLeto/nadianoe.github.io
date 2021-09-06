@@ -1,3 +1,6 @@
+## Ejercicio 
+- [enunciado](https://github.com/materiasipm/materiasipm.github.io/blob/master/labo/enunciado6deSeptiembre.md)
+
 ## Tarea 1 de Septiembre
 - [enunciado](https://github.com/materiasipm/materiasipm.github.io/blob/master/labo/enunciado1deSeptiembre.md)
 
