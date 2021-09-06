@@ -1,4 +1,4 @@
-Realizar un sistema que controle la asistencia de un empleado a su trabajo.
+Realizar un sistema que controle la asistencia de un empleado.
 
 - El empleado debe tener un nombre, apellido, teléfono, fecha de nacimiento y qué días de lunes 
 a viernes debe asistir. 
