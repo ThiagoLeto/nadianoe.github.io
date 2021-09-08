@@ -11,10 +11,11 @@ En el caso de la suma, deberán utilizar la función parseInt() para
 que el lenguaje no confunda la suma con la concatenación de strings.
 
 Ejemplo:
-
-var valorUno = document.getElementById("primerOperando").value;
-var valorDos = document.getElementById("segundoOperando").value;
-var resultado = parseInt(valorUno) + parseInt(valorDos);
+```
+let valorUno = document.getElementById("primerOperando").value;
+let valorDos = document.getElementById("segundoOperando").value;
+let resultado = parseInt(valorUno) + parseInt(valorDos);
+```
 
 Recordar que los inputs deberán tener como atributo type="number".
 
