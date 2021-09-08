@@ -1,3 +1,6 @@
+## Enunciado 8 de Septiembre
+- [enunciado](https://github.com/materiasipm/materiasipm.github.io/blob/master/labo/enunciado8deSeptiembre.md)
+
 ## Ejercicio 
 - [enunciado](https://github.com/materiasipm/materiasipm.github.io/blob/master/labo/enunciado6deSeptiembre.md)
 
