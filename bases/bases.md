@@ -1,5 +1,8 @@
 ## BASES DE DATOS
 
+## Ejercicio tipo exámen
+- [enunciado](https://github.com/materiasipm/materiasipm.github.io/blob/master/bases/modeloDeExamen.pdf.pdf)
+
 ## 25 de Agosto
 - [enunciado](https://github.com/materiasipm/materiasipm.github.io/blob/master/bases/enunciado25deAgosto.md)
 - [símbolos](https://github.com/materiasipm/materiasipm.github.io/blob/master/bases/simbolosDER.png)
