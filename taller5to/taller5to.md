@@ -2,7 +2,7 @@
 
 ## 10 de Septiembre
 - [ejemplo](https://github.com/materiasipm/materiasipm.github.io/blob/master/taller5to/ejemplo10deSeptiembre.js)
-- [enunciado]()
+- [enunciado](https://github.com/materiasipm/materiasipm.github.io/blob/ed2f2ef98a378def04f516765b5d2cb314d899ee/taller5to/enunciado10deSeptiembre.md)
 
 ## 3 de Septiembre
 - [ejercicio](https://github.com/materiasipm/materiasipm.github.io/blob/master/taller5to/enunciado3deSeptiembre.md)
