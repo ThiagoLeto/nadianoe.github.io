@@ -4,8 +4,8 @@ import java.util.HashSet;
 
 public class Madre extends Persona {
 
-    String empleo;
-    HashSet<Hijo> hijos;
+    private String empleo;
+    private HashSet<Hijo> hijos;
 
     public Madre(String nombre, String empleo, HashSet<Hijo> hijos) {
         super(nombre);
