@@ -6,7 +6,7 @@
 - [ejemplo 5](https://github.com/materiasipm/materiasipm.github.io/blob/master/labo/septiembre/13/TestsPersona.java)
 - [enunciado](https://github.com/materiasipm/materiasipm.github.io/blob/master/labo/septiembre/13/enunciado13deSeptiembre.md)
 
-## Tarea 8 de Septiembre
+## 8 de Septiembre
 - [enunciado](https://github.com/materiasipm/materiasipm.github.io/blob/master/labo/enunciado8deSeptiembre.md)
 
 ## Tarea 6 de Septiembre
