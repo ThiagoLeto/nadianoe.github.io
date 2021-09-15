@@ -7,7 +7,7 @@ import static org.junit.Assert.*;
 public class TestMadre {
 
     @Test
-    public void casoAgregarHijo(){
+    public void casoAgregadoDeHijo(){
         Madre madre = new Madre("Laura","ingeniera");
         Hijo hijo1 = new Hijo("Carlos",2);
         madre.agregarHijo(hijo1);
