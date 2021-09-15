@@ -29,15 +29,4 @@ public class TestsPersona {
         assertEquals(valorObtenido,valorEsperado);
     }
 
-    @Test
-    public void casoConPersonaDe18anios(){
-
-        Persona p = new Persona("Esteban",18);
-        boolean valorObtenido = p.esMayorDeEdad();
-        boolean valorEsperado = true;
-
-        assertTrue(valorObtenido);
-        assertEquals(valorObtenido,valorEsperado);
-    }
-
 }
