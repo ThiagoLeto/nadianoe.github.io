@@ -23,7 +23,7 @@ id igual a 15.
 estén asociados a los números de casos mayores a 6.000.000 y menores a 7.000.000
 9. Seleccionar el género y la edad de aquellas personas que pertenecen
 al barrio con id igual a 3.
-10. Seleccionar el nombre y el id de los barrios de los casos cuya clasificación es igual a "En Investigación".
+10. Seleccionar el nombre y el id de los barrios de los casos cuyo tipo de contagio es igual a "En Investigación".
 11. Seleccionar el nombre y el id de los barrios cuyos casos correspondan
 a personas menores de edad.
 12. Seleccionar el id, número de caso, género y edad de aquellos
