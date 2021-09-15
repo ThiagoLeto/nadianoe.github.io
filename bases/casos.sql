@@ -9,7 +9,7 @@ CREATE TABLE casos (
    fecha_toma_muestra  VARCHAR(50) NOT NULL,
    fecha_clasificacion VARCHAR(50) NOT NULL,
    provincia           VARCHAR(50 NOT NULL,
-   nombre_barrio       VARCHAR(50) NOT NULL,
+   barrio       VARCHAR(50) NOT NULL,
    comuna              INT  NOT NULL,
    genero              VARCHAR(50) NOT NULL,
    edad                INT  NOT NULL,
