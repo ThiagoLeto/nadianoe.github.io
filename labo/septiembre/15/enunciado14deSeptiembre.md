@@ -7,5 +7,5 @@
     en un álbum y otro método* que devuelva el artista más influyente (con más canciones) de un álbum. 
   - Debe existir un método* que devuelva una estructura de datos con todas las canciones escritas por autores de 
   una nacionalidad ingresada.
-  * Estos métodos deberán ser testeados con tests unitarios.
+  (*) Estos métodos deberán ser testeados con tests unitarios.
   
