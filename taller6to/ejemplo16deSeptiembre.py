@@ -11,9 +11,6 @@ if __name__ == '__main__':
     print(objeto_sopa.prettify())
     print(objeto_sopa.children)
     listaDeObjetos = list(objeto_sopa.children)
-    for elem in listaDeObjetos:
-        print("tipo: ", type(elem), "\n")
-        print(elem, "\n")
 
     e1 = objeto_sopa.find_all('div', class_='entry-content')
     e2 = objeto_sopa.find_all(class_="outer-text")
@@ -22,7 +19,6 @@ if __name__ == '__main__':
     print(e1[0].prettify())
 
     f1 = objeto_sopa.select("div p")
-    print(f1)
     f2 = objeto_sopa.select("p.valor-de-clase")
     f3 = objeto_sopa.select("p#valor-de-id")
 
@@ -47,7 +43,6 @@ if __name__ == '__main__':
     print(k)
 
     objeto_sopa.find_all('p')
-    objeto_sopa.find_all('p')[0].get_text()
     objeto_sopa.find('p')
     objeto_sopa.find_all(class_="outer-text")
     objeto_sopa.find_all('p', class_='outer-text')
