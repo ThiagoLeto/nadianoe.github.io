@@ -2,6 +2,7 @@
 
 ## 16 de Septiembre
 - [ejemplo](https://github.com/materiasipm/materiasipm.github.io/blob/master/taller6to/ejemplo16deSeptiembre.py)
+- [enunciado](https://github.com/materiasipm/materiasipm.github.io/blob/master/taller6to/enunciado16deSeptiembre.md)
 
 ## 2 de Septiembre
 - [nota](https://github.com/materiasipm/materiasipm.github.io/blob/master/taller6to/enunciado2deSeptiembre.md)
