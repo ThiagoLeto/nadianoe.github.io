@@ -1,0 +1,2 @@
+- Elegir una API y realizar una petición de tipo "GET" utilizando una llamada Ajax.
+- Mostrar en la página la información recibida. El estilo para mostrar la información es a elección.
