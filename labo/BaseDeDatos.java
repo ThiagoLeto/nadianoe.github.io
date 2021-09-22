@@ -37,7 +37,8 @@ public class BaseDeDatos {
 
     }
 
-    public void insert(String consulta) {
+    /* INSERT, UPDATE, DELETE */
+    public void realizarConsulta(String consulta) {
 
         try {
             Statement sentencia = conexion.createStatement();
@@ -48,31 +49,6 @@ public class BaseDeDatos {
             excepcion.printStackTrace();
         }
     }
-
-    public void update(String consulta){
-
-        try {
-            Statement sentencia = conexion.createStatement();
-            sentencia.execute(consulta);
-            sentencia.close();
-
-        } catch (SQLException excepcion) {
-            excepcion.printStackTrace();
-        }
-    }
-
-    public void delete(String consulta) {
-
-        try {
-            Statement sentencia = conexion.createStatement();
-            sentencia.execute(consulta);
-            sentencia.close();
-
-        } catch (SQLException excepcion) {
-            excepcion.printStackTrace();
-        }
-    }
-
 
     public void imprimirDatos() {
 
@@ -97,9 +73,9 @@ public class BaseDeDatos {
         }
     }
 
-    public ArrayList<String> obtenerColumnasDeTabla() {
+    public ArrayList<String> obtenerNombresDeColumnas() {
 
-        String consulta = "SHOW COLUMNS FROM " + nombreTabla;
+        String consulta = "SHOW COLUMNS FROM " + this.nombreTabla;
         ArrayList<String> nombresDeCampos = new ArrayList<>();
 
         try {
@@ -109,6 +85,7 @@ public class BaseDeDatos {
 
             while (resultado.next()) {
                 String nombreDeColumna = resultado.getString("field");
+                String tipo =resultado.getString("type");
                 nombresDeCampos.add(nombreDeColumna);
             }
 
