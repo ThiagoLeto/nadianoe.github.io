@@ -14,5 +14,5 @@
 
 - [Bootstrap](https://getbootstrap.com/)
 - [Documentación - CSS](https://developer.mozilla.org/es/docs/Web/CSS/Reference)
-- [Página interactiva para conocer y utilizar los atributos existentes](https://devdocs.io/css/)
+- [Página interactiva para conocer y utilizar atributos css](https://devdocs.io/css/)
 
