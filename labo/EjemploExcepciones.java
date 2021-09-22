@@ -52,9 +52,7 @@ class Persona {
         this.edad = edad;
     }
 
-    public void validarEdad(int edad) */
-/* throws EdadInvalidaException *//*
- {
+    public void validarEdad(int edad) throws EdadInvalidaException {
         if (edad < 0 || edad >= 102){
             throw new EdadInvalidaException();
         }
@@ -78,6 +76,15 @@ class Persona {
     }
 }
 
+class EdadInvalidaException extends Exception {
+
+    @Override
+    public String getMessage() {
+        String mensaje = "las edades sólo pueden ser mayores o iguales a cero \n" +
+                         "Vuelva a ingresar sus datos.";
+        return mensaje;
+    }
+}
 
 class Consola {
 
@@ -93,3 +100,4 @@ class Consola {
         return valorIngresado;
     }
 }
+
