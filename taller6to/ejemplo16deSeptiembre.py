@@ -1,4 +1,5 @@
 import requests
+import pandas as pd
 from bs4 import BeautifulSoup
 
 if __name__ == '__main__':
@@ -47,6 +48,19 @@ if __name__ == '__main__':
     objeto_sopa.find_all(class_="outer-text")
     objeto_sopa.find_all('p', class_='outer-text')
     objeto_sopa.find_all(id="first")
+    
+    # Forma de crear un data frame a partir de un diccionario
+    
+    diccionario = {  'Weight': [23, 88, 56, 15, 71],
+                       'Name': ['Sam', 'Andrea', 'Alex', "nan", 'Kia'],
+                        'Age': [14, 25, 55, 8, 21]
+                  }
+
+    dataframe = pd.DataFrame(diccionario)
+    
+    # método para crear un archivo csv
+    
+    dataframe.to_csv("nuevo_dataset.csv")
 
     # documentación
     # https://www.crummy.com/software/BeautifulSoup/bs4/doc/
