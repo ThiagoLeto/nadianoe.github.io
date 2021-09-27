@@ -1,4 +1,4 @@
-- Crear la clase Tienda que contiene un registro de los productos
+- Crear la clase Tienda; la misma debe contener un registro de los productos
 vendidos y los productos que ofrece.
 - Cada producto tiene un código, nombre, stock y precio.
 - Agregar a la clase Producto una variable estática que represente el porcentaje
