@@ -8,7 +8,7 @@ CREATE TABLE casos (
    fecha_apertura_snvs VARCHAR(50) NOT NULL,
    fecha_toma_muestra  VARCHAR(50) NOT NULL,
    fecha_clasificacion VARCHAR(50) NOT NULL,
-   provincia           VARCHAR(50 NOT NULL,
+   provincia           VARCHAR(50) NOT NULL,
    nombre_barrio       VARCHAR(50) NOT NULL,
    nro_comuna              INT  NOT NULL,
    genero              VARCHAR(50) NOT NULL,
