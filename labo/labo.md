@@ -5,6 +5,9 @@
 - [ejemplo | conexión de java con mysql](https://github.com/materiasipm/materiasipm.github.io/blob/master/labo/BaseDeDatos.java)
 - [enunciado](https://github.com/materiasipm/materiasipm.github.io/blob/master/labo/enunciado22deSeptiembre.md)
 
+## 29 de Septiembre
+- [enunciado](https://github.com/materiasipm/materiasipm.github.io/blob/master/labo/enunciado29deSeptiembre.md)
+
 ## Tarea 27 de Septiembre
 - [enunciado](https://github.com/materiasipm/materiasipm.github.io/blob/master/labo/enunciado27deSeptiembre.md)
 
