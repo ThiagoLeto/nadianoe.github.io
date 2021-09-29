@@ -1,5 +1,9 @@
 ## BASES DE DATOS
 
+## Tarea 29 de Septiembre
+Crear los DER de los siguientes enunciados utilizandos los dos tipos de notaciones vistos.
+- [enunciados](https://github.com/materiasipm/materiasipm.github.io/blob/master/bases/Ejercicios%20DER%20II.pdf)
+
 ## Enunciado 15 de Septiembre
 
 - [enunciado](https://github.com/materiasipm/materiasipm.github.io/blob/master/bases/enunciado15deSeptiembre.md)
