@@ -3,3 +3,4 @@
 - Graficar la relación que existe entre las variables utilizando
 Seaborn. 
 - Realizar una descripción de cada gráfico obtenido.
+- El trabajo deberá ser entregado en un archivo .ipynb
