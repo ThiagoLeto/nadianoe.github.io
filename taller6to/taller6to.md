@@ -3,7 +3,7 @@
 ## 30 de Septiembre
 - [dataset](https://github.com/materiasipm/materiasipm.github.io/blob/master/taller6to/datosDeVacunasDadas.csv)
 - [ejemplo](https://github.com/materiasipm/materiasipm.github.io/blob/master/taller6to/ejemploConSeaborn.ipynb)
-- [enunciado]()
+- [enunciado](https://github.com/materiasipm/materiasipm.github.io/blob/master/taller6to/enunciado30deSeptiembre.md)
 ## 16 de Septiembre
 - [ejemplo](https://github.com/materiasipm/materiasipm.github.io/blob/master/taller6to/ejemplo16deSeptiembre.py)
 - [enunciado](https://github.com/materiasipm/materiasipm.github.io/blob/master/taller6to/enunciado16deSeptiembre.md)
