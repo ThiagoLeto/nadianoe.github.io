@@ -1,12 +1,15 @@
 package com.company;
 
+import java.util.ArrayList;
 import java.util.InputMismatchException;
 import java.util.Scanner;
 
-public class EjemploExcepciones {
+public class OtroEjemplo {
 
     public static void main(String[] args) {
 
+        ArrayList<Persona> personasRegistradas = new ArrayList<>();
+        
         boolean registroRealizado = false;
 
         while (!registroRealizado) {
@@ -19,9 +22,9 @@ public class EjemploExcepciones {
                 System.out.println("Ingrese su edad: ");
                 int edad = Consola.obtenerNumeroEntero();
 
-                Persona persona = new Persona(nombre);
-                persona.setEdad(edad);
-
+                Persona persona = new Persona(nombre,edad);
+                personasRegistradas.add(persona);
+                
                 registroRealizado = true;
                 System.out.println("¡Registro realizado!");
 
@@ -29,7 +32,7 @@ public class EjemploExcepciones {
                 excepcion.printStackTrace();
                 System.out.println(excepcion.getMessage());
 
-            } catch (InputMismatchException excepcion){
+            } catch (InputMismatchException excepcion) {
                 excepcion.printStackTrace();
                 System.out.println("Tipos de datos incorrectos, ingrese de nuevo.");
             }
@@ -42,13 +45,15 @@ class Persona {
     private String nombre;
     private int edad;
 
-    public Persona(String nombre) {
+    public Persona(String nombre) throws EdadInvalidaException {
         this.nombre = nombre;
+        validarEdad(edad);
         this.edad = 0;
     }
 
-    public Persona(String nombre, int edad) {
+    public Persona(String nombre, int edad) throws EdadInvalidaException {
         this.nombre = nombre;
+        validarEdad(edad);
         this.edad = edad;
     }
 
@@ -70,7 +75,7 @@ class Persona {
         return edad;
     }
 
-    public void setEdad(int edad){
+    public void setEdad(int edad) throws EdadInvalidaException {
         validarEdad(edad);
         this.edad = edad;
     }
@@ -81,7 +86,7 @@ class EdadInvalidaException extends Exception {
     @Override
     public String getMessage() {
         String mensaje = "las edades sólo pueden ser mayores o iguales a cero \n" +
-                         "Vuelva a ingresar sus datos.";
+                "Vuelva a ingresar sus datos.";
         return mensaje;
     }
 }
@@ -100,4 +105,3 @@ class Consola {
         return valorIngresado;
     }
 }
-
