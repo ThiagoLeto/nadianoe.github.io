@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.InputMismatchException;
 import java.util.Scanner;
 
-public class OtroEjemplo {
+public class  EjemploExcepciones {
 
     public static void main(String[] args) {
 
