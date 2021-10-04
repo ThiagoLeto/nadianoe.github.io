@@ -1,9 +1,9 @@
-## Temas 4 de Octubre
-- [ejemplo | excepciones](https://github.com/materiasipm/materiasipm.github.io/blob/master/labo/EjemploExcepciones.java)
-- [ejemplo | lectura de archivos](https://github.com/materiasipm/materiasipm.github.io/blob/master/labo/LeerArchivo.java)
-- [ejemplo | escritura de archivos](https://github.com/materiasipm/materiasipm.github.io/blob/master/labo/EscribirArchivo.java)
-- [ejemplo | conexión de java con mysql](https://github.com/materiasipm/materiasipm.github.io/blob/master/labo/BaseDeDatos.java)
-- [enunciado](https://github.com/materiasipm/materiasipm.github.io/blob/master/labo/enunciado22deSeptiembre.md)
+## Tarea 4 de Octubre
+- [ejemplo | manejo de errores y excepciones](https://github.com/materiasipm/materiasipm.github.io/blob/master/labo/octubre/EjemploExcepciones.java)
+- [ejemplo | lectura y escritura de archivos](https://github.com/materiasipm/materiasipm.github.io/blob/master/labo/octubre/EjemploLecturaYEscrituraDeArchivos.java)
+- [ejemplo | conexión java-mysql](https://github.com/materiasipm/materiasipm.github.io/blob/master/labo/octubre/AccesoBaseDeDatos.java)
+- [descargar mysql-connector-java-8.0.21.jar](https://github.com/materiasipm/materiasipm.github.io/blob/master/labo/octubre/raw/master/mysql-connector-java-8.0.21.jar)
+- [enunciado](https://github.com/materiasipm/materiasipm.github.io/blob/master/labo/octubre/enunciado4deOctubre.md)
 
 ## 29 de Septiembre
 - [enunciado](https://github.com/materiasipm/materiasipm.github.io/blob/master/labo/enunciado29deSeptiembre.md)
