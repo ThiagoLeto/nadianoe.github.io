@@ -1,9 +1,11 @@
+## Tarea 6 de Octubre
+- [lectura y escritura de archivos](https://github.com/materiasipm/materiasipm.github.io/blob/master/labo/octubre/EjemploLecturaYEscrituraDeArchivos.java)
+- [conexión java-mysql](https://github.com/materiasipm/materiasipm.github.io/blob/master/labo/octubre/AccesoBaseDeDatos.java)
+- [descargar mysql-connector-java-8.0.21.jar](https://github.com/materiasipm/materiasipm.github.io/raw/master/labo/octubre/mysql-connector-java-8.0.21.jar)
+
 ## Tarea 4 de Octubre
 - [iteradores](https://github.com/materiasipm/materiasipm.github.io/blob/master/labo/octubre/Iteradores.java)
 - [manejo de errores y excepciones](https://github.com/materiasipm/materiasipm.github.io/blob/master/labo/octubre/EjemploExcepciones.java)
-  - [lectura y escritura de archivos](https://github.com/materiasipm/materiasipm.github.io/blob/master/labo/octubre/EjemploLecturaYEscrituraDeArchivos.java)
-  - [conexión java-mysql](https://github.com/materiasipm/materiasipm.github.io/blob/master/labo/octubre/AccesoBaseDeDatos.java)
-  - [descargar mysql-connector-java-8.0.21.jar](https://github.com/materiasipm/materiasipm.github.io/raw/master/labo/octubre/mysql-connector-java-8.0.21.jar)
 - [enunciado](https://github.com/materiasipm/materiasipm.github.io/blob/master/labo/octubre/enunciado4deOctubre.md)
 
 ## 29 de Septiembre
