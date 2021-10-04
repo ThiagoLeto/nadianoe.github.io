@@ -13,6 +13,8 @@ public class Iteradores {
         personas.add("Juan");
         personas.add("María");
         personas.add("Rosa");
+        
+        //<"Juan","Maria","Rosa">
 
         Iterator iterador = personas.iterator();
 
