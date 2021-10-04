@@ -2,7 +2,63 @@ package com.company;
 
 import java.util.ArrayList;
 import java.util.InputMismatchException;
+import java.util.ConcurrentModificationException;
 import java.util.Scanner;
+
+class Ejemplo1 {
+
+    public static void main(String[] args) {
+
+        ArrayList<Integer> b = new ArrayList<>();
+        b.add(1);
+        b.add(2);
+        b.add(3);
+
+        try {
+
+            b.get(9);
+
+            for (Integer numero : b) {
+                b.remove(numero);
+            }
+
+        } catch (IndexOutOfBoundsException exception1) {
+            exception1.printStackTrace();
+        } catch (ConcurrentModificationException exception2){
+            exception2.printStackTrace();
+        }
+    }
+}
+
+class Ejemplo2 {
+
+    public static void main(String[] args) {
+
+        try {
+
+            String s = null;
+            s.length();
+
+        } catch (NullPointerException exception2){
+            String m = exception2.getMessage();
+            System.out.println(m);
+        }
+    }
+}
+
+class Ejemplo3 {
+
+    public static void main(String[] args) {
+
+        try {
+
+            int res = 1 / 0;
+
+        } catch (ArithmeticException e) {
+            System.out.println(e.toString());
+        }
+    }
+}
 
 public class  EjemploExcepciones {
 
