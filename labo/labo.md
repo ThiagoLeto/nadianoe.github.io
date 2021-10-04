@@ -1,6 +1,7 @@
 ## Tarea 4 de Octubre
 - [ejemplo | manejo de errores y excepciones](https://github.com/materiasipm/materiasipm.github.io/blob/master/labo/octubre/EjemploExcepciones.java)
 - [ejemplo | lectura y escritura de archivos](https://github.com/materiasipm/materiasipm.github.io/blob/master/labo/octubre/EjemploLecturaYEscrituraDeArchivos.java)
+- [iteradores](https://github.com/materiasipm/materiasipm.github.io/blob/master/labo/octubre/Iteradores.java)
 - [ejemplo | conexión java-mysql](https://github.com/materiasipm/materiasipm.github.io/blob/master/labo/octubre/AccesoBaseDeDatos.java)
 - [descargar mysql-connector-java-8.0.21.jar](https://github.com/materiasipm/materiasipm.github.io/raw/master/labo/octubre/mysql-connector-java-8.0.21.jar)
 - [enunciado](https://github.com/materiasipm/materiasipm.github.io/blob/master/labo/octubre/enunciado4deOctubre.md)
