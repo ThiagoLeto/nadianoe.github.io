@@ -1,5 +1,5 @@
-|  alumnos                            	| t1 | 	compañero  |	prueba 15/09 |
-|---------------------------------------|----|-------------|---------------|
+|  alumnos                            	| taller (lección oral) | 	compañero 15/09  |	prueba 15/09 |
+|---------------------------------------|-----------------------|--------------------|---------------|
 | ABDALA, Agustin Ezequiel	 		         | 10	| Aversa |	8 |
 | AUDISIO, Lucas Ezequiel		           	| 9,5	| Gonzalez |	8 |
 | AVERSA, Noelia					                  | 10 |	Abdala |	8 |
