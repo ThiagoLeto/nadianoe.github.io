@@ -1,5 +1,5 @@
-|  alumnos                            	| t1 | 	compañero  |	bd1 |
-|--------------------------------------|----|-------------|-----|
+|  alumnos                            	| t1 | 	compañero  |	preuba 15/09 |
+|---------------------------------------|----|-------------|---------------|
 | ABDALA, Agustin Ezequiel	 		         | 10	| Aversa |	8 |
 | AUDISIO, Lucas Ezequiel		           	| 9,5	| Gonzalez |	8 |
 | AVERSA, Noelia					                  | 10 |	Abdala |	8 |
