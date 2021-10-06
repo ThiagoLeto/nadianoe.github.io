@@ -1,5 +1,8 @@
 ## TALLER DE INNOVACIONES TECNOLÓGICAS
 
+## 6 de Octubre
+- [enunciado](https://github.com/materiasipm/materiasipm.github.io/blob/master/taller4to/enunciado6deOctubre.md)
+
 ## 29 de Septiembre
 - [ejemplo](https://github.com/materiasipm/materiasipm.github.io/blob/master/taller4to/ejemploTabla29deSeptiembre.html)
 
