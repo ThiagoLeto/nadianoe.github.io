@@ -1,5 +1,8 @@
 ## TALLER DE TECNOLOGÍAS DE SOPORTE INFORMÁTICO
 
+## 1 de Octubre
+- [ejemplo](https://github.com/materiasipm/materiasipm.github.io/blob/master/taller5to/ejemploDePeticiones.js)
+
 ## 17 de Septiembre
 - [ejemplo](https://github.com/materiasipm/materiasipm.github.io/blob/5853f62c490bfe4bc3d76c80b2602c59ebb0a9bd/taller5to/ejemplo17deSeptiembre.md)
 - [enunciado](https://github.com/materiasipm/materiasipm.github.io/blob/master/taller5to/enunciado17deSeptiembre.md)
