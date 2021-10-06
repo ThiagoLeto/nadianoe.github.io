@@ -124,6 +124,6 @@ public class AccesoBaseDeDatos {
     Colocar mysql-connector-java-8.0.21.jar en una carpeta llamada lib
 
     File -> Project Structure -> + -> JARs y directorios ->
-    seleccionar mongo-java-driver -> tildar -> aplicar -> ok
+    seleccionar mysql-connector-java-8.0.21.jar -> tildar -> aplicar -> ok
     */
 }
