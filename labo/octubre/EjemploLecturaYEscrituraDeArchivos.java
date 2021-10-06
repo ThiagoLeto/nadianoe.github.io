@@ -20,14 +20,14 @@ public class EjemploLecturaYEscrituraDeArchivos {
         try {
 
             archivoAEscribir = new FileWriter(archivo);
-            BufferedWriter escribir = new BufferedWriter(archivoAEscribir);
+            BufferedWriter escritura = new BufferedWriter(archivoAEscribir);
 
 
             for (int i = 0; i < 10; i++) {
-                escribir.write("Holaaa! \n");
+                escritura.write("Holaaa! \n");
             }
 
-            escribir.close();
+            escritura.close();
 
         } catch (IOException e) {
             e.printStackTrace();
@@ -41,15 +41,15 @@ public class EjemploLecturaYEscrituraDeArchivos {
 
         try {
             archivoAleer = new FileReader(archivo);
-            BufferedReader leer = new BufferedReader(archivoAleer);
-            String linea = leer.readLine();
+            BufferedReader lectura = new BufferedReader(archivoAleer);
+            String linea = lectura.readLine();
 
             while(linea != null) {
                 System.out.println(linea);
-                linea = leer.readLine();
+                linea = lectura.readLine();
             }
 
-            leer.close();
+            lectura.close();
 
         } catch (IOException e) {
             e.printStackTrace();
