@@ -1,11 +1,14 @@
 ## TALLER DE TECNOLOGÍAS DE SOPORTE INFORMÁTICO
 
 ## 1 de Octubre
-- [ejemplo](https://github.com/materiasipm/materiasipm.github.io/blob/master/taller5to/ejemploDePeticiones.js)
+- [ejemplos de peticiones realizadas con llamadas Ajax](https://github.com/materiasipm/materiasipm.github.io/blob/master/taller5to/ejemploDePeticiones.js)
+- [Códigos de estado de respuesta HTTP](https://developer.mozilla.org/es/docs/Web/HTTP/Status)
+- [API's parte 2 | ejemplos](https://github.com/materiasipm/materiasipm.github.io/blob/master/1deOctubre.md)
 
 ## 17 de Septiembre
 - [ejemplo](https://github.com/materiasipm/materiasipm.github.io/blob/5853f62c490bfe4bc3d76c80b2602c59ebb0a9bd/taller5to/ejemplo17deSeptiembre.md)
 - [enunciado](https://github.com/materiasipm/materiasipm.github.io/blob/master/taller5to/enunciado17deSeptiembre.md)
+- [API's parte 1 | ejemplos](https://github.com/materiasipm/materiasipm.github.io/blob/master/taller5to/algunasApisParte1.md)
 
 ## 10 de Septiembre
 - [ejemplo](https://github.com/materiasipm/materiasipm.github.io/blob/master/taller5to/ejemplo10deSeptiembre.js)
