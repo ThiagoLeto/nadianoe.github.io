@@ -5,8 +5,9 @@
 - [estilo.css](https://github.com/materiasipm/materiasipm.github.io/blob/master/taller4to/estilo.css)
 - [jquery](https://github.com/materiasipm/materiasipm.github.io/blob/master/taller4to/jquery-3.6.0.js)
 - [imagen utilizada](https://github.com/materiasipm/materiasipm.github.io/blob/master/taller4to/perrito.jpeg)
-- [todo comprimido](https://github.com/materiasipm/materiasipm.github.io/blob/master/taller4to/13deSeptiembreTaller4to.zip)
-
+- [animaciones con jquery](https://github.com/materiasipm/materiasipm.github.io/blob/master/taller4to/muestrasAnimaciones.html)
+- [funciones](https://github.com/materiasipm/materiasipm.github.io/blob/master/taller4to/muestras.js)
+- [archivos comprimidos](https://github.com/materiasipm/materiasipm.github.io/blob/master/taller4to/13deSepTaller4to.zip)
 
 
 ## 6 de Octubre
