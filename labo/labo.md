@@ -1,6 +1,18 @@
 ## Notas 2do cuatrimestre
 - [notas](https://github.com/materiasipm/materiasipm.github.io/blob/master/labo/notas.md)
 
+## Tarea 18 de Octubre
+- [conexión java-mongo | ](https://github.com/materiasipm/materiasipm.github.io/blob/master/labo/octubre/AccesoMongoDB.java)[descargar mongo-java-driver-3.4.2.jar](https://github.com/materiasipm/materiasipm.github.io/raw/master/labo/octubre/mongo-java-driver-3.4.2.jar)
+
+## Tarea 13 de Octubre
+- [fechas y horas](https://github.com/materiasipm/materiasipm.github.io/raw/master/labo/octubre/EjemploTiempo.java)
+- [Trabajo con archivos JSON](https://github.com/materiasipm/materiasipm.github.io/raw/master/labo/octubre/EjemploSerializacion.java)
+- [descargar jackson-annotations-2.11.2.jar](https://github.com/materiasipm/materiasipm.github.io/raw/master/labo/octubre/jackson/jackson-annotations-2.11.2.jar)
+- [descargar jackson-core-2.11.2.jar](https://github.com/materiasipm/materiasipm.github.io/raw/master/labo/octubre/jackson/jackson-core-2.11.2.jar)
+- [descargar jackson-databind-2.11.2.jar](https://github.com/materiasipm/materiasipm.github.io/raw/master/labo/octubre/jackson/jackson-databind-2.11.2.jar)
+- [ejemplo de api rest con Spring Boot](https://github.com/materiasipm/materiasipm.github.io/raw/master/labo/octubre/EjemploApiRest.zip)
+
+
 ## Tarea 6 de Octubre
 - [lectura y escritura de archivos](https://github.com/materiasipm/materiasipm.github.io/blob/master/labo/octubre/EjemploLecturaYEscrituraDeArchivos.java)
 - [conexión java-mysql | ](https://github.com/materiasipm/materiasipm.github.io/blob/master/labo/octubre/AccesoBaseDeDatos.java) [descargar mysql-connector-java-8.0.21.jar](https://github.com/materiasipm/materiasipm.github.io/raw/master/labo/octubre/mysql-connector-java-8.0.21.jar)
