@@ -11,7 +11,7 @@
 - [descargar jackson-core-2.11.2.jar](https://github.com/materiasipm/materiasipm.github.io/raw/master/labo/octubre/jackson/jackson-core-2.11.2.jar)
 - [descargar jackson-databind-2.11.2.jar](https://github.com/materiasipm/materiasipm.github.io/raw/master/labo/octubre/jackson/jackson-databind-2.11.2.jar)
 - [ejemplo de api rest con Spring Boot](https://github.com/materiasipm/materiasipm.github.io/raw/master/labo/octubre/EjemploApiRest.rar)
-- [links - apis](https://github.com/materiasipm/materiasipm.github.io/blob/master/labo/octubre/links_apis.md)
+- [documentación de Spring Boot](https://github.com/materiasipm/materiasipm.github.io/blob/master/labo/octubre/links_apis.md)
 - [enunciado](https://github.com/materiasipm/materiasipm.github.io/blob/master/labo/octubre/enunciado13deOctubre.md)
 
 ## Tarea 6 de Octubre
