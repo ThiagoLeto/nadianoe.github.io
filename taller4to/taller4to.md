@@ -1,5 +1,14 @@
 ## TALLER DE INNOVACIONES TECNOLÓGICAS
 
+## 13 de Octubre
+- [ejemplo.html](https://github.com/materiasipm/materiasipm.github.io/blob/master/taller4to/ejemplo.html)
+- [estilo.css](https://github.com/materiasipm/materiasipm.github.io/blob/master/taller4to/estilo.css)
+- [jquery](https://github.com/materiasipm/materiasipm.github.io/blob/master/taller4to/jquery-3.6.0.js)
+- [imagen utilizada](https://github.com/materiasipm/materiasipm.github.io/blob/master/taller4to/perrito.jpeg)
+- [todo comprimido](https://github.com/materiasipm/materiasipm.github.io/blob/master/taller4to/13deSeptiembreTaller4to.zip)
+
+
+
 ## 6 de Octubre
 - [enunciado](https://github.com/materiasipm/materiasipm.github.io/blob/master/taller4to/enunciado6deOctubre.md)
 
