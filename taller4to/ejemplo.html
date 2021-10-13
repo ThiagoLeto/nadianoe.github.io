@@ -1,15 +1,117 @@
 <!DOCTYPE html>
 <html lang="en">
-	<head>
-		<meta charset="UTF-8">
-		<link rel="stylesheet" href="estilo.css">
-		<title>Experimentos</title>
-	</head>
-	<body>
+    <head>
+        <meta charset="UTF-8">
+        <title>Title</title>
+        <script src="jquery-3.6.0.js"></script>
+        <link rel="stylesheet" href="estilo.css">
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-KyZXEAg3QhqLMpG8r+8fhAXLRk2vvoC2f3B09zVXn8CA5QIVfZOJ3BCsw2P0p/We" crossorigin="anonymous">
 
-		<img src="perro.jpeg" alt="imagen de perrito">
+    </head>
+    <body>
 
-		<h6>Holaa!</h6>
+    
+        <h3></h3>
 
-	</body>
+        <h1 class="titulosH1"></h1>
+        <h1 class="titulosH1"></h1>
+        <h1 class="titulosH1"></h1>
+
+        <button onclick="cambiarColores()"> cambiar colores </button>
+        <button onclick="describirColores()"> describir colores </button>
+        <button onclick="colocarContenido()"> colocar contenido </button>
+
+        <br>
+
+        <input id="nombre" type="text">
+
+        <br>
+
+        <img src="perrito.jpeg" onmouseover="agrandar()" id="perro">
+
+
+
+    </body>
+
+    <script>
+
+        function cambiarColores() {
+            $(".titulosH1").css("color","rgb(83, 37, 98)");
+            $("body").css("background-color","#1A8080");
+        }
+
+        function describirColores() {
+            let colorTitulosH1 = $(".titulosH1").css("background-color");
+            let colorFondo = $("body").css("background-color");
+
+            let mensaje = "El color de los titulos h1 es " + colorTitulosH1 + "\n";
+            mensaje = mensaje + "El color del fondo es " + colorFondo;
+
+            alert(mensaje);
+        }
+
+        function agrandar(){
+            $("#perro").width("8cm");
+            $("#perro").height("8cm");
+            /* js puro
+            let imagenDePerro = document.getElementById("perro");
+            imagenDePerro.style.width = "8cm";
+            imagenDePerro.style.height = "8cm";
+            */
+        }
+
+
+        /*
+
+        let elementosH3 = document.getElementsByTagName("h3");
+        let primerElementoH3 = elementosH3[0];
+        primerElementoH3.innerText = "Título h3";
+
+
+        let elementosH1 = document.getElementsByTagName("h1");
+        for (let i = 0; i < elementosH1.length; i++) {
+            elemento = elementosH1[i];
+            elemento.innerText =  "título h1";
+        }
+        */
+
+        function colocarContenido(){
+            $("h3").text("Titulo h3");
+            $("h1").text("título h1");
+        }
+
+        
+        
+        function eliminar() {
+            $(".titulosH1").remove();
+            /* js puro
+            let titulos = document.getElementsByClassName("titulosH1");
+            let body = document.getElementById("body");
+            let cantidad = titulos.length;
+            for (let i = 0; i < cantidad; i++) {
+                unTitulo = titulos[0];
+                body.removeChild(unTitulo);
+            }
+            */
+        }
+
+
+        $("#nombre").val("hola");
+        let valor = $("#nombre").val();
+
+
+        function agregarElemento(){
+            let body = document.getElementsByTagName("body");
+            body.append('<input type="text">');
+            /*
+            let inputNombre = document.createElement("input");
+            inputNombre.setAttribute("type","text");
+            body.append(inputNombre);
+            */
+        }
+
+
+
+    </script>
+
 </html>
