@@ -1,0 +1,3 @@
+- [Spring Boot 2.5.5 API](https://docs.spring.io/spring-boot/docs/current/api/)
+- [Package org.springframework.web.bind.annotation](https://docs.spring.io/spring-framework/docs/current/javadoc-api/org/springframework/web/bind/annotation/package-summary.html)
+- [Package org.springframework.stereotype](https://docs.spring.io/spring-framework/docs/current/javadoc-api/org/springframework/stereotype/package-summary.html)
