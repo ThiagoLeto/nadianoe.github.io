@@ -11,7 +11,7 @@
 - [descargar jackson-core-2.11.2.jar](https://github.com/materiasipm/materiasipm.github.io/raw/master/labo/octubre/jackson/jackson-core-2.11.2.jar)
 - [descargar jackson-databind-2.11.2.jar](https://github.com/materiasipm/materiasipm.github.io/raw/master/labo/octubre/jackson/jackson-databind-2.11.2.jar)
 - [ejemplo de api rest con Spring Boot](https://github.com/materiasipm/materiasipm.github.io/raw/master/labo/octubre/EjemploApiRest.rar)
-
+- [enunciado](https://github.com/materiasipm/materiasipm.github.io/blob/master/labo/octubre/enunciado13deOctubre.md)
 
 ## Tarea 6 de Octubre
 - [lectura y escritura de archivos](https://github.com/materiasipm/materiasipm.github.io/blob/master/labo/octubre/EjemploLecturaYEscrituraDeArchivos.java)
