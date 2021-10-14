@@ -7,7 +7,8 @@ if __name__ == '__main__':
     archivo = open("hola.csv", "w")
     nombres_columnas = "mensaje , status \n"
     archivo.write(nombres_columnas)
-
+    archivo.close()
+    
     for i in range(10):
         respuesta = requests.get('https://dog.ceo/api/breeds/image/random')
         respuesta.status_code
