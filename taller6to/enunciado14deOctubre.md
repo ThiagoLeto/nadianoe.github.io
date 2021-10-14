@@ -1,0 +1,5 @@
+- Elegir una api y realizar las peticiones necesarias para crear un set de datos
+- El set de datos obtenido deberá tener
+  - extensión .csv
+  - al menos 20 lineas 
+  - al menos 3 columnas.
