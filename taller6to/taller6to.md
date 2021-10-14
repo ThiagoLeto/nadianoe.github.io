@@ -1,5 +1,9 @@
 ## TALLER DE TECNOLOGÍAS DE SOPORTE INFORMÁTICO
 
+## 14 de Octubre
+- [ejemplo](https://github.com/materiasipm/materiasipm.github.io/blob/master/taller6to/ejemplo14deOctubre.py)
+- [enunciado](https://github.com/materiasipm/materiasipm.github.io/blob/master/taller6to/enunciado14deOctubre.md)
+
 ## 30 de Septiembre
 - [dataset](https://github.com/materiasipm/materiasipm.github.io/blob/master/taller6to/datosDeVacunasDadas.csv)
 - [ejemplo](https://github.com/materiasipm/materiasipm.github.io/blob/master/taller6to/ejemploConSeaborn.ipynb)
