@@ -1,5 +1,8 @@
 ## TALLER DE TECNOLOGÍAS DE SOPORTE INFORMÁTICO
 
+## 15 de Octubre
+- [enunciado](https://github.com/materiasipm/materiasipm.github.io/blob/master/taller5to/enunciado15deOctubre.md)
+
 ## 1 de Octubre
 - [ejemplos de peticiones realizadas con llamadas Ajax](https://github.com/materiasipm/materiasipm.github.io/blob/master/taller5to/ejemploDePeticiones.js)
 - [Códigos de estado de respuesta HTTP](https://developer.mozilla.org/es/docs/Web/HTTP/Status)

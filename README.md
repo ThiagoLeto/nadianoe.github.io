@@ -10,10 +10,15 @@
 
 ## [TALLER DE TECNOLOGÍAS DE SOPORTE INFORMÁTICO - 6TO](https://github.com/materiasipm/materiasipm.github.io/blob/master/taller6to/taller6to.md#taller-de-tecnolog%C3%ADas-de-soporte-inform%C3%A1tico)
 
+## [TALLER DE PROGRAMACIÓN](https://github.com/materiasipm/materiasipm.github.io/blob/master/tallerDeProgramacion/tallerDeProgr.md)
+
+## [DESARROLLO DE APLICACIONES INFORMÁTICAS](https://github.com/materiasipm/materiasipm.github.io/blob/master/desarrolloDeApps/desarrollo.md)
 
 ### [ALGUNOS COMANDOS DE GIT, LOS MÁS NECESARIOS](https://github.com/materiasipm/materiasipm.github.io/blob/master/comandos.md)
 
 ### [GIT CREDENTIAL MANAGER CORE](https://github.com/materiasipm/materiasipm.github.io/blob/master/GitCredentialManagerCore.md)
+
+
 
 
 
