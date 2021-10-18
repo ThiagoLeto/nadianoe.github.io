@@ -5,12 +5,12 @@
 - [conexión java-mongo | ](https://github.com/materiasipm/materiasipm.github.io/blob/master/labo/octubre/AccesoMongoDB.java)[descargar mongo-java-driver-3.4.2.jar](https://github.com/materiasipm/materiasipm.github.io/raw/master/labo/octubre/mongo-java-driver-3.4.2.jar)
 
 ## Tarea 18 de Octubre
-- [ejemplo](https://github.com/materiasipm/materiasipm.github.io/raw/master/labo/octubre/ejemplo18deOctubre.md)
-- [enunciado TP - desarrollo de API](https://github.com/materiasipm/materiasipm.github.io/raw/master/labo/octubre/enunciado18deOctubre.md)
+- [ejemplo](https://github.com/materiasipm/materiasipm.github.io/blob/master/labo/octubre/ejemplo18deOctubre.md)
+- [enunciado TP - desarrollo de API](https://github.com/materiasipm/materiasipm.github.io/blob/master/labo/octubre/enunciado18deOctubre.md)
 
 ## Tarea 13 de Octubre
-- [fechas y horas](https://github.com/materiasipm/materiasipm.github.io/raw/master/labo/octubre/EjemploTiempo.java)
-- [Trabajo con archivos JSON](https://github.com/materiasipm/materiasipm.github.io/raw/master/labo/octubre/EjemploSerializacion.java)
+- [fechas y horas](https://github.com/materiasipm/materiasipm.github.io/blob/master/labo/octubre/EjemploTiempo.java)
+- [Trabajo con archivos JSON](https://github.com/materiasipm/materiasipm.github.io/blob/master/labo/octubre/EjemploSerializacion.java)
 - [descargar jackson-annotations-2.11.2.jar](https://github.com/materiasipm/materiasipm.github.io/raw/master/labo/octubre/jackson/jackson-annotations-2.11.2.jar)
 - [descargar jackson-core-2.11.2.jar](https://github.com/materiasipm/materiasipm.github.io/raw/master/labo/octubre/jackson/jackson-core-2.11.2.jar)
 - [descargar jackson-databind-2.11.2.jar](https://github.com/materiasipm/materiasipm.github.io/raw/master/labo/octubre/jackson/jackson-databind-2.11.2.jar)
