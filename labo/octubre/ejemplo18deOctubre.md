@@ -25,7 +25,7 @@
 ``` java
 
 	@RequestMapping(value = "/alumnos/{id}", method = RequestMethod.UPDATE)
-    public ResponseEntity<Object> realizarCambio(@PathVariable int id,@RequestBody HashMap info) {
+    public ResponseEntity<Object> realizarCambio(@PathVariable int id, @RequestBody HashMap info) {
         /** se actualiza la información correspondiente  **/
         return new ResponseEntity<>(HttpStatus.OK);
     }
