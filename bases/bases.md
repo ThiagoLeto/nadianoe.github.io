@@ -3,6 +3,11 @@
 ## Notas 4to
 - [notas](https://github.com/materiasipm/materiasipm.github.io/blob/master/bases/notasTallerYBD.md)
 
+## Tarea 20 de Octubre
+- [ejemplo imagen orientativa](https://github.com/materiasipm/materiasipm.github.io/blob/master/bases/ejemploImagenJoins.png)
+- [ejemplo de consultas](https://github.com/materiasipm/materiasipm.github.io/blob/master/bases/ejemplo20deOctubre.sql)
+- [enunciado](https://github.com/materiasipm/materiasipm.github.io/blob/master/bases/enunciado20deOctubre.md)
+
 ## Tarea 29 de Septiembre
 Crear los DER de los siguientes enunciados utilizandos los dos tipos de notaciones vistos.
 - [enunciados](https://github.com/materiasipm/materiasipm.github.io/blob/master/bases/Ejercicios%20DER%20II.pdf)
