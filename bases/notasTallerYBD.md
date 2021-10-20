@@ -11,16 +11,17 @@
 | DI TOMASO , Nicolás Alfredo		        | 7 |	| 6	|
 | DIAZ SYROTINK, Joaquín		            	| 7	| Chillemi |	7 |
 | GARCIA COLLAZO, Valentino         			| 9,5|	Califano |	7 |
-| GARRAZA, Gael						                  | 8 |		| 6 |
-| GIERCOWSKI, Alan Martín		           	| 8,5	|Toledo |	9 |
-| GONZALEZ , Alejo				                	| 9	|Audicio |	8 |
+| GARRAZA, Gael						                | 8 |		| 6 |
+| GIERCOWSKI, Alan Martín		           	  | 8,5	|Toledo |	9 |
+| GONZALEZ , Alejo				                | 9	| Audicio |	8 |
+| GRANADOS, Jacinto                       |    |      |  7  |
 | HERNANDEZ, Marcos			               		| 10	|	Vilches |	9 |
 | LATUF, Sebastian Gabriel	          		| 9	 | |	6 |
 | LETO , Thiago Ezequiel		            	| 10 |	Barak |	8 |
 | MAIER MARTIN, Joaquin Augusto	      	| 10 |	Rodriguez |	9 |
 | MALITTO, Franco Alejo			            	| 10  |	Tempra |	9 |
 | MARGARETO DI MASSIMO, Agustín Ariel  |	10	| Sanjaume |	9 |
-| POLETTI LUCERO, Ian		               	|		|   | |
+| POLETTI LUCERO, Ian		               	|		|   |  8 |
 | REALE, Facundo			                  		| 10 |	Salvatori |	6 |
 | RODRIGUEZ, Antonio Jose  		         	|  9 | Maier      | 9 |
 | SALVATORI, Santino			               	| 8 |	Reale |	6 |
