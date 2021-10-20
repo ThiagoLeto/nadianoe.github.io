@@ -5,7 +5,7 @@
 
 ## Tarea 20 de Octubre
 - [ejemplo imagen orientativa](https://github.com/materiasipm/materiasipm.github.io/blob/master/bases/ejemploImagenJoins.png)
-- [ejemplo de consultas](https://github.com/materiasipm/materiasipm.github.io/blob/master/bases/ejemplo20deOctubre.sql)
+- [ejemplo de consultas](https://github.com/materiasipm/materiasipm.github.io/blob/master/bases/ejemploJoins.sql)
 - [enunciado](https://github.com/materiasipm/materiasipm.github.io/blob/master/bases/enunciado20deOctubre.md)
 
 ## Tarea 29 de Septiembre
