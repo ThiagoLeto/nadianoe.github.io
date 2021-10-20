@@ -40,14 +40,14 @@ $.ajax({
     console.log(errorThrown);
 });
 
-/** UPDATE **/
+/** PUT **/
 // En este ejemplo el elemento al que se le realizará la actualización será identificado con un id
 
 let objetoConInformacionAActualizar = { edad : 79 };
 
 $.ajax({
         url: "https://direcciónALaQueSeLeRealizaraLaPeticion/api/personas/1",
-        type: 'UPDATE',
+        type: 'PUT',
         contentType: "application/json",
         data: JSON.stringify(objetoConInformacion)
 })
