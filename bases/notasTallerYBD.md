@@ -8,10 +8,10 @@
 | CALIFANO, Francisco Pablo		         	| 6,5	|Garcia |	7 |
 | CHILLEMI, Thiago Esteban	          		| 7|	Diaz |	7 |
 | COLETTA, Valentín				               	| 10	|Serra |	8 |
-| DI TOMASO , Nicolás Alfredo		        | 7 |	|	 |
+| DI TOMASO , Nicolás Alfredo		        | 7 |	| 6	|
 | DIAZ SYROTINK, Joaquín		            	| 7	| Chillemi |	7 |
 | GARCIA COLLAZO, Valentino         			| 9,5|	Califano |	7 |
-| GARRAZA, Gael						                  | 8 |		|   |
+| GARRAZA, Gael						                  | 8 |		| 6 |
 | GIERCOWSKI, Alan Martín		           	| 8,5	|Toledo |	9 |
 | GONZALEZ , Alejo				                	| 9	|Audicio |	8 |
 | HERNANDEZ, Marcos			               		| 10	|	Vilches |	9 |
