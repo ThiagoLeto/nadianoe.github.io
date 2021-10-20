@@ -1,7 +1,7 @@
 ## Segundo cuatrimestre
 
-| alumnos                           | prueba 1 | prueba 2 |         
-|-----------------------------------|----------|----------|
+| alumnos                           | prueba 8/09 | prueba 28/09 |         
+|-----------------------------------|-------------|--------------|
 |ACCIARITO, Ignacio Joaquín	        |x |x  |
 |ALVAREZ, Camila Julieta	        |5 |6 |
 |ARICOMA MAMANI, Facundo Ezequiel	|4 |5 |
