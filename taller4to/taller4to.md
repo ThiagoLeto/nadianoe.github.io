@@ -1,5 +1,9 @@
 ## TALLER DE INNOVACIONES TECNOLÓGICAS
 
+## 20 de Octubre
+- [descargar ejemplo visto en clase](https://github.com/materiasipm/materiasipm.github.io/blob/master/taller4to/proyectoConMysql.rar)
+- [ejemplos de llamadas ajax](https://github.com/materiasipm/materiasipm.github.io/blob/master/taller5to/ejemploDePeticiones.js)
+
 ## 13 de Octubre
 - [ejemplo.html](https://github.com/materiasipm/materiasipm.github.io/blob/master/taller4to/ejemplo.html)
 - [estilo.css](https://github.com/materiasipm/materiasipm.github.io/blob/master/taller4to/estilo.css)
