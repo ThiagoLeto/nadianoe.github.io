@@ -1,7 +1,7 @@
 ## TALLER DE INNOVACIONES TECNOLÓGICAS
 
 ## 20 de Octubre
-- [descargar ejemplo de api con nodejs](https://github.com/materiasipm/materiasipm.github.io/raw/master/taller4to/proyectoConMysql.rar)
+- [descargar ejemplo de api con Node.js](https://github.com/materiasipm/materiasipm.github.io/raw/master/taller4to/proyectoConMysql.rar)
 - [ejemplos de llamadas ajax](https://github.com/materiasipm/materiasipm.github.io/blob/master/taller5to/ejemploDePeticiones.js)
 
 ## 13 de Octubre
