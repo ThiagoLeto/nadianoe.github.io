@@ -1,5 +1,9 @@
 ## TALLER DE TECNOLOGÍAS DE SOPORTE INFORMÁTICO
 
+## 21 de Octubre
+- [data-set](https://github.com/materiasipm/materiasipm.github.io/blob/master/taller6to/historico_temperaturas.csv)
+- [enunciado](https://github.com/materiasipm/materiasipm.github.io/blob/master/taller6to/enunciado21deOctubre.md#ejercicio)
+
 ## 14 de Octubre
 - [ejemplo](https://github.com/materiasipm/materiasipm.github.io/blob/master/taller6to/ejemplo14deOctubre.py)
 - [enunciado](https://github.com/materiasipm/materiasipm.github.io/blob/master/taller6to/enunciado14deOctubre.md)
