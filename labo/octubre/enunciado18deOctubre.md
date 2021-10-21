@@ -26,7 +26,7 @@
 
 	- 4. Un método cuya acción consistirá en actualizar la información de
 		 un alumno ya existente en la base de datos.
-		 - Deberá responder la petición de tipo UPDATE y utilizar la URL:
+		 - Deberá responder la petición de tipo PUT y utilizar la URL:
 		 	- http://localhost:8080/api/alumnos/{id}
 		 	- {id} debe ser reemplazado por el número de id correspondiente al 
 		 	alumno cuya información será actualizada.
