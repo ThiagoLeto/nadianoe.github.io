@@ -33,7 +33,7 @@
 	- 4. Realizar modificación de datos
 		- De ser elegida esta opción, se deberá preguntar al usuario cuál es el dato
 		  a modificar (nombre o edad) y el id correspondiente al alumno cuyos datos serán
-		  modificados. Luego, realizar una petición de tipo UPDATE para realizar la 
+		  modificados. Luego, realizar una petición de tipo PATCH para realizar la 
 		  modificación correspondiente a través de la API.
 
 		- URL: http://localhost:8080/api/alumnos/{id}
