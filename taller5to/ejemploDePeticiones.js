@@ -47,7 +47,7 @@ let objetoConInformacionAActualizar = { edad : 79 };
 
 $.ajax({
         url: "https://direcciónALaQueSeLeRealizaraLaPeticion/api/personas/1",
-        type: 'PUT',
+        type: 'PATCH',
         contentType: "application/json",
         data: JSON.stringify(objetoConInformacion)
 })
