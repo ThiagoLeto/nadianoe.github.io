@@ -16,8 +16,8 @@ pertenece el barrio con id igual a 5.
 5. Obtener el área de las comunas cuyos barrios tengan la letra "a" 
 en su nombre.
 6. Obtener el perímetro de la comuna correspondiente al caso con 
-id igual a 15.
-7. Obtener el área del barrio correspondiente al caso con id igual a 7.
+índice igual a 15.
+7. Obtener el área del barrio correspondiente al caso con índice igual a 7.
 8. Obtener el id, nombre y nro. de comuna de los barrios cuyos residentes 
 estén asociados a los números de casos mayores a 6.000.000 y menores a 7.000.000
 9. Obtener el género y la edad de aquellas personas que pertenecen
