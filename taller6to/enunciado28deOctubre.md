@@ -2,9 +2,9 @@
 ejercicios.
 
 
-	- [barrios.sql](https://github.com/materiasipm/materiasipm.github.io/blob/master/taller6to/barrios.csv)
-	- [comunas.sql](https://github.com/materiasipm/materiasipm.github.io/blob/master/taller6to/comunas.csv)
-	- [casos.sql](https://github.com/materiasipm/materiasipm.github.io/blob/master/taller6to/casos.csv)
+	- [barrios.csv](https://github.com/materiasipm/materiasipm.github.io/blob/master/taller6to/barrios.csv)
+	- [comunas.csv](https://github.com/materiasipm/materiasipm.github.io/blob/master/taller6to/comunas.csv)
+	- [casos.csv](https://github.com/materiasipm/materiasipm.github.io/blob/master/taller6to/casos.csv)
 
 1. Consultar y mostrar el nombre, área y perímetro de los barrios
 que pertenecen a la comuna número 3.
