@@ -1,4 +1,4 @@
-## Desarrollo de aplicaciones informáticas
+## Taller de programción
 
 ### Ejercicios
 1. Crear una aplicación que reciba un número e indique si es un número
