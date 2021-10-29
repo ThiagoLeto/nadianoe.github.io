@@ -1,4 +1,4 @@
-## Taller de programción
+## Taller de programación
 
 ### Ejercicios
 1. Crear una aplicación que reciba un número e indique si es un número
