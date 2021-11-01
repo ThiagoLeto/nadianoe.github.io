@@ -12,6 +12,7 @@
 <body>
 
 <div class="container mx-auto row">
+
     <h4> Sección A </h4>
     <button class="btn btn-info" onclick="mostrarOcultarImagen()"> mostrar / ocultar  sección A </button>
 
@@ -23,13 +24,23 @@
 
     <br>
 
-    <h4> Sección B </h4>
-    <input class="form-control " id="palabras" type="text">
-    <button class="btn btn-info" onclick="leerTexto()"> leer </button>
+    <h4> Sección B - Lectura de texto - input</h4>
+    <div class="container mx-auto row">
+        <input class="form-control " id="palabras" type="text">
+        <button class="btn btn-info" onclick="leerTextoDeInput()"> Leer  contenido de input </button>
+    </div>
 
     <br>
 
-    <h4> Sección C </h4>
+    <h4> Sección C - Lectura de texto - Párrafo</h4>
+    <div class="container mx-auto row">
+    <p id="texto-parrafo"> Hola, éste es un párrafo. </p>
+    <button class="btn btn-info" onclick="leerTextoDeParrafo()"> Leer párrafo </button>
+    </div>
+    
+    <br>
+
+    <h4> Sección D </h4>
     <input class="form-control " id="campo" type="text">
     <button class="btn btn-info" onclick="colocarCursor()"> colocar cursor </button>
     <button class="btn btn-info" onclick="quitarCursor()"> quitar cursor </button>
@@ -39,8 +50,14 @@
 
 <script>
 
-    function leerTexto() {
+    function leerTextoDeInput() {
         let textoAPronunciar = $("#palabras").val();
+        let mensaje = new SpeechSynthesisUtterance(textoAPronunciar);
+        window.speechSynthesis.speak(mensaje);
+    }
+
+    function leerTextoDeParrafo() {
+        let textoAPronunciar = $("#texto-parrafo").text();
         let mensaje = new SpeechSynthesisUtterance(textoAPronunciar);
         window.speechSynthesis.speak(mensaje);
     }
@@ -64,5 +81,18 @@
 
 </script>
 
+    <style>
+
+        div {
+            padding: 1cm;
+        }
+
+        p {
+            font-size: 20px;
+        }
+
+    </style>
+
 </body>
-</html>>
+
+</html>
