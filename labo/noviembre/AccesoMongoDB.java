@@ -6,9 +6,6 @@ import org.bson.Document;
 import org.springframework.stereotype.Service;
 import java.util.*;
 
-import static com.mongodb.client.model.Filters.and;
-import static com.mongodb.client.model.Filters.eq;
-
 @Service
 class AccesoMongoDB {
 
@@ -173,5 +170,5 @@ class AccesoMongoDB {
      * documentación de clase Document
      * http://mongodb.github.io/mongo-java-driver/3.6/javadoc/org/bson/Document.html
      */
-    
+
 }
