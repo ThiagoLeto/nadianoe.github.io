@@ -3,7 +3,7 @@
 
 
 ## Ejemplos 1 de Noviembre
-- [descargar ejemplos sobre: interfaces, clases abstractas y polimorfismo](https://github.com/materiasipm/materiasipm.github.io/blob/master/labo/noviembre/1_de_noviembre.zip)
+- [descargar ejemplos sobre: interfaces, clases abstractas y polimorfismo](https://github.com/materiasipm/materiasipm.github.io/raw/master/labo/noviembre/1_de_noviembre.zip)
 - [conexión java-mongo](https://github.com/materiasipm/materiasipm.github.io/blob/master/labo/noviembre/MongoBD.java)
 - [descargar mongo-java-driver-3.4.2.jar](https://github.com/materiasipm/materiasipm.github.io/raw/master/labo/octubre/mongo-java-driver-3.4.2.jar)
 
