@@ -25,6 +25,25 @@ $.ajax({
 /** GET **/
 
 $.ajax({
+        url: "http://localhost:8080/personas",
+        type: 'GET'
+})
+.done(function (data) {
+
+ /* hace algo con el objeto "data" recibido, si es que recibe algo */
+
+})
+.fail(function (jqXHR, textStatus, errorThrown) {
+    console.log("error, no se pudo obtener datos");
+    console.log(jqXHR);
+    console.log(textStatus);
+    console.log(errorThrown);
+});
+
+
+/** GET **/
+
+$.ajax({
         url: "http://localhost:8080/personas/1",
         type: 'GET'
 })
