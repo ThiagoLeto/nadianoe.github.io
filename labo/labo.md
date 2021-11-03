@@ -2,6 +2,9 @@
 - [notas](https://github.com/materiasipm/materiasipm.github.io/blob/master/labo/notas.md)
 
 
+## Tarea 3 de Noviembre
+- [enunciado](https://github.com/materiasipm/materiasipm.github.io/blob/master/labo/enunciado3deNoviembre.md)
+
 ## Ejemplos 1 de Noviembre
 - [descargar ejemplos sobre: interfaces, clases abstractas y polimorfismo](https://github.com/materiasipm/materiasipm.github.io/raw/master/labo/noviembre/1_de_noviembre.zip)
 - [conexión java-mongo](https://github.com/materiasipm/materiasipm.github.io/blob/master/labo/noviembre/MongoBD.java)
