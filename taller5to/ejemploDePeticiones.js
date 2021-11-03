@@ -5,7 +5,7 @@
 let objetoConInformacion = { nombre : "Nadia" , edad : 78 };
 
 $.ajax({
-        url: "http://localhost:8080/personas",
+        url: "http://localhost:8080/alumnos",
         type: 'POST',
         contentType: "application/json",
         data: JSON.stringify(objetoConInformacion)
@@ -25,7 +25,7 @@ $.ajax({
 /** GET **/
 
 $.ajax({
-        url: "http://localhost:8080/personas",
+        url: "http://localhost:8080/alumnos",
         type: 'GET'
 })
 .done(function (data) {
@@ -44,7 +44,7 @@ $.ajax({
 /** GET **/
 
 $.ajax({
-        url: "http://localhost:8080/personas/1",
+        url: "http://localhost:8080/alumnos/1",
         type: 'GET'
 })
 .done(function (data) {
@@ -65,7 +65,7 @@ $.ajax({
 let objetoConInformacionAActualizar = { edad : 79 };
 
 $.ajax({
-        url: "http://localhost:8080/personas/1",
+        url: "http://localhost:8080/alumnos/1",
         type: 'PATCH',
         contentType: "application/json",
         data: JSON.stringify(objetoConInformacion)
@@ -87,7 +87,7 @@ $.ajax({
 // En este ejemplo, la eliminación se realizará a travez de un id colocado en la url
 
 $.ajax({
-        url: "http://localhost:8080/personas/1",
+        url: "http://localhost:8080/alumnos/1",
         type: 'DELETE'
 })
 .done(function (data) {
