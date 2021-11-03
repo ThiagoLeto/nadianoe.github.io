@@ -4,7 +4,9 @@
 - [notas](https://github.com/materiasipm/materiasipm.github.io/blob/master/bases/notasTallerYBD.md)
 
 ## Tarea 3 de Noviembre
-- [ejemplo](https://github.com/materiasipm/materiasipm.github.io/blob/master/bases/ejemplo3deNoviembre.sql)
+- [DER de ejemplo](https://github.com/materiasipm/materiasipm.github.io/blob/master/bases/ejemploDER_3deNov.png)
+- [consultas de ejemplo](https://github.com/materiasipm/materiasipm.github.io/blob/master/bases/ejemplo3deNoviembre.sql)
+- [enunciado](https://github.com/materiasipm/materiasipm.github.io/blob/master/bases/enunciado3deNoviembre.pdf)
 
 ## Tarea 20 de Octubre
 - [ejemplo imagen orientativa](https://github.com/materiasipm/materiasipm.github.io/blob/master/bases/ejemploImagenJoins.png)
