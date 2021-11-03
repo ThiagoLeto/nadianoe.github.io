@@ -4,19 +4,19 @@ y para modificar información de las mascotas:
 
 Las mascotas pueden ser:
 
-	Perros
-	Gatos
-	Pajaritos
-  Peces
+- Perros 
+- Gatos
+- Pajaritos
+- Peces
 
 Todas las mascotas tienen un nombre y un dueño
 (el nombre de la mascota debe ser único)
 
 Cada una tiene un saludo en particular:
 
-	Para los perros el saludo es “guau”
-	Para los gatos el saludo es “miau”
-	Para los pajaritos el saludo es “pio”
+- Para los perros el saludo es “guau”
+- Para los gatos el saludo es “miau”
+- Para los pajaritos el saludo es “pio”
 
 
 El alta de mascotas implica que se se indique el nombre, 
