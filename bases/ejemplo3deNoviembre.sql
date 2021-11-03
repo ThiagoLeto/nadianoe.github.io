@@ -20,7 +20,7 @@ select * from alumnos group by edad;
 select edad from alumnos group by edad;
 select nombre,edad from alumnos group by nombre,edad;
 select edad, count(edad) as cantidad from alumnos group by edad;	
-select * from alumnos group by edad having edad >= 12;
+select * from alumnos where nombre like "F%" group by edad having edad >= 12;
 
 select AlumnoID,sum(notas_de_matemática) 
 from notas group by AlumnoID;
