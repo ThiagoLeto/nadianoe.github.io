@@ -3,6 +3,9 @@
 ## Notas 4to
 - [notas](https://github.com/materiasipm/materiasipm.github.io/blob/master/bases/notasTallerYBD.md)
 
+## Tarea 3 de Noviembre
+- [ejemplo](https://github.com/materiasipm/materiasipm.github.io/blob/master/bases/ejemplo3deNoviembre.sql)
+
 ## Tarea 20 de Octubre
 - [ejemplo imagen orientativa](https://github.com/materiasipm/materiasipm.github.io/blob/master/bases/ejemploImagenJoins.png)
 - [ejemplo de consultas](https://github.com/materiasipm/materiasipm.github.io/blob/master/bases/ejemploJoins.sql)
