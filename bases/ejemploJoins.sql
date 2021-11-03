@@ -13,3 +13,7 @@ select nombre,notas.AlumnoID from notas inner join alumnos on notas.AlumnoID = a
 select notas.AlumnoID,nombre,nota1 from notas left join alumnos on notas.AlumnoID = alumnos.AlumnoID;
 select alumnos.AlumnoID,nombre,nota1 from notas right join alumnos on notas.AlumnoID = alumnos.AlumnoID;
 select notas.AlumnoID,nombre from notas inner join alumnos on notas.AlumnoID = alumnos.AlumnoID and nombre like "H%";
+
+select notas.AlumnoID,nombre from notas inner join alumnos on notas.AlumnoID = alumnos.AlumnoID and nombre like "H%";
+select notas.AlumnoID,nombre,edad from notas inner join alumnos on 
+notas.AlumnoID = alumnos.AlumnoID where edad >= 12;
