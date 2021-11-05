@@ -1,5 +1,5 @@
 1. ¿Qué tipo de conector lógico es "&&"?¿En qué situaciones produce un valor verdadero?
-2. ¿Qué tipo de conector lógico es "!!"?¿En qué situaciones produce un valor verdadero?
+2. ¿Qué tipo de conector lógico es "||"?¿En qué situaciones produce un valor verdadero?
 3. Crear una variable de tipo int y asignarle el valor 5.
 4. Crear una variable de tipo string y asignarle el valor "hola".
 5. Crear un programa que reciba un número entero y luego indique si es múltiplo de 45.
