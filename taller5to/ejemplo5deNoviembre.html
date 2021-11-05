@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <script src="https://cdn.jsdelivr.net/npm/jquery@3.6.0/dist/jquery.min.js"></script>
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-KyZXEAg3QhqLMpG8r+8fhAXLRk2vvoC2f3B09zVXn8CA5QIVfZOJ3BCsw2P0p/We" crossorigin="anonymous">
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/js/bootstrap.bundle.min.js" integrity="sha384-U1DAWAznBHeqEIlVSCgzq+c9gqGAJn5c/t99JyeKa9xxaYpSvHU5awsuZVVFIhvj" crossorigin="anonymous"></script>
+  <script src="https://cdn.jsdelivr.net/npm/vue"></script>
+  <title>Title</title>
+</head>
+
+<body>
+  <div class="container mx-auto row" id="listado">
+
+    <h3>{{ mensaje }}</h3>
+
+    <ul>
+      <li v-for="alumno in alumnosRegistrados"> {{ alumno.nombre }} - {{ alumno.edad }} </li>
+    </ul>
+
+    <p> Nombre del colegio : {{ colegio.nombre }} </p>
+    <p> Cantidad de aulas: {{ colegio.edificio.aulas.cantidad }} </p>
+
+    <button class="btn btn-outline-success" v-on:click="colegio.edificio.aulas.cantidad += 1"> aumentar cantidad </button>
+    <br>
+    <button class="btn btn-outline-success" v-on:click="aumentar"> aumentar cantidad </button>
+    <br>
+    <button class="btn btn-outline-success" v-on:click="mensaje = '¡Chau!'"> despedirse </button>
+    <br>
+    <button class="btn btn-outline-success" v-on:click="alert(colegio.nombre)"> alerta </button>
+    <br>
+    <button class="btn btn-outline-success" v-on:click="$('*').hide()"> ocultar </button>
+
+  </div>
+  
+  <script>
+  objeto = new Vue({
+      el: '#listado',
+      data: {
+        alumnosRegistrados: [{
+          nombre: "FulanoX",
+          edad: 11
+        }, {
+          nombre: "FulanoX",
+          edad: 11
+        }, {
+          nombre: "FulanoX",
+          edad: 11
+        }],
+        mensaje: "¡Hola, chicos!",
+        colegio: {
+          nombre: "IPM",
+          edificio: {
+            aulas: {
+              cantidad: 54
+            }
+          }
+        }
+      },
+      methods: {
+        aumentar: function() {
+          this.colegio.edificio.aulas.cantidad += 1
+        }
+      }
+    })
+    
+    /*
+            $.ajax({
+                url: "http://localhost:8080/alumnos",
+                type: 'GET'
+            })
+            .done(function (data) {
+
+
+               objeto = new Vue({
+                el: '#listado',
+                data: {
+                  alumnosRegistrados : data.alumnos;
+                }
+              })
+
+
+            })
+            .fail(function (jqXHR, textStatus, errorThrown) {
+                console.log("error, no se pudo obtener datos");
+                console.log(jqXHR);
+                console.log(textStatus);
+                console.log(errorThrown);
+            });
+
+
+    */
+  </script>
+</body>
+
+</html>
