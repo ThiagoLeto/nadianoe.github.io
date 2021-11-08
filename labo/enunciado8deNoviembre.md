@@ -16,6 +16,8 @@ Cantidad
 
 
 Se debe poder calcular un coeficiente de hidratación resultante de cada persona. 
+El mismo se calcula multiplicando la cantidad de bebidas de un determinado tipo
+por la resta de coef. de positividad menos el coef. de negatividad.
 
 Por ejemplo:
 
@@ -28,4 +30,16 @@ Si Juan tomó 3 aguas y 2 cocas:
 - Coeficiente resultante para 2 cocas = 2 x [1 - (5 x 10)] = -98
 - Coeficiente resultante total = 60 + (-98) = -38
 
-Se debe poder calcular la persona con mejor y con peor coeficiente de hidratación.
+La clase Sistema deberá implementar la siguiente interfaz:
+``` java
+
+public interface Sistema {
+
+  public Persona personaConMejorCoeficienteDeHidratacion();
+  public Persona personaConPeorCoeficienteDeHidratacion();
+  public HashSet<String> obtenerNombresDeBebidasConsumidas();
+  public String obtenerNombreDeBebidaMasConsumida();
+  
+}
+
+```
