@@ -11,8 +11,8 @@ Existen 3 clases de bebidas:
 - Bebidas alcohólicas: en estas bebidas se establece un atributo llamado “cantidad de alcohol”, el coeficiente de positividad es siempre cero y el de negatividad se calcula multiplicando la cantidad de alcohol por 20. 
 
 Cada persona debe tener un registro de las bebidas que consumió, indicando:
-Bebida
-Cantidad
+- Bebida
+- Cantidad
 
 
 Se debe poder calcular un coeficiente de hidratación resultante de cada persona. 
