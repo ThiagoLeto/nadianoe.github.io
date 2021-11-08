@@ -24,9 +24,8 @@ Por ejemplo:
 
 Si Juan tomó 3 aguas y 2 cocas:
 
-Coeficiente resultante para 3 aguas = 3 x (20 - 0) = 60
-Coeficiente resultante para 2 cocas = 2 x [1 - (5 x 10)] = -98
-
-Coeficiente resultante total = 60 + (-98) = -38
+- Coeficiente resultante para 3 aguas = 3 x (20 - 0) = 60
+- Coeficiente resultante para 2 cocas = 2 x [1 - (5 x 10)] = -98
+- Coeficiente resultante total = 60 + (-98) = -38
 
 - Se debe poder calcular la persona con mejor y con peor coeficiente de hidratación.
