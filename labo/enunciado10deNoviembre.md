@@ -54,10 +54,9 @@ en cuenta lo siguiente:
 ----
 - Para calcular el precio final se necesitará realizar la siguiente cuenta:
 ```
-precio final = costo + valor correspondiente al porcentaje de ganancia + 
-			   X
+precio final = costo + valor correspondiente al porcentaje de ganancia +  X
 
-"X" podrá ser positivo o negativo según el producto del que se trate.
+"X" podrá ser positivo o negativo según el producto del que se trate. Es decir, puede ser DESCUENTO ó RECARGO_POR_ENVÍO.
 ```
 ----
 - El método "tipoDeProducto" deberá retornar un string que indique el tipo
