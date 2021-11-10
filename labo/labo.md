@@ -1,6 +1,9 @@
 ## Notas 2do cuatrimestre
 - [notas](https://github.com/materiasipm/materiasipm.github.io/blob/master/labo/notas.md)
 
+## Enunciado 10 de Noviembre
+- [enunciado](https://github.com/materiasipm/materiasipm.github.io/new/master/labo/enunciado10deNoviembre.md)
+
 ## Ejercicio 8 de Noviembre
 - [enunciado](https://github.com/materiasipm/materiasipm.github.io/blob/master/labo/enunciado8deNoviembre.md)
 
