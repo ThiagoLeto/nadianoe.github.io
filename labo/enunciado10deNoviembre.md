@@ -122,8 +122,8 @@ siguientes métodos:
 - Para obtener esta información, se requiere crear el siguiente método:
 ```java
 	public HashMap<Integer,Float> productosRefrigeranteConCapacidad(){
-		/** que retorna un map cuyas claves son el código de los productos
-		refrigerantes tienen una capacidad mayor o igual a 300 lts y son de 
+		/** que retorna un map cuyas claves son los códigos de los productos
+		refrigerantes que tienen una capacidad mayor o igual a 300 lts y son de 
 		origen argentino.
 		**/
 	}
