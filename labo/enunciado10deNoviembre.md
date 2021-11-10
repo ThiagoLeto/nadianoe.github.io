@@ -140,7 +140,8 @@ que crearía.
 ```
 Realizar un sistema de control de mascotas para una veterinaria. 
 
-La veterinaria tiene una lista de mascotas. Cada mascota debe tener un nombre, una fecha de nacimiento y un dueño. Las mascotas pueden ser perros, gatos y tortugas. Para los perros y los gatos hace falta saber su raza.
+La veterinaria tiene una lista de mascotas. Cada mascota debe tener un nombre, una fecha de nacimiento y
+un dueño. Las mascotas pueden ser perros, gatos y tortugas. Para los perros y los gatos hace falta saber su raza.
 
 Cada mascota tendrá una lista de fechas en los que fue a controlarse al veterinario.
 
