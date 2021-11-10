@@ -6,8 +6,8 @@ el proceso de Normalización hasta llegar a la Tercera Forma Normal.
 conduzcan al resultado final. Indicando cual es la regla que debe cumplirse en cada
 una de las formas normales.
 
-
-__ Numero factura __
+```
+Numero factura (subrayado)
 Fecha factura
 Nombre cliente
 Dirección cliente
@@ -19,7 +19,7 @@ codigo de producto
 descripción producto
 valor unitario de producto
 cantidad de productos (que compra el cliente)
-
+```
 
 
 
