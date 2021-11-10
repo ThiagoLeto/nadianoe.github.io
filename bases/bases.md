@@ -3,6 +3,11 @@
 ## Notas 4to
 - [notas](https://github.com/materiasipm/materiasipm.github.io/blob/master/bases/notasTallerYBD.md)
 
+## Tarea 10 Noviembre
+- [ejemplo - clave foránea](https://github.com/materiasipm/materiasipm.github.io/blob/master/bases/ejemploClavesForaneas.sql)
+- [ejemplo - normalización](https://github.com/materiasipm/materiasipm.github.io/blob/master/bases/NORMALIZACION.pdf)
+- [enunciado](https://github.com/materiasipm/materiasipm.github.io/blob/master/bases/enunciado10deNoviembre.md)
+
 ## Tarea 3 de Noviembre
 - [DER de ejemplo](https://github.com/materiasipm/materiasipm.github.io/blob/master/bases/ejemploDER_3deNov.png)
 - [consultas de ejemplo](https://github.com/materiasipm/materiasipm.github.io/blob/master/bases/ejemplo3deNoviembre.sql)
