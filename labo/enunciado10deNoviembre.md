@@ -121,7 +121,7 @@ siguientes métodos:
 - Se considera que una heladera es grande si su capacidad es mayor o igual 300 litros.
 - Para obtener esta información, se requiere crear el siguiente método:
 ```java
-	public HashMap<Integer,Float> productosRefrigeranteConCapacidad(){
+	public HashMap<Integer,Float> productosRefrigeranteConGranCapacidad(){
 		/** que retorna un map cuyas claves son los códigos de los productos
 		refrigerantes que tienen una capacidad mayor o igual a 300 lts y son de 
 		origen argentino.
