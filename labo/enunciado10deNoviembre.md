@@ -118,7 +118,7 @@ siguientes métodos:
 ```
 ----
 - Se requiere saber cuáles son los productos de refrigeración más grandes que ofrece el supermercado y son de industria nacional. 
-- Se considera que una heladera es grande si su capacidad es mayor o igual 300 litros.
+- Se considera que una heladera es grande si su capacidad es mayor o igual a 300 litros.
 - Para obtener esta información, se requiere crear el siguiente método:
 ```java
 	public HashMap<Integer,Float> productosRefrigerantesConGranCapacidad(){
