@@ -101,8 +101,8 @@ siguientes métodos:
 ```
 ----
 - Un método estático que sirva para serializar un objeto de la clase supermercado. 
-	- Probar el método copiar el string resultante y pegarlo en un archivo .json. 
-	- Si lo desea, puede escribirlo utilizando código java.
+	- Probar el método, copiar el string resultante y pegarlo en un archivo .json. 
+	- Si lo desea, puede escribir el resultado utilizando código java.
 ----
 - Un método estático que sirva para deserializar el objeto json obtenido en el método anterior.
 ----
