@@ -83,7 +83,7 @@ implementado.
 	}
 ```
 ----
--Por otro lado, la clase SistemaSupermercado también deberá tener los
+- Por otro lado, la clase SistemaSupermercado también deberá tener los
 siguientes métodos:
 ```java
 			
@@ -100,14 +100,15 @@ siguientes métodos:
 			
 ```
 ----
-- Crear un método estático que sirva para serializar un objeto de la clase supermercado. 
-- Probar el método copiar el string resultante y pegarlo en un archivo .json. - Si lo desea, puede escribirlo utilizando código java.
+- Un método estático que sirva para serializar un objeto de la clase supermercado. 
+	- Probar el método copiar el string resultante y pegarlo en un archivo .json. 
+	- Si lo desea, puede escribirlo utilizando código java.
 ----
-- Crear un método estático que sirva para deserializar el objeto json obtenido en el método anterior.
+- Un método estático que sirva para deserializar el objeto json obtenido en el método anterior.
 ----
-- Dado que los adultos sanos deben limitar la ingesta de sodio a 2,300 mg por día y los adultos que sufren de presión arterial alta no deberìan consumir más de 1,500 mg por día; la empresa decidió colocar etiquetas de "producto apto para hipertensos" en aquellos productos no perecederos que están a la venta. 
-- Para saber los productos que llevarán esa etiqueta, se requiere
-crear el método
+- Dado que los adultos sanos deben limitar la ingesta de sodio a 2,300 mg por día y los adultos que sufren de presión arterial alta no deberìan consumir más de    1,500 mg por día; la empresa decidió colocar etiquetas de "producto apto para hipertensos" en aquellos productos no perecederos que están a la venta. 
+
+- Para saber los productos que llevarán esa etiqueta, se requiere crear el método
 ```java
 	public HashSet<String> aptosParaHipertensos(){
 		/** que retorna un set con los nombres de los 
