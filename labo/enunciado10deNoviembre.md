@@ -72,7 +72,7 @@ implementado.
 		- una estructura de datos que almacene los productos disponibles 
 		a la venta 
 		- una estructura de datos que almacene los productos vendidos, ordenados según el momento de venta
-		- comentario: no agregar más atributos a esta clase
+	- comentario: no agregar más atributos a esta clase
 	- implemente la siguiente interface:
 
 ```java
