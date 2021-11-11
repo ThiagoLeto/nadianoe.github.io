@@ -1,3 +1,6 @@
+## 12 de Noviembre
+- [enunciado](https://github.com/materiasipm/materiasipm.github.io/blob/master/desarrolloDeApps/enunciado12deNoviembre.md)
+
 ## 11 de Noviembre
 - [enunciado](https://github.com/materiasipm/materiasipm.github.io/blob/master/desarrolloDeApps/enunciado11deNoviembre.md)
 
