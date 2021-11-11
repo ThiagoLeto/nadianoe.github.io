@@ -17,4 +17,4 @@
      - 3. salir 
       - Si el usuario elige el número 3, la aplicación deberá decir "Adiós" y luego finalizar el programa.
   
-  S
+  
