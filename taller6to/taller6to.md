@@ -1,5 +1,8 @@
 ## TALLER DE TECNOLOGÍAS DE SOPORTE INFORMÁTICO
 
+## 11 de Noviembre
+- [enunciado](https://github.com/materiasipm/materiasipm.github.io/blob/master/taller6to/enunciado11deNoviembre.md)
+
 ## 28 de Octubre
 - [enunciado](https://github.com/materiasipm/materiasipm.github.io/blob/master/taller6to/enunciado28deOctubre.md)
 - [ejemplo](https://github.com/materiasipm/materiasipm.github.io/blob/master/taller6to/ejemplo28deOctubre.ipynb)
