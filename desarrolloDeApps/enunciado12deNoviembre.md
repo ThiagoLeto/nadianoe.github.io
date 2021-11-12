@@ -1,4 +1,4 @@
-- Crear ua aplicación que le pida al usuario un número y que deje de pedirle el nombre cuando el usuario ingrese
+- Crear ua aplicación que le pida al usuario un nombre y que deje de pedirle el nombre cuando el usuario ingrese
   la palabra "stop".
   
 - Crear una aplicación que le pida al usuario un número y que deje de pedirselo si el usuario ingresa el 
