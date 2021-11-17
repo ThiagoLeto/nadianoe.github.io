@@ -3,8 +3,10 @@
 ## Notas 4to
 - [notas](https://github.com/materiasipm/materiasipm.github.io/blob/master/bases/notasTallerYBD.md)
 
+
 ## 17 de Noviembre
 - [ejemplo](https://github.com/materiasipm/materiasipm.github.io/blob/master/bases/ejemploEvaluacion.pdf)
+- [imagen orientativa](https://github.com/materiasipm/materiasipm.github.io/blob/master/bases/imagenOrientativa.png)
 
 ## Tarea 10 Noviembre
 - [ejemplo - clave foránea](https://github.com/materiasipm/materiasipm.github.io/blob/master/bases/ejemploClavesForaneas.sql)
