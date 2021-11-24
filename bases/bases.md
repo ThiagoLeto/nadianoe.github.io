@@ -4,7 +4,7 @@
 - [notas](https://github.com/materiasipm/materiasipm.github.io/blob/master/bases/notasTallerYBD.md)
 
 ## 24 de Noviembre
-- [enunciado](https://github.com/materiasipm/tareas/blob/main/prueba_24deNov.pdf)
+- [enunciado](https://github.com/materiasipm/materiasipm.github.io/blob/master/bases/prueba_24deNov.pdf)
 
 
 ## 17 de Noviembre
