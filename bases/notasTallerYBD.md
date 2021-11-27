@@ -1,4 +1,5 @@
-
+### Comentario
+- Los alumnos que desaprobaron el último exámen, deberán asistir la semana correspondiente a PIA
 
 |  alumnos                            	| taller (lección oral) | 	compañero 15/09  |	prueba 15/09 |  prueba 24/11  |
 |---------------------------------------|-----------------------|--------------------|---------------|---------------|
