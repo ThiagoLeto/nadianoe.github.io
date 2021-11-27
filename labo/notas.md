@@ -1,9 +1,16 @@
 ## Segundo cuatrimestre
 
+#### Comentario
+Para la nota final se tuvo en cuenta:
+- Trabajos entregados durante el año
+- Trabajo durante las clases
+- Corrección del exámen correspondiente al 10/11
+- TP java-mongo
+
 
 
 | alumnos                           | exámen 8/09 | exámen 28/09 | TP java-mysql |  exámen 10/11  |  PIA | nota 2do cuat.  |
-|-----------------------------------|-------------|--------------|---------------|----------------|------|------------|
+|-----------------------------------|-------------|--------------|---------------|----------------|------|-----------------|
 |ACCIARITO, Ignacio Joaquín	        | 1 | 1 | 1 | 1 | si | |
 |ALVAREZ, Camila Julieta	          |5 |6 | 6 | 4,5 | no | 6 |
 |ARICOMA MAMANI, Facundo Ezequiel	  |4 |5 | 6 | 4 | si | | 
