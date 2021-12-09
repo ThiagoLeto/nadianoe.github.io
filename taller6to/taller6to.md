@@ -1,5 +1,8 @@
 ## TALLER DE TECNOLOGÍAS DE SOPORTE INFORMÁTICO
 
+## 9 de Diciembre
+- [trabajos a entregar](https://github.com/materiasipm/materiasipm.github.io/blob/master/taller6to/enunciado9deDiciembre.md)
+
 ## 11 de Noviembre
 - [enunciado](https://github.com/materiasipm/materiasipm.github.io/blob/master/taller6to/enunciado11deNoviembre.md)
 
