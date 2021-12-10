@@ -1,5 +1,11 @@
 /** Ejemplos de peticiones realizadas con llamadas AJAX **/
 
+/** forma alternativa de importar la librería JQuery:
+
+ <script src="https://cdn.jsdelivr.net/npm/jquery@3.6.0/dist/jquery.min.js"></script>
+ 
+ **/
+
 /** POST **/  
 
 let objetoConInformacion = { nombre : "Nadia" , edad : 78 };
