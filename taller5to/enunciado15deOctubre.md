@@ -8,7 +8,7 @@
 		  al usuario. 	
 
 		- URL: http://localhost:8080/api/alumnos/
-	- Comentario: los datos de alumnos registrados seràn: nombre, apellido y edad.
+	- Comentario: los datos de alumnos registrados seràn: id, nombre, apellido y edad.
 	- ejemplo de respuesta recibida:
 	```
 	{
