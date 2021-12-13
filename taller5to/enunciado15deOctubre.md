@@ -48,5 +48,12 @@
 		- URL: http://localhost:8080/api/alumnos/{id}
 		- {id} debe ser reemplazado por el id ingresado por el usuario
 	
-- Realizar las peticiones con llamadas AJAX y evitar "hardcodear" utilizando maps de JavaScript.
-- El estilo de la aplicación es a elección.  
+- Realizar las peticiones con llamadas AJAX 
+- Para el estilo de la aplicación deberán utilizar el framework Bootstrap y, además, incluir:
+	- tipo de fuente provista por GoogleFonts
+	- Botones
+	- Imágen como fondo de pantalla 
+	- párrafos que describan el propósito de las peticiones
+	- espacio donde se deberá visualizar el contenido recibido por la API, con formato JSON 
+	- Una tabla donde estén colocados los datos recibidos de todos los alumnos
+	
