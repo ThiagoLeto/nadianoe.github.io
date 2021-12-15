@@ -1,7 +1,7 @@
 
 - Se requiere crear un sistema para una librería. Para ello, se deberá:
 
-- Crear una interface llamada Libro con la declaración
+- Crear una interfaz llamada Libro con la declaración
 de los siguientes métodos:
 
 ``` java
