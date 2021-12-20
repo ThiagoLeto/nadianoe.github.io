@@ -1,6 +1,9 @@
 ## Notas 2do cuatrimestre
 - [notas](https://github.com/materiasipm/materiasipm.github.io/blob/master/labo/notas.md)
 
+## Enunciado 20 de Diciembre
+- [enunciado](https://github.com/materiasipm/materiasipm.github.io/blob/master/20deDiciembre.md)
+
 ## Enunciado 15 de Diciembre
 - [enunciado](https://github.com/materiasipm/materiasipm.github.io/blob/master/labo/enunciado15deDiciembre.md)
 
