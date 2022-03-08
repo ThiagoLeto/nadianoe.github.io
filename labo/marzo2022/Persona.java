@@ -4,6 +4,8 @@ public class Persona {
     private String nombre;
     private int edad;
     
+    
+    /** constuctor por defecto **/
     public Persona(){
         this.nombre = "Jaimito";
         this.edad = 12;
