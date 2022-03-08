@@ -1,0 +1,3 @@
+### Laboratorio
+
+- [diapositivas y ejercicios]()
