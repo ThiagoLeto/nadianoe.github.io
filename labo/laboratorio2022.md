@@ -4,6 +4,8 @@
 #### 9 de Marzo
 
 - [más ejercicios](https://github.com/nadianoe/nadianoe.github.io/blob/master/labo/abril/enunciado19deAbril.txt)
+- [Ejemplo con ArrayList](https://github.com/nadianoe/nadianoe.github.io/blob/master/labo/marzo2022/EjemploArrayList.java)
+- [Ejercicio con ArrayList](https://github.com/nadianoe/nadianoe.github.io/blob/master/labo/abril/enunciado28deAbril.txt)
 
 
 #### 8 de Marzo
