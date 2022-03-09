@@ -1,9 +1,9 @@
-- Hoy deberán crear un sistema ABM. Un sistema ABM es un sistema que permite ralizar 3 acciones principales:
+- Crear un sistema ABM. Un sistema ABM es un sistema que permite ralizar 3 acciones principales:
 A -> alta -> ingreso de datos 
 B -> baja -> eliminaciòn de datos
 M -> modificaciòn -> modificación de datos
 
-El ABM que realicen serà un sistema que administre datos de personas.
+El ABM que realicen será un sistema que administre datos de personas.
 
 Comentario: deberán utilizar la clase Persona que se pide en la tarea del día 5 de Abril.
 
@@ -14,19 +14,20 @@ atriburo un arraylist que contenga objetos de la clase Personas. debe llamarse "
 
 2. El sistema deberá proveer 6 opciones que el usuario deberá elegir:
 
-- Realizar el alta de una persona, es decir, registrar una persona.
+- Realizar el alta de una persona, es decir, registrar una persona. Crear un método que resuelva esta tarea.
 
-- Realizar la baja de una persona, es decir, eliminar del registro a determinada persona. 
-La eliminaciòn deberá hacerse segùn el nùmero de DNI.
+- Realizar la baja de una persona, es decir, eliminar del registro a determinada persona. Crear otro método que resuelva esta tarea.
+La eliminaciòn deberá hacerse segùn el nùmero de DNI. Crear otro método que resuelva esta tarea.
 
 - Realizar alguna modificaciòn de algún/os dato/os una persona, es decir,brindar la opción
-de modificar alguno de los atributos que tiene la persona.
+de modificar alguno de los atributos que tiene la persona. Crear otro método que resuelva esta tarea.
 
 3. Tambièn le vamos a agregar funciones extra:
 
-- Ver nombres de personas mayores de 18 años
+- Ver nombres de personas mayores de 18 años. Crear otro método que resuelva esta tarea.
 
-- Ver lista de todas las personas registradas
+- Ver lista de todas las personas registradas. Crear otro método que resuelva esta tarea.
 
 4. También se deberá proveer la opción de Salir del sistema. 
 El sistema deberá imprimir el mensaje "bye!"
+
