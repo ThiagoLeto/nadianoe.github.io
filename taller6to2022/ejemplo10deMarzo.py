@@ -65,8 +65,16 @@ if __name__ == '__main__':
 
     for elemento in set:
         print(elemento)
-        
-        
+
+
+    numero_ingresado = input()
+    numero = int(numero_ingresado)
+
+    nombre_ingresado = input("Ingrese un nombre")
+    print(nombre_ingresado)
+
+
+
     '''
 
     documentación sobre listas:
