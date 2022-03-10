@@ -9,4 +9,6 @@
 #### 10 de Marzo | clase 2
 
 - [diapositivas](https://github.com/nadianoe/nadianoe.github.io/blob/master/laboratorio4to/Clase%203_C++.pdf)
-- [ejercicios]()
+- [ejemplo](https://github.com/nadianoe/nadianoe.github.io/blob/master/laboratorio4to/ejemplo10deMarzo.cpp)
+- [tablas de verdad](https://github.com/nadianoe/nadianoe.github.io/blob/master/laboratorio4to/tabladeverdad.jpg)
+- [ejercicio](https://github.com/nadianoe/nadianoe.github.io/blob/master/laboratorio4to/ejercicio10deMarzo.md)
