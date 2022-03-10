@@ -15,7 +15,7 @@
 
 --------------------------------------
 
-##### [laboratorio - 5to - 2021](https://github.com/materiasipm/materiasipm.github.io/blob/master/labo/labo.md#programa-del-laboratorio-de-programaci%C3%B3n-oritentada-a-objetos)
+#### [laboratorio - 5to - 2021](https://github.com/materiasipm/materiasipm.github.io/blob/master/labo/labo.md#programa-del-laboratorio-de-programaci%C3%B3n-oritentada-a-objetos)
 
 #### [bases de datos - 4to -2021](https://github.com/nadianoe/nadianoe.github.io/blob/master/bases/bases.md)
 
