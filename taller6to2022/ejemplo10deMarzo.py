@@ -17,6 +17,8 @@ if __name__ == '__main__':
     print(num1 + num2)
 
     lista = [1, 2, 3, 5, 6, 4, 4, 4, 4]
+    lista.sort()
+
     lista = ["afdf", 22, "hola", 2, 6.78]
     print(lista)
 
@@ -48,13 +50,23 @@ if __name__ == '__main__':
     valores = diccionario1.values()
     valores = list(valores)
 
+    for clave in diccionario1.keys():
+        valor = diccionario1[clave]
+        print(clave,valor)
+
+
     print(diccionario1)
     print(valores[0])
 
     set = {"Jazmín", "Karina"}
     set.add("Paola")
+
     print(set)
 
+    for elemento in set:
+        print(elemento)
+        
+        
     '''
 
     documentación sobre listas:
