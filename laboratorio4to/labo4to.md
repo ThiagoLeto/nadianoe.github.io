@@ -8,5 +8,5 @@
 
 #### 10 de Marzo | clase 2
 
-- [diapositivas](https://github.com/nadianoe/nadianoe.github.io/blob/master/laboratorio4to/Clase%203_%20Programemos%20con%20C%2B%2B.pdf)
+- [diapositivas](https://github.com/nadianoe/nadianoe.github.io/blob/master/laboratorio4to/Clase%203_C++.pdf)
 - [ejercicios]()
