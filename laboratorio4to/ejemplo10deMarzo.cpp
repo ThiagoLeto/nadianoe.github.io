@@ -5,15 +5,15 @@ using namespace std;
 int main(){
 
 	// este es un comentario de una línea
-	
-	/* 
-	   este es un 
-	   comentario
-	   de varias lineas
-    */
 
-    /**
-	
+	/* 
+	este es un 
+	comentario
+	de varias lineas
+	*/
+
+	/**
+
 	enteros -> int
 	cadenas "sdgdfg" "3453#$%#$&/"  -> string
 	decimales -> float
@@ -21,7 +21,7 @@ int main(){
 
 
 
-    **/
+	**/
 
 
 	/* imprimir por consola */
@@ -44,7 +44,7 @@ int main(){
 	cin >> numero1;
 	cout << "El número ingresado fue: " << numero1 << endl;
 
-    /** pedir un nombre por consola **/
+    	/** pedir un nombre por consola **/
 	cout << "Ingrese un nombre" << endl;
 	string nombre;
 	cin >> nombre;
@@ -69,7 +69,7 @@ int main(){
 	    comparadores: 
 		== , != , < , >, <= , >= 
 
-    **/
+   	**/
 
 	int a = 23;
 	int b = 1;
