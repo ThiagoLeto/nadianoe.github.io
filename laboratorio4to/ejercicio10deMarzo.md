@@ -1,0 +1,2 @@
+- Programar en c++ los algorimos realizados la clase pasada.
+- Cada ejercicio debe estar en un archivo separado.
