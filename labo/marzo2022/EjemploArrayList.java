@@ -4,7 +4,7 @@ public class Main {
   
 	public static void main(String[] args) {
 		
-		/ ** variables primitivas **/
+		/** variables primitivas **/
 		int a = 1;		
 		float c = 1.54f;
 
