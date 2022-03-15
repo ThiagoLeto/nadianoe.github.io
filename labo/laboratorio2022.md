@@ -49,11 +49,11 @@
   B -> baja -> eliminaciòn de datos
   M -> modificaciòn -> modificación de datos
 
-  El ABM que realicen será un sistema que administre datos de personas.
+  - El ABM que realicen será un sistema que administre datos de personas.
 
-  Comentario: deberán utilizar la clase Persona que se pide en la tarea del día 5 de Abril.
+  - Comentario: deberán utilizar la clase Persona que se pidió realizar la clase pasada.
 
-  Para ello, deberán:
+  - Para ello, deberán:
 
 1. Crear una clase que se llame "SistemaDeRegistroDePersonas". La misma deberá tener como
 atriburo un arraylist que contenga objetos de la clase Personas. debe llamarse "personas".
