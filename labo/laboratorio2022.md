@@ -17,10 +17,10 @@
     - nombre
     - precio
 
-El atributo nombre deberá ser de tipo String y el atributo precio
-deberá ser de tipo float.
+  El atributo nombre deberá ser de tipo String y el atributo precio
+  deberá ser de tipo float.
 
-El programa deberá proveerle al usuario las siguientes tareas:
+  El programa deberá proveerle al usuario las siguientes tareas:
 
 * Registro de producto.
   Aquí se deberá pedir el nombre del producto y su precio.
@@ -45,15 +45,15 @@ El programa deberá proveerle al usuario las siguientes tareas:
   <summary> 9 de Marzo -  ArrayList - ejercicio 2</summary>
   
   - Crear un sistema ABM. Un sistema ABM es un sistema que permite ralizar 3 acciones principales:
-A -> alta -> ingreso de datos 
-B -> baja -> eliminaciòn de datos
-M -> modificaciòn -> modificación de datos
+  A -> alta -> ingreso de datos 
+  B -> baja -> eliminaciòn de datos
+  M -> modificaciòn -> modificación de datos
 
-El ABM que realicen será un sistema que administre datos de personas.
+  El ABM que realicen será un sistema que administre datos de personas.
 
-Comentario: deberán utilizar la clase Persona que se pide en la tarea del día 5 de Abril.
+  Comentario: deberán utilizar la clase Persona que se pide en la tarea del día 5 de Abril.
 
-Para ello, deberán:
+  Para ello, deberán:
 
 1. Crear una clase que se llame "SistemaDeRegistroDePersonas". La misma deberá tener como
 atriburo un arraylist que contenga objetos de la clase Personas. debe llamarse "personas".
