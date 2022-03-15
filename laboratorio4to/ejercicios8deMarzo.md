@@ -6,5 +6,6 @@
 6. Crear una aplicación que le muestre un menú al usuario. El menú deberá ofrecerle realizar 2 operaciones:
    - sumar 3 números
    - calcular el promedio de 3 números
+   
 La aplicación deberá retornar el resultado calculado.
 
