@@ -9,6 +9,8 @@
 
 </details>
 
+---
+
 <details>
 
   <summary> 9 de Marzo - ejercicio 1 </summary>
@@ -39,6 +41,8 @@
   un nuevo registro.
   
 </details>
+
+---
 
 <details>
 
@@ -92,34 +96,38 @@ El sistema deberá imprimir el mensaje "bye!"
 
 </details>
 
+---
 
 <details>
   <summary> 8 de Marzo - parte 1 </summary>
   
   1. Crear la clase Persona con los siguientes atributos:
-    - nombre
-    - edad
-    - dni
-    - telefono
-    - dirección
+  - nombre
+  - edad
+  - dni
+  - telefono
+  - dirección
     
   2. Declarar e implementar 3 tipos de constructores:
-    - Uno por defecto.
-    - Uno con parámetro string.
-    - Otro con los 5 parámetros correspondientes a todos los atributos.
-    - Declarar e implementar los getters y setters.
-    
+  - Uno por defecto.
+  - Uno con parámetro string.
+  - Otro con los 5 parámetros correspondientes a todos los atributos.
+  - Declarar e implementar los getters y setters.
+
   3. Agregar métodos con los siguientes nombres:
-    - esMayorDeEdad
-    - sonLaMismaPersona
-    - tienenLaMismaEdad
+  - esMayorDeEdad
+  - sonLaMismaPersona
+  - tienenLaMismaEdad
     
+  
   - Dentro de la función main, crear 3 instancias distintasde la clase Persona. 
     A la primer instancia, cambiarle el valor de la edad por el doble de la misma.
     A la segunda instancia, cambiarle el valor del teléfono.
     Con respecto a la tercer instancia, imprimir por consola todos sus datos.
     
 </details>
+
+----
 
 <details>
   <summary> 8 de Marzo - parte 2 </summary>
