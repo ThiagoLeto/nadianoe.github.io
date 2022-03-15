@@ -36,7 +36,24 @@ int main(){
     b = 1;
     b++;
     c = b;
+    
     cout << c << endl;
+    
+    /** negación **/
+    
+    bool f = true;
+    f = !f; // false
+    f = b > 90;
+    f = !(b > 2);
+    
+    /** trabajo con strings **/
+    
+    string d = "hola";
+    d = d + d; // "holahola"
+    string e = "chau";
+    e = e + d; // "holaholachau"
+    
+    
     
     
     
