@@ -2,7 +2,55 @@
 ### Laboratorio de Programación Orientada a Objetos
 ---
 
+
 <details>
+<summary> 16 de Marzo - ejemplo - for each </summary>
+  
+- Crear una clase similar a la clase llamada "SistemaDeRegistro" realizada. Esta nueva clase sólo deberá utilizar 
+  estructuras repetitivas de tipo "foreach". La nueva clase deberá llamarse "Sistema".
+
+</details>
+  
+----
+
+<details>
+<summary> 16 de Marzo - ejemplo - for each </summary>
+  
+´´´java
+  
+  import java.util.ArrayList;
+
+      public class Main {
+
+        public static void main(String[] args) {
+
+          ArrayList<Integer> nums = new ArrayList<>();
+          nums.add(1);
+          nums.add(5);
+  
+          for (Integer elemento : nums){
+            System.out.println(elemento);
+          }
+  
+          ArrayList<Persona> personasRegistradas = new ArrayList<>();
+          Persona p1 = new Persona("Jaime",45);
+          Persona p2 = new Persona("Gloria",45);
+          personasRegistradas.add(p1);
+          personasRegistradas.add(p2);
+  
+          for (Persona persona : personasRegistradas){
+            String nombre = persona.getNombre();
+            System.out.println(nombre);
+  
+          }
+        }
+      }
+  
+´´´
+ 
+</details>
+
+----
 
 <summary> 15 de Marzo - comentarios </summary>
   
@@ -28,6 +76,7 @@
 ```  
 </details>
 
+-----
 
 <details>
 
