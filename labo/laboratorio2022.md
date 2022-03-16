@@ -4,7 +4,8 @@
 
 
 <details>
-<summary> 16 de Marzo - ejemplo - for each </summary>
+  
+<summary> 16 de Marzo - ejercicio - for each </summary>
   
 - Crear una clase similar a la clase llamada "SistemaDeRegistro" realizada. Esta nueva clase sólo deberá utilizar 
   estructuras repetitivas de tipo "foreach". La nueva clase deberá llamarse "Sistema".
@@ -14,9 +15,10 @@
 ----
 
 <details>
+  
 <summary> 16 de Marzo - ejemplo - for each </summary>
   
-´´´java
+```java
   
   import java.util.ArrayList;
 
@@ -46,7 +48,7 @@
         }
       }
   
-´´´
+```
  
 </details>
 
