@@ -167,9 +167,9 @@
   <summary> 9 de Marzo - ejercicio 2 - ArrayList </summary>
   
   - Crear un sistema ABM. Un sistema ABM es un sistema que permite ralizar 3 acciones principales:
-  A -> alta -> ingreso de datos 
-  B -> baja -> eliminaciòn de datos
-  M -> modificaciòn -> modificación de datos
+     - A -> alta -> ingreso de datos 
+     - B -> baja -> eliminaciòn de datos
+     - M -> modificaciòn -> modificación de datos
 
   - El ABM que realicen será un sistema que administre datos de personas.
 
