@@ -4,9 +4,47 @@
 <details>
 
   <summary> 9 de Marzo -  ArrayList - ejemplo </summary>
-  
-- [Ejemplo con ArrayList](https://github.com/nadianoe/nadianoe.github.io/blob/master/labo/marzo2022/EjemploArrayList.java)
+ 
+    ```java
+    
+    import java.util.ArrayList;
 
+        public class Main {
+          
+        	public static void main(String[] args) {
+        		
+        		/** variables primitivas **/
+        		int a = 1;		
+        		float c = 1.54f;
+        
+        		/** Clases envolventes **/
+        		Integer b = 1;
+        		Float d = 1.54f;
+        
+        
+        		/** ArrayList **/
+        
+        		ArrayList<Integer> nums = new ArrayList<>();
+        		nums.add(1);
+        		nums.add(5);
+        
+        		int a = nums.get(0);
+        		nums.remove(0);
+        
+        		ArrayList<Persona> personas = new ArrayList<>();
+        
+        		Persona p1 = new Persona();
+        
+        		ArrayList<ArrayList<Integer>> matriz = new ArrayLis<>();
+            
+        	    /**
+        	    documentación:
+        	    https://docs.oracle.com/javase/8/docs/api/java/util/ArrayList.html
+        	    **/
+        
+        	}
+        }
+    ```
 </details>
 
 ---
@@ -46,7 +84,7 @@
 
 <details>
 
-  <summary> 9 de Marzo -  ArrayList - ejercicio 2</summary>
+  <summary> 9 de Marzo - ejercicio 2 - ArrayList </summary>
   
   - Crear un sistema ABM. Un sistema ABM es un sistema que permite ralizar 3 acciones principales:
   A -> alta -> ingreso de datos 
