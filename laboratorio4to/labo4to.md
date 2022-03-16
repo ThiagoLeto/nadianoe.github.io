@@ -1,5 +1,12 @@
 ### Laboratorio de Algoritmos y Estructuras de Datos
 
+
+<details>
+<summary> 17 de Marzo | Ejemplo de exámen </summary>  
+- Se subirá el 17 
+</details>
+
+
 #### 15 de Marzo | clase 3
 - [ejemplo](https://github.com/nadianoe/nadianoe.github.io/blob/master/laboratorio4to/ejemplo15deMarzo.cpp)
 - [enunciado](https://github.com/nadianoe/nadianoe.github.io/blob/master/laboratorio4to/ejercicios15deMarzo.md)
