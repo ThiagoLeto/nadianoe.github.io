@@ -47,7 +47,7 @@ luego indicar si el mismo es mayor o igual a 19. En caso de que no lo sea, deber
 luego imprimir una triplicación del mismo.
 Es decir, por ejemplo, si el ususario ingresa "Gloria", el algoritmo deberá imprimir
 "GloriaGloriaGloria".
-4. Crear un algoritmo que reciba dos números e indique si uno de ellos es la triplicación del 
+4. Crear un algoritmo mediante diagramas de flujo que reciba dos números e indique si uno de ellos es la triplicación del 
 otro. Es decir, por ejemplo, si el ususario ingresa el 3 y el 9, el algoritmo deberá imprimir
 "El segundo número es la triplicación del primero"´; en caso contrario, deberá imprimir "El primer número
 es triplicación del segundo" o "intente nuevamente". (Incluir la utilización de un "else if").
