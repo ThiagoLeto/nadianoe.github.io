@@ -18,24 +18,24 @@ int main(){
 	d = a == b;
 	b--; 
 	d = a == b;
-    a++;
-    d = b == a;
-    b = 2;
-    a = 1;
-    d = a > -10 && a < 10;
-    d = b <= 2 || b >= 200;
-    d = b == 1 || b == 22;
-    d = a < 5 && b > 0;
-    d = a >= 70 && true;
-    d = false || b <= 10;
-    d = a == 1 || a == -1;
-    d = a > 1 || a < -1;
-    d = (true && false) || (true && true);
-    d = (false || true) || (true && false);
-    d = !d;
-    d = d && d;
-    d = d || d;
-    d = (!d) || d;
+	a++;
+	d = b == a;
+	b = 2;
+	a = 1;
+	d = a > -10 && a < 10;
+	d = b <= 2 || b >= 200;
+	d = b == 1 || b == 22;
+	d = a < 5 && b > 0;
+	d = a >= 70 && true;
+	d = false || b <= 10;
+	d = a == 1 || a == -1;
+	d = a > 1 || a < -1;
+	d = (true && false) || (true && true);
+	d = (false || true) || (true && false);
+	d = !d;
+	d = d && d;
+	d = d || d;
+	d = (!d) || d;
 
 }
 ```
