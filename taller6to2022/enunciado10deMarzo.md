@@ -5,7 +5,7 @@ mediante un ciclo for y utilizando la función range.
 4. Tomar el set creado y eliminar los nombres que comiencen con la letra a.
 5. Crear un diccionario que contenga 2 o más nombres de sus compañeros con sus respectivas
 edades.
-6. Tomat el diccionario creado y multiplicar las edades por 2, mediante un ciclo for.
+6. Tomar el diccionario creado y multiplicar las edades por 2, mediante un ciclo for.
 
 7.Crear el famoso juego de la vivorita utilizando las estructuras de datos vistas.
 El mismo deberá utilizarse y visualizarse por consola.
