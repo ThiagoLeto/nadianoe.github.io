@@ -18,22 +18,22 @@ se recolecta cada día.
 Para ello, se deberá:
 
 1. Crear la clase Libro, en la misma deben existir los atributos:
-	id
-	nombre
-	precio
-	editorial
+	- id
+        - nombre
+	- precio
+	- editorial
 
 2. Cerar la clase Cliente, en la misma deben existir los atributos:
-	id
-	nombre
-	edad
-	libros comprados (ArrayList de libros)
+	- id
+	- nombre
+	- edad
+	- libros comprados (ArrayList de libros)
 
 3. Crear la clase SistemaLibreria, en la misma deben existir los atributos:
-	clientes (ArrayLis de clientes)
-	libros en venta (ArrayList de libros)
-	libros en oferta (ArrayList de id's)
-	nombre
+	- clientes (ArrayLis de clientes)
+	- libros en venta (ArrayList de libros)
+	- libros en oferta (ArrayList de id's)
+	- nombre
 
 4. El sistema deberá tener métodos que permitan :
 - obtener una lista de los clientes más frecuentes (se considera cliente frecuente al que
