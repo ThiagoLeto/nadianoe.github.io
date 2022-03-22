@@ -53,7 +53,7 @@ pertenece a las editoriales en oferta, tienen un 50% de escuento)
 	- si los id de los libros son pares, sus precios deberán disminuir un 25%
   - si sus id's son impares, sus precios deberán disminuir un 35%
 
-- Comentarios:
+#### Comentarios:
 - No imprimir ni recibir datos por consola durante la clases pedidas. Piense y utilice los
 parámetros que considere convenientes para sus métodos.
 - Si desea probar sus funciones imprimiendo los resultados, deberá hacerlo dentro de una función "main".
