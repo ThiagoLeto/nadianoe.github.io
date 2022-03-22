@@ -2,6 +2,71 @@
 ### Laboratorio de Programación Orientada a Objetos
 ---
 
+#### 22 de Marzo
+<details>
+  <summary> Enunciado </summary>
+  
+- Sea una librería, se necesita un sistema para administrar la información que 
+se recolecta cada día.
+
+- Actualmente, la librería vende libros de las siguientes editoriales:
+	- Kapelusz, Sudamericana, Atlántida, ElAteneo, Interzona, Sur y Alianza.
+
+- Editoriales con 50% de descuento:
+	- ElAteneo, Interzona, Sur y Alianza.
+
+Para ello, se deberá:
+
+1. Crear la clase Libro, en la misma deben existir los atributos:
+	id
+	nombre
+	precio
+	editorial
+
+2. Cerar la clase Cliente, en la misma deben existir los atributos:
+	id
+	nombre
+	edad
+	libros comprados (ArrayList de libros)
+
+3. Crear la clase SistemaLibreria, en la misma deben existir los atributos:
+	clientes (ArrayLis de clientes)
+	libros en venta (ArrayList de libros)
+	libros en oferta (ArrayList de id's)
+	nombre
+
+4. El sistema deberá tener métodos que permitan :
+- obtener una lista de los clientes más frecuentes (se considera cliente frecuente al que
+ha comprado más de 10 libros)
+- obtener una lista con los libros más vendidos, es decir, aquellos libros
+que han tenido más de 100 ventas
+- obtener una lista con las edades de los clientes más frecuentes
+- obtener una lista con los libros más caros, es decir, aquellos que salen más de $5500,50
+- realizar una venta, es decir, crear una nueva instancia de la clase libro y agregarla
+a la lista de libros vendidos
+- obtener lista de los libros cuyos nombres comienzan con determinada letra 
+- Calcular el precio final abonar por el cliente (tener en cuenta que los libros cuya editorial 
+pertenece a las editoriales en oferta, tienen un 50% de escuento)
+- cambiar el precio de un libro según el id. El porcentaje de descuento debrá ser
+ pasado como parámetro.
+- cambiar los precios por navidad:
+	- si los id de los libros son pares, sus precios deberán disminuir un 25%
+  - si sus id's son impares, sus precios deberán disminuir un 35%
+
+- Comentarios:
+- No imprimir ni recibir datos por consola durante la clases pedidas. Piense y utilice los
+parámetros que considere convenientes para sus métodos.
+- Si desea probar sus funciones imprimiendo los resultados, deberá hacerlo dentro de una función "main".
+Este método deberá estar dentro de la clase SistemaLibreria.
+- Cada método deberá realizar una sola tarea
+- Las clases deben comenzar con letra mayúscula
+- los métodos ý variables deben comenzar con letra minúscula
+- Utilizar el estilo de escritura camel case
+- Utilizar nombres de métodos y variables declarativos
+  
+</details>
+
+----
 
 <details>
   
