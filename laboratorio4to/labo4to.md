@@ -5,10 +5,31 @@
 ---
 
 #### 22 de Marzo
+
 <details>
-<summary> Ejemplo de exámen </summary>  
+<summary> Libro que utilizaremos en la materia </summary>  
 	
 - [libro de consulta y ejercicios](https://github.com/nadianoe/nadianoe.github.io/blob/master/laboratorio4to/Nell%20Dale_%20Chip%20Weems%20-%20Programaci%C3%B3n%20y%20resoluci%C3%B3n%20de%20problemas%20con%20C++-McGraw%20Hill%20(2007).pdf)
+</details>
+
+<details>
+<summary> Ejercicios </summary>  
+
+1. Capítulo 5
+- Ejercicios de preparación para exámen
+	- Página 198, ejercicios 5 y 10
+	- Página 199, ejercicios 14 y 15
+
+- Ejercicios de calentamiento para programación
+	- Página 199, ejercicio 1
+	- Página 200, ejercicio 10	
+2. Crear una aplicación que sirva para calcular el área de un triángulo siendo la base y la altura ingresadas por el usuario (recordatorio: area = (base * altura) / 2 para cualquier tipo de triángulo).
+3. Crear una aplicación que sirva para realizar las cuatro operaciones básicas (suma, resta, división y multiplicación) con dos números ingresados por el usuario.
+4. Modificar el programa del ejercicio anterior para que se muestre un mensaje de error si se intenta dividir por cero (recordatorio: 0/k = 0, k/0 = indefinido para cualquier k).
+5. Realizar una aplicación que calcule el monto total a pagar por cada cliente de una librería. El sistema deberá recibir la cantidad de libros que comprará el cliente y luego imprimir el monto tal a abonar. 
+Con respecto a los precios de los libros, todos los libros cuestan $300 pero llevando más de 5 libros cuestan $250 c/u.
+6. Realizar un programa donde el usuario ingrese un número y que muestre por pantalla si el mismo es par o impar
+
 </details>
 
 ---
