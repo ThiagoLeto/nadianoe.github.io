@@ -24,7 +24,7 @@
 	- Página 199, ejercicio 1
 	- Página 200, ejercicio 10	
 2. Crear una aplicación que sirva para calcular el área de un triángulo siendo la base y la altura ingresadas por el usuario (recordatorio: area = (base * altura) / 2 para cualquier tipo de triángulo).
-3. Crear una aplicación que sirva para realizar las cuatro operaciones básicas (suma, resta, división y multiplicación) con dos números ingresados por el usuario.
+3. Crear una aplicación que sirva para realizar las cuatro operaciones básicas (suma, resta, división y multiplicación) con dos números ingresados por el usuario. El usuario deberá elegir qué operación realizar.
 4. Modificar el programa del ejercicio anterior para que se muestre un mensaje de error si se intenta dividir por cero (recordatorio: 0/k = 0, k/0 = indefinido para cualquier k).
 5. Realizar una aplicación que calcule el monto total a pagar por cada cliente de una librería. El sistema deberá recibir la cantidad de libros que comprará el cliente y luego imprimir el monto tal a abonar. 
 Con respecto a los precios de los libros, todos los libros cuestan $300 pero llevando más de 5 libros cuestan $250 c/u.
