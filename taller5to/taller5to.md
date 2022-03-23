@@ -1,8 +1,7 @@
 ## TALLER DE TECNOLOGÍAS DE SOPORTE INFORMÁTICO
 
 
- <iframe src="https://github.com/nadianoe/nadianoe.github.io/blob/master/labo/marzo2022/Main.java" height="200" width="700" title="Iframe Example"></iframe> 
- 
+
 ## 5 de Noviembre
 - [ejemplo](https://github.com/materiasipm/materiasipm.github.io/blob/master/taller5to/ejemplo5deNoviembre.html)
 
