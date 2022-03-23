@@ -33,6 +33,7 @@ Para ello, se deberá:
 	- clientes (ArrayLis de clientes)
 	- libros en venta (ArrayList de libros)
 	- libros en oferta (ArrayList de id's)
+	- libros vendidos (ArrayList de libros)
 	- nombre
 
 4. El sistema deberá tener métodos que permitan :
