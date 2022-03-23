@@ -68,20 +68,20 @@ Este método deberá estar dentro de la clase SistemaLibreria.
 
 ----
 
+#### 16 de Marzo
+
 <details>
   
-<summary> 16 de Marzo - ejercicio - for each </summary>
+<summary> Ejercicio - for each </summary>
   
 - Crear una clase similar a la clase llamada "SistemaDeRegistro" realizada. Esta nueva clase sólo deberá utilizar 
   estructuras repetitivas de tipo "foreach". La nueva clase deberá llamarse "Sistema".
 
 </details>
-  
-----
 
 <details>
   
-<summary> 16 de Marzo - ejemplo - for each </summary>
+<summary> Ejemplo - for each </summary>
   
 ```java
   
@@ -119,8 +119,11 @@ Este método deberá estar dentro de la clase SistemaLibreria.
 
 ----
 
+#### 15 de Marzo
+	
 <details>
-<summary> 15 de Marzo - comentarios </summary>
+	
+<summary> Comentarios </summary>
   
 ```java
 
@@ -144,11 +147,13 @@ Este método deberá estar dentro de la clase SistemaLibreria.
 ```  
 </details>
 
------
-
+----
+	
+#### 9 de Marzo
+	
 <details>
 
-<summary> 9 de Marzo -  ArrayList - ejemplo </summary>
+<summary> ArrayList - ejemplo </summary>
 
 ```java
 
@@ -192,11 +197,9 @@ Este método deberá estar dentro de la clase SistemaLibreria.
 ```
 </details>
 
----
-
 <details>
 
-<summary> 9 de Marzo - ejercicio 1 </summary>
+<summary> Ejercicio 1 </summary>
   
 - Crear una clase llamada Producto. La misma deberá tener como atributos:
     - nombre
@@ -225,11 +228,9 @@ Este método deberá estar dentro de la clase SistemaLibreria.
   
 </details>
 
----
-
 <details>
 
-  <summary> 9 de Marzo - ejercicio 2 - ArrayList </summary>
+  <summary> Ejercicio 2 - ArrayList </summary>
   
   - Crear un sistema ABM. Un sistema ABM es un sistema que permite ralizar 3 acciones principales:
      - A -> alta -> ingreso de datos 
@@ -268,8 +269,10 @@ El sistema deberá imprimir el mensaje "bye!"
 
 ----
 
+#### 8 de Marzo
+	
 <details>
-    <summary> 8 de Marzo - ejemplos </summary>
+    <summary> Ejemplos </summary>
     
 - [Ejemplo Main.java](https://github.com/nadianoe/nadianoe.github.io/blob/master/labo/marzo2022/Main.java)
 
@@ -279,10 +282,8 @@ El sistema deberá imprimir el mensaje "bye!"
 
 </details>
 
----
-
 <details>
-  <summary> 8 de Marzo - parte 1 </summary>
+  <summary> Parte 1 </summary>
   
   1. Crear la clase Persona con los siguientes atributos:
   - nombre
@@ -309,11 +310,9 @@ El sistema deberá imprimir el mensaje "bye!"
     Con respecto a la tercer instancia, imprimir por consola todos sus datos.
     
 </details>
-
-----
-
+	
 <details>
-  <summary> 8 de Marzo - parte 2 </summary>
+  <summary> Parte 2 </summary>
   
 1. Crear una aplicación que pida al usuario ingresar los datos necesarios para crear un objeto de la clase Persona.
 2. Crear la instancia de la clase Persona e imprimir cuáles fueron los datos ingresados utilizando "getters".
