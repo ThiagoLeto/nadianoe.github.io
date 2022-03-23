@@ -23,7 +23,7 @@ Para ello, se deberá:
 	- precio
 	- editorial
 
-2. Cerar la clase Cliente, en la misma deben existir los atributos:
+2. Crear la clase Cliente, en la misma deben existir los atributos:
 	- id
 	- nombre
 	- edad
