@@ -46,7 +46,7 @@ int main(){
 }
 ```
 
-2. Crear un algoritmo mediante diagramas de flujo que sirva para indicar si un número ingresado por el usuario es par y mayor a 100, en caso de que el número ingresado no cumpla con los requisitos, deberá imprimir "No es par y mayor a 100".
+2. Crear un algoritmo mediante diagramas de flujo que sirva para indicar si un número ingresado por el usuario es impar y menor a 100, en caso de que el número ingresado no cumpla con los requisitos, deberá imprimir "No es impar y menor a 100".
 3. Crear un algoritmo mediante diagramas de flujo que reciba un número y luego indique si el mismo es positivo, negativo o igual a cero.
 4. Crear un algoritmo mediante diagramas de flujo que reciba dos nombres y luego imprima un saludo que cumpla con el siguiente formato: "¡Hola, Gloria y Walter!" (en este caso, los nombres ingresados fueron Gloria y Walter).
 5. Implementar los algoritmos creados en los puntos 2, 3 y 4 utilizando el lenguaje de programación c++.
