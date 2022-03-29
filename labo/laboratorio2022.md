@@ -8,9 +8,10 @@
 #### 29 de Marzo
 <details>
   <summary> Ejercicios </summary>
+	
 - Realizar los siguientes ejercicios del libro
-	- página 220, ejercicio 8.1
-	- página 266, ejercicio 10.7, 10.8
+  - página 220, ejercicio 8.1
+  - página 266, ejercicio 10.7, 10.8
 	
 </details>
 
