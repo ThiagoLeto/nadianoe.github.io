@@ -4,7 +4,15 @@
 
 #### [Libro que utilizaremos en la materia](https://github.com/nadianoe/nadianoe.github.io/blob/master/labo/Luis%20Joyanes%20Aguilar_%20Ignacio%20Zahonero%20Mart%C3%ADnez%20-%20Programaci%C3%B3n%20en%20Java%20_%20algoritmos%2C%20programaci%C3%B3n%20orientada%20a%20objetos%20e%20interfaz%20gr%C3%A1fica%20de%20usuario-McGraw-Hill%20(2011)%20(1).pdf)
 
-
+----
+#### 29 de Marzo
+<details>
+  <summary> Ejercicios </summary>
+- Realizar los siguientes ejercicios del libro
+	- página 220, ejercicio 8.1
+	- página 266, ejercicio 10.7, 10.8
+	
+</details>
 ----
 #### 22 de Marzo
 <details>
