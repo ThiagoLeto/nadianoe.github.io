@@ -4,6 +4,63 @@
 
 ---
 
+#### 29 de Marzo
+
+<details>
+<summary> Exámen  </summary>  
+
+
+1. Calcular y comentar el valor de verdad de las variable a, b y f en aquellas líneas donde aparecen.
+Copiar todo el código en un archivo llamado ejercicio1_29deMarzo.cpp y colocar las respuestas como comentarios de  c++.
+
+```c++
+int main(){
+	
+	bool a = true;
+	bool b = false;
+	int c = 89;
+	int d = 0;
+	int e = 12;
+	bool f = c == 0;
+	f = c > 12;
+	f = c > 89;
+	f = c >= 89;
+	f = f && e == 5;
+	f = !a || d != 0;
+	f = d == 0;
+	f = d != 0;
+	f = !b && e > 0;
+	c++;
+	f = c == 90;
+	c++;
+	d--;
+	f = c > 90 && d < 0;
+	f = b && !f;
+	a = !f && d > 0;
+	e++;
+	b = e == 12 || e == 13;
+	a = (true && !false) || (false || false)
+	a = (d > 0 && d < 100) || (c == 89)
+	f = !(true || false)
+
+}
+```
+
+2. Crear un algoritmo mediante diagramas de flujo que sirva para indicar si un número ingresado por el usuario es par y mayor a 100, en caso de que el número ingresado no cumpla con los requisitos, deberá imprimir "No es par y mayor a 100".
+3. Crear un algoritmo mediante diagramas de flujo que reciba un número y luego indique si el mismo es positivo, negativo o igual a cero.
+4. Crear un algoritmo mediante diagramas de flujo que reciba dos nombres y luego imprima un saludo que cumpla con el siguiente formato: "¡Hola, Gloria y Walter!" (en este caso, los nombres ingresados fueron Gloria y Walter).
+5. Implementar los algoritmos creados en los puntos 2, 3 y 4 utilizando el lenguaje de programación c++.
+Cada ejercicio deberá estar en un mismo archivo. 
+- Se deberá proveer un menú de opciones: 
+	- opción 1, utilizar aplicacion de ejercicio 2
+	- opción 2, utilizar aplicación de ejercicio 3
+	- opción 3, utilizar aplicación de ejercicio 4
+- Cuando el usuario elija e ingrese una opción, se deberá poder utilizar la aplicación elegida y luego deberá finalizar el programa.
+
+			      
+</details>
+
+----
 #### 22 de Marzo
 
 <details>
