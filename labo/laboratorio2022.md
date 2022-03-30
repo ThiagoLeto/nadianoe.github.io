@@ -26,7 +26,7 @@ de aquellos alumnos que salen y entran de sus aulas. Para ello, deberán:
 - En la clase Aula, crear un método que reciba el dni de un alumno y
 luego retorne la cantidad de ingresos que realizó. 
 
-- En la clase Aula, crear un método que imprima por consola el dni de cada cliente y
+- En la clase Aula, crear un método que imprima por consola el dni de cada alumno y
 la cantidad de ingresos que realizó. El método deberá llamarse "cantidadDeIngresosPorAlumno".
 La impresión de sus elementos deberá respetar el siguiente formato:
 ```
