@@ -23,7 +23,7 @@ de aquellos alumnos que salen y entran de sus aulas. Para ello, deberán:
 
 - Crear un método que reciba un ArrayList con la estructura del ítem anterior e imprima sus elementos.
 
-- En la clase Aula, crear un método que reciba el dni de in cliente y
+- En la clase Aula, crear un método que reciba el dni de un alumno y
 luego retorne la cantidad de ingresos que realizó. 
 
 - En la clase Aula, crear un método que imprima por consola el dni de cada cliente y
