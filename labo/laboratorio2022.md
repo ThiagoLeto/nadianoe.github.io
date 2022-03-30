@@ -19,7 +19,7 @@ de aquellos alumnos que salen y entran de sus aulas. Para ello, deberán:
   de alumnos que ingresaron a la misma durante todo un dia (si un alumno ya ingresó, salió
   y volvió a ingresar, se cuentan dos ingresos). Esta clase deberá tener sólo el constructor por defecto.
 	
-- En la clase Aula, crear un método que retorne un ArrayList que contenga los números de dni de los alumnos que ingresaron al aula durante el dia. El método deberá llamarse "dnisDeAlumnosIngresantes".
+- En la clase Aula, crear un método que retorne un ArrayList que contenga los números de dni (sin repetidos) de los alumnos que ingresaron al aula durante el dia. El método deberá llamarse "dnisDeAlumnosIngresantes".
 
 - Crear un método que reciba un ArrayList con la estructura del ítem anterior e imprima sus elementos.
 
