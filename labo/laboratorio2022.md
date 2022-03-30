@@ -5,6 +5,38 @@
 #### [Libro que utilizaremos en la materia](https://github.com/nadianoe/nadianoe.github.io/blob/master/labo/Luis%20Joyanes%20Aguilar_%20Ignacio%20Zahonero%20Mart%C3%ADnez%20-%20Programaci%C3%B3n%20en%20Java%20_%20algoritmos%2C%20programaci%C3%B3n%20orientada%20a%20objetos%20e%20interfaz%20gr%C3%A1fica%20de%20usuario-McGraw-Hill%20(2011)%20(1).pdf)
 
 ----
+
+#### 30 de Marzo
+<details>
+	<summary> Enunciado </summary>
+
+- Se debe implementar una parte de un sistema que sirve para registrar datos
+de aquellos alumnos que salen y entran de sus aulas. Para ello, deberán:
+
+- Crear la clase Persona, la misma debe tener como atributos: nombre y dni.
+- Crear la clase Alumno, la misma debe tener como atributos: nombre, dni y nroDeLegajo.
+- Crear la clase Aula, la misma deberá tener como atributos: número y una lista
+  de alumnos que ingresaron a la misma durante todo un dia (si un alumno ya ingresó, salió
+  y volvió a ingresar, se cuentan dos ingresos). Esta clase deberá tener sólo el constructor por defecto.
+	
+- En la clase Aula, crear un método que retorne un ArrayList que contenga los números de dni de los alumnos que ingresaron al aula durante el dia. El método deberá llamarse "dnisDeAlumnosIngresantes".
+
+- Crear un método que reciba un ArrayList con la estructura del ítem anterior e imprima sus elementos.
+
+- En la clase Aula, crear un método que reciba el dni de in cliente y
+luego retorne la cantidad de ingresos que realizó. 
+
+- En la clase Aula, crear un método que imprima por consola el dni de cada cliente y
+la cantidad de ingresos que realizó. El método deberá llamarse "cantidadDeIngresosPorAlumno".
+La impresión de sus elementos deberá respetar el siguiente formato:
+```
+  clave/dni: 121234343531 - valor/cantidad: 3
+```
+- Crear un método en la clase Aula que retorne el nombre del alumno que ha realizado más ingresos al aula.
+	
+</details>
+
+----
 #### 29 de Marzo
 <details>
   <summary> Ejercicios </summary>
