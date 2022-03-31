@@ -9,7 +9,7 @@
 
 ## [TALLER DE TECNOLOGÍAS DE SOPORTE INFORMÁTICO - 5TO](https://github.com/nadianoe/nadianoe.github.io/blob/master/taller5to2022/taller5to2022.md#taller-de-tecnolog%C3%ADas-de-soporte-inform%C3%A1tico---5to)
 
-## [TALLER DE TECNOLOGÍAS DE SOPORTE INFORMÁTICO - 6TO](https://github.com/nadianoe/nadianoe.github.io/blob/master/taller6to2022/taller6to2022.md#taller-de-tecnolog%C3%ADas-de-soporte-inform%C3%A1tico-2022)
+## [TALLER DE TECNOLOGÍAS DE SOPORTE INFORMÁTICO - 6TO](https://github.com/nadianoe/nadianoe.github.io/blob/master/taller6to2022/taller6to2022.md#taller-de-tecnolog%C3%ADas-de-soporte-inform%C3%A1tico)
 
 ## [BASES DE DATOS - 5TO](https://github.com/nadianoe/nadianoe.github.io/blob/master/bd5to2022/db5to2022.md#bases-de-datos---5to)
 
