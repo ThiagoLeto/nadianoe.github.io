@@ -1,6 +1,22 @@
 
+
+####  31 de Marzo
+
 <details> 
-	<summary> 31 de Marzo </summary>
+	<summary> Enunciado </summary>
+	
+- Elegir una API y realizar las peticiones necesarias para crear un set de datos
+- Utilizar el separador ","
+- El set de datos obtenido deberá tener
+  - extensión .csv
+  - al menos 30 lineas 
+  - al menos 3 columnas.
+
+
+</details>
+
+<details> 
+	<summary> Ejemplo </summary>
 
 ```python
 import requests
