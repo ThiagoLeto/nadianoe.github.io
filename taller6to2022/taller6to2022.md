@@ -1,4 +1,7 @@
 
+----
+###  Taller de Tecnologías de Soporte Informático
+----
 
 ####  31 de Marzo
 
@@ -46,8 +49,10 @@ if __name__ == '__main__':
 
 -----
 
+#### 10 de Marzo
+
 <details>
-<summary> 10 de Marzo | ejemplo  </summary>
+<summary> Ejemplo  </summary>
 
 ```python
 print("hola")
@@ -136,7 +141,7 @@ https://python-reference.readthedocs.io/en/latest/docs/dict/
 </details>
 
 <details>
-<summary> 10 de Marzo | ejercicio </summary>
+<summary> Enunciado </summary>
 
 1. Crear una lista que contenga 1000 números enteros. Los mismo deberán ser agregados
 mediante un ciclo for y utilizando la función range.
@@ -149,3 +154,5 @@ edades.
 7. Crear el famoso juego de la vivorita utilizando las estructuras de datos vistas.
 El mismo deberá utilizarse y visualizarse por consola.
 </details>
+
+----
