@@ -4,7 +4,8 @@
 
 ----
 
-[libro de consulta y ejercicios](https://github.com/nadianoe/nadianoe.github.io/blob/master/laboratorio4to/Nell%20Dale_%20Chip%20Weems%20-%20Programaci%C3%B3n%20y%20resoluci%C3%B3n%20de%20problemas%20con%20C++-McGraw%20Hill%20(2007).pdf)
+#### [libro de consulta y ejercicios](https://github.com/nadianoe/nadianoe.github.io/blob/master/laboratorio4to/Nell%20Dale_%20Chip%20Weems%20-%20Programaci%C3%B3n%20y%20resoluci%C3%B3n%20de%20problemas%20con%20C++-McGraw%20Hill%20(2007).pdf)
+
 ----
 
 #### 29 de Marzo
