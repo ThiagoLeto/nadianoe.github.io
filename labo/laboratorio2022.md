@@ -37,8 +37,7 @@ public class Main {
 	public static void main(String[] args) {
 	    
 	    Alumno a = new Alumno();
-	    
-		System.out.println(a.getNombre());
+	    System.out.println(a.getNombre());
 	}
 }
 ```
@@ -133,6 +132,7 @@ public class Persona {
 ```java
 
 public class Alumno extends Persona {
+	
     private int numDeLegajo;
     private String curso;
 
