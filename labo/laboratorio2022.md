@@ -6,6 +6,31 @@
 
 ----
 
+#### 5 de Abril
+
+<details>
+	<summary> Ejercicio - herencia de clases </summary>
+	
+- Crear dos subclases de la clase Persona.
+
+- Una de ellas debe ser la clase "Madre", que tendrá los atributos:
+	- nombre de empresa en la que trabaja 
+	- lista de hijos
+
+- La otra clase a crear es "Hijo", que tendrá los atributos:
+	- escuela a la que asiste
+	- juego favorito
+
+- Las subclases deben tener su respectivo constructor por defecto,
+sus respectivos constructores con parámetros.
+
+- La clase Madre debe tener un método que devuelva una colección de tipo
+ArrayList con los hijos menores de edad.
+	
+</details>
+
+----
+
 #### 30 de Marzo
 <details>
 	<summary> Enunciado </summary>
