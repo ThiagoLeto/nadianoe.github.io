@@ -8,6 +8,74 @@
 
 
 ----
+#### 5 de Abril
+
+<details>
+	<summary> Exámen </summary>
+1. Calcular y comentar los valores de verdad de las variable a, b y f en aquellas líneas donde aparecen.
+Copiar todo el código en un archivo llamado ejercicio1_29deMarzo.cpp y colocar las respuestas como comentarios de  c++.
+
+```c++
+int main(){
+	
+	bool a = true;
+	bool b = false;
+	int c = 0;
+	int d = 123;
+	int e = 100;
+	bool f = c == 0;
+	f = c > 12;
+	f = d > 89;
+	f = e >= 100;
+	f = e > 100;
+	f = (f && e == 5) || c == 0;
+	f = !a || d == 0;
+	f = d == 0;
+	f = d != 0;
+	f = !b && e != 0;
+	c++;
+	f = c == 90;
+	c++;
+	d--;
+	f = c > 90 && d < 0;
+	f = !b || !f;
+	a = !f && d > 0;
+	e++;
+	b = e == 12 || e == 13;
+	a = (false && !false) || (!true || false)
+	a = (d > 0 && d <= 100) || (c != 9)
+	f = !(true || false) || (a == false)
+
+}
+```
+
+2. Crear un algoritmo mediante diagramas de flujo que sirva para indicar si un número ingresado por el usuario es par o impar.
+3. Sea 
+```		      
+ A = [-3,4] U (12,900) y B = (550,4000)  U (5000,+inf)
+```
+Crear un algoritmo mediante diagramas de flujo que reciba un número y luego indique si el mismo pertenece
+a A, B o a ambos conjuntos.
+4. Crear un algoritmo mediante diagramas de flujo que reciba un nombre, un apellido y una edad y luego imprima un saludo que cumpla con el siguiente formato: 
+```
+Los datos ingresados son los siguientes:
+- Nombre: Gloria
+- Apellido: Flora
+- Edad: 88
+```
+En el ejemplo, los valores ingresados fueron: Gloria, Flora y 88
+
+5. Implementar los algoritmos creados en los puntos 2, 3 y 4 utilizando el lenguaje de programación c++.
+Cada ejercicio deberá estar en un mismo archivo. 
+- Se deberá proveer un menú de opciones: 
+	- opción 1, utilizar aplicacion de ejercicio 2
+	- opción 2, utilizar aplicación de ejercicio 3
+	- opción 3, utilizar aplicación de ejercicio 4
+- Cuando el usuario elija e ingrese una opción, se deberá poder utilizar la aplicación elegida y luego deberá finalizar el programa.
+			      
+<details>
+	
+----
 #### 31 de Marzo
 
 <details>
