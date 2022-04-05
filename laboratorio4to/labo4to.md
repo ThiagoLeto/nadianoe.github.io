@@ -11,6 +11,22 @@
 #### 5 de Abril
 
 <details>
+	<summary> Ejercicio integrador </summary>
+Crear un programa que reciba un número y luego indique si el número ingresado pertenece
+al conjunto A, al conjunto B, al conjunto C o a todos los conjuntos.
+```
+ A = (1, 10) U (130, 1000] 
+ B = [-1, 3)  U (500, 800)
+ C = (0, 5000) U [5001, +infinito)
+```
+Tener en cuenta que 
+```
+A ∩ B ∩ C = (1,3] U (500, 800)
+```
+</details>
+
+
+<details>
 	<summary> Exámen </summary>
 	
 1. Calcular y comentar los valores de verdad de las variable a, b y f en aquellas líneas donde aparecen.
