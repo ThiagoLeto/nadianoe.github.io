@@ -29,6 +29,145 @@ ArrayList con los hijos menores de edad.
 	
 </details>
 
+<details>
+	<summary> Ejemplos vistos </summary>
+	
+```java
+public class Main {
+	public static void main(String[] args) {
+	    
+	    Alumno a = new Alumno();
+	    
+		System.out.println(a.getNombre());
+	}
+}
+```
+	
+```java
+
+
+public class Persona {
+
+    private String nombre;
+    private String apellido;
+    private int edad;
+    private int dni;
+    private int telefono;
+
+    public Persona(){
+        this.nombre = "Claudia";
+        this.apellido = "Geretti";
+        this.edad = 12;
+        this.dni = 22345123;
+        this.telefono = 1145678900;
+    }
+
+    public Persona(String nombre, String apellido, int edad, int dni, int telefono){
+        this.nombre = nombre;
+        this.apellido = apellido;
+        this.edad = edad;
+        this.dni = dni;
+        this.telefono = telefono;
+    }
+
+    public Persona(String nombre, String apellido){
+        this.nombre = nombre;
+        this.apellido = apellido;
+        this.edad = 12;
+        this.dni = 22345123;
+        this.telefono = 1145678900;
+    }
+    
+
+    public String getNombre() {
+        return nombre;
+    }
+
+    public int getEdad() {
+        return edad;
+    }
+
+    public int getDni() {
+        return dni;
+    }
+
+    public int getTelefono() {
+        return telefono;
+    }
+
+
+    public void setNombre(String nombre) {
+        this.nombre = nombre;
+    }
+
+    public void setEdad(int edad) {
+        this.edad = edad;
+    }
+
+    public void setDni(int dni) {
+        this.dni = dni;
+    }
+
+    public void setTelefono(int telefono) {
+        this.telefono = telefono;
+    }
+
+  
+    public String getApellido() {
+        return apellido;
+    }
+
+    public void setApellido(String apellido) {
+        this.apellido = apellido;
+    }
+
+    public boolean esMayorDeEdad(int edad){
+        boolean esMayor= edad>=18;
+        return esMayor;
+
+    }
+
+}
+```
+	
+```java
+
+public class Alumno extends Persona {
+    private int numDeLegajo;
+    private String curso;
+
+    public Alumno() {
+        super();
+        this.numDeLegajo = 1234;
+        this.curso = "1°A";
+    }
+
+    public Alumno(String nombre) {
+        super(nombre, "De la Casa");
+        this.numDeLegajo = 1234;
+        this.curso = "1°A";
+    }
+
+    public Alumno(String nombre, String apellido, int edad) {
+        super(nombre, apellido);
+        this.numDeLegajo = 1234;
+        this.setEdad(edad);
+        this.curso = "1°A";
+
+    }
+
+    public Alumno(String nombre, String apellido, int edad, int dni, int telefono, int numDeLegajo, String curso) {
+        super(nombre,apellido,edad,dni,telefono);
+        super.setEdad(edad);
+        this.numDeLegajo = numDeLegajo;
+        this.curso = curso;
+    }
+
+}
+
+```
+	
+
 ----
 
 #### 30 de Marzo
