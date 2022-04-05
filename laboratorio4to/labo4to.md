@@ -23,7 +23,7 @@
 <summary> Exámen  </summary>  
 
 
-1. Calcular y comentar el valor de verdad de las variable a, b y f en aquellas líneas donde aparecen.
+1. Calcular y comentar los valores de verdad de las variable a, b y f en aquellas líneas donde aparecen.
 Copiar todo el código en un archivo llamado ejercicio1_29deMarzo.cpp y colocar las respuestas como comentarios de  c++.
 
 ```c++
