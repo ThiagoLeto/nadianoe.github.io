@@ -166,7 +166,7 @@ public class Alumno extends Persona {
 }
 
 ```
-	
+</details>	
 
 ----
 
