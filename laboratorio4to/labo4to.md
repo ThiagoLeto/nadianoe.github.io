@@ -12,6 +12,7 @@
 
 <details>
 	<summary> Exámen </summary>
+	
 1. Calcular y comentar los valores de verdad de las variable a, b y f en aquellas líneas donde aparecen.
 Copiar todo el código en un archivo llamado ejercicio1_29deMarzo.cpp y colocar las respuestas como comentarios de  c++.
 
@@ -73,7 +74,7 @@ Cada ejercicio deberá estar en un mismo archivo.
 	- opción 3, utilizar aplicación de ejercicio 4
 - Cuando el usuario elija e ingrese una opción, se deberá poder utilizar la aplicación elegida y luego deberá finalizar el programa.
 			      
-<details>
+</details>
 	
 ----
 #### 31 de Marzo
