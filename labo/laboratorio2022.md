@@ -77,6 +77,39 @@ public class EjemploTiempo {
 	
 </details>
 
+<details> 
+	<summary> Comentarios sobre ejercicio del 5 de Abril </summary>
+```java
+	
+public class Madre extends Persona {
+	
+	private String nombreDeEmpresa;
+	private ArrayList<Hijo> hijos;
+
+	/** más código **/
+
+	public ArrayList<Hijo> hijosMenoresDeEdad(){
+	    ArrayList<Hijo> hijosMenores = new ArrayList<>();
+	    for (Hijo hijo : this.hijos){
+		if (!hijo.esMayorDeEdad()){
+		    hijosMenores.add(hijo);
+		}
+	    }
+	    return hijosMenores;
+	}
+}
+```
+```java
+public class Hijo extends Persona {
+	private String nombreDeEscuela;
+	private String juegoFavorito;
+	
+	/** código código **/
+	
+}
+	
+</details>
+
 -----
 
 #### 5 de Abril
