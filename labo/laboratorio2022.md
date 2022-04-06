@@ -5,6 +5,78 @@
 #### [Libro que utilizaremos en la materia](https://github.com/nadianoe/nadianoe.github.io/blob/master/labo/Luis%20Joyanes%20Aguilar_%20Ignacio%20Zahonero%20Mart%C3%ADnez%20-%20Programaci%C3%B3n%20en%20Java%20_%20algoritmos%2C%20programaci%C3%B3n%20orientada%20a%20objetos%20e%20interfaz%20gr%C3%A1fica%20de%20usuario-McGraw-Hill%20(2011)%20(1).pdf)
 
 ----
+#### 6 de Abril
+
+<details>
+	<summary> Ejercicio </summary>
+	
+- Realizar un sistema para administrar pedidos de almuerzos realizados por alumnos.
+- Para los alumnos además de los atributos de la clase Persona que ya tienen creada, se deberán incluir:
+	- Curso
+	- nro. de legajo
+	- orientación
+	
+- Existen diferentes platos que se pueden solicitar, para ellos los datos a incluir son: Nombre y Precio.
+	- Para esto, deberán crear la clase Plato y tener como atributos un nombre y un precio.
+- Al cargarse un pedido se incluye la fecha de creación, el nombre del plato, la persona que lo pidió, hora de entrega y si ya se entregó o no.
+	- Para esto deberán crear la clase Pedido 
+- Debe existir un menú (interfaz de usuario) donde se puedan agregar, modificar y eliminar pedidos. 
+	- Estas funcionalidades deberán ser proporcionadas por una clase llamada "SistemaAlmuerzos".
+- Se debe poder imprimir un listado de los platos a cocinar en el día con su precio considerando el descuento aplicado.
+	- El método que realice ésto, deberá llamarse "imprimirInforme".
+	
+</details>
+
+<details>
+	<summary> Clases para fechas </summary>
+	
+```java
+package com.company;
+
+import java.time.LocalDate;
+import java.time.LocalDateTime;
+import java.time.LocalTime;
+
+public class EjemploTiempo {
+
+    public static void main(String[] args) {
+
+        /** https://docs.oracle.com/javase/8/docs/api/java/time/LocalDate.html **/
+        LocalDate hoy = LocalDate.now(); //2021-10-13
+        LocalDate ayer = hoy.minusDays(1);
+        LocalDate mañana = ayer.plusDays(2);
+        hoy.plusDays(3);
+        hoy.plusMonths(4);
+        hoy.plusWeeks(5);
+        hoy.plusYears(6);
+        hoy.minusMonths(3);
+        hoy.minusWeeks(5);
+        hoy.minusYears(3);
+        mañana.isAfter(hoy);
+        hoy.isBefore(mañana);
+        hoy.isEqual(hoy);
+
+        /** https://docs.oracle.com/javase/8/docs/api/java/time/LocalTime.html**/
+
+        LocalTime ahora = LocalTime.now(); //00:08:16.922686252
+        LocalTime tiempo1 = LocalTime.of(10, 43, 12);
+        LocalTime tiempo2 = tiempo1.minusHours(2);
+        LocalTime tiempo3 = tiempo2.minusMinutes(34);
+        LocalTime tiempo4 = tiempo1.plusHours(4);
+        LocalTime tiempo5 = tiempo2.plusMinutes(18);
+        tiempo1.isAfter(ahora);
+        ahora.isBefore(tiempo1);
+        tiempo1.equals(tiempo1);
+
+        /** https://docs.oracle.com/javase/8/docs/api/java/time/LocalDateTime.html**/
+        LocalDateTime fechaYHora = LocalDateTime.now();
+    }
+}
+	
+```
+	
+</details>
+-----
 
 #### 5 de Abril
 
