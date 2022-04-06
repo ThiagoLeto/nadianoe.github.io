@@ -18,7 +18,7 @@
 	
 - Existen diferentes platos que se pueden solicitar, para ellos los datos a incluir son: Nombre y Precio.
 	- Para esto, deberán crear la clase Plato y tener como atributos un nombre y un precio.
-- Al cargarse un pedido se incluye la fecha de creación, el nombre del plato, la persona que lo pidió, hora de entrega y si ya se entregó o no.
+- Al cargarse un pedido se incluye la fecha de creación, el objeto Plato correspondiente, la persona que lo pidió, hora de entrega y si ya se entregó o no.
 	- Para esto deberán crear la clase Pedido 
 - Debe existir un menú (interfaz de usuario) donde se puedan agregar, modificar y eliminar pedidos. 
 	- Estas funcionalidades deberán ser proporcionadas por una clase llamada "SistemaAlmuerzos".
