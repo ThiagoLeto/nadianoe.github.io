@@ -79,6 +79,7 @@ public class EjemploTiempo {
 
 <details> 
 	<summary> Comentarios sobre ejercicio del 5 de Abril </summary>
+	
 ```java
 	
 public class Madre extends Persona {
@@ -99,6 +100,7 @@ public class Madre extends Persona {
 	}
 }
 ```
+	
 ```java
 public class Hijo extends Persona {
 	private String nombreDeEscuela;
