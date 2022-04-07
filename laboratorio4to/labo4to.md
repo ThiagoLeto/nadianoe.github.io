@@ -13,15 +13,17 @@
 <details>
 	<summary> Ejercicios </summary>
 
-- Realizar un programa que imprima por pantalla los números del 1 al 2000.
+1. Realizar un programa que imprima por pantalla los números del 1 al 2000.
 	
-- Realizar un programa que le permita realizar *repetitivamente* el ingreso
+2. Realizar un programa que le permita realizar *repetitivamente* el ingreso
 de un número y luego imprimir el resultado de multiplicar ese número por dos.
 La repetición deberá suceder hasta que el usuario ingrese el número cero.
 	
-- Realizar un programa que le permita al usuario ingresar 5 números y luego 
+3. Realizar un programa que le permita al usuario ingresar 5 números y luego 
 imprimir el resultado correspondiente a la suma de los números ingresados.
 
+4. Realizar los ejercicios 1 y 2 de la página 246.
+	
 </details>
 
 ----
