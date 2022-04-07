@@ -20,7 +20,7 @@ de un número y luego imprimir el resultado de multiplicar ese número por dos.
 La repetición deberá suceder hasta que el usuario ingrese el número cero.
 	
 - Realizar un programa que le permita al usuario ingresar 5 números y luego 
-imprimir el la suma de los números ingresados.
+imprimir el resultado correspondiente a la suma de los números ingresados.
 
 </details>
 
