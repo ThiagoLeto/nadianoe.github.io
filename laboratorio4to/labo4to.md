@@ -6,8 +6,26 @@
 
 #### [libro de consulta y ejercicios](https://github.com/nadianoe/nadianoe.github.io/blob/master/laboratorio4to/Nell%20Dale_%20Chip%20Weems%20-%20Programaci%C3%B3n%20y%20resoluci%C3%B3n%20de%20problemas%20con%20C++-McGraw%20Hill%20(2007).pdf)
 
+----
+
+#### 7 de Abril
+
+<details>
+	<summary> Ejercicios </summary>
+
+- Realizar un programa que imprima por pantalla los números del 1 al 2000.
+	
+- Realizar un programa que le permita realizar *repetitivamente* el ingreso
+de un número y luego imprimir el resultado de multiplicar ese número por dos.
+La repetición deberá suceder hasta que el usuario ingrese el número cero.
+	
+- Realizar un programa que le permita al usuario ingresar 5 números y luego 
+imprimir el la suma de los números ingresados.
+
+</details>
 
 ----
+	
 #### 5 de Abril
 
 <details>
