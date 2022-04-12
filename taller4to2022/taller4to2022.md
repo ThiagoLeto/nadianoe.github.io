@@ -3,6 +3,18 @@
 ## Taller de innovaciones tecnológicas
 ----
 
+#### 12 de Abril
+
+<details>
+	<summary> Temas vistos </summary>
+	
+- Capítulo 1, desde la página 1 a la página 6, correspondiente al libro "El gran libro de HTML, CSS y JavaScript".
+- Capítulo 2, desde la página 20 a la página 26, correspondiente al libro "El gran libro de HTML, CSS y JavaScript".
+	
+</details>
+
+-----
+
 #### 5 de Abril
 
 <details>
@@ -37,7 +49,7 @@
 <details>
   <summary> Estructura de un archivo .html </summary>
 
-- Capítulo 1. Páginas 20, 21, 22 y 23 de libre "The complete reference of HTML y CSS"
+- Capítulo 1. Páginas 20, 21, 22 y 23 del libro "The complete reference of HTML y CSS"
 	
 ```html
 <head>
