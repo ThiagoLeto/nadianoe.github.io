@@ -13,7 +13,7 @@
 ----
 
 <details> 
-  <summary> Contenido de hoy </summary>
+  <summary> Contenido del 12 de Abril </summary>
  
  - Cap. 2, desde la página 24 a la página 31 del libro "El-gran-libro-de-HTML5-CSS3-y-JavaScript.pdf"
  
