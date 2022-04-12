@@ -3,6 +3,49 @@
 ## Taller de innovaciones tecnológicas
 ----
 
+#### 5 de Abril
+
+<details>
+  <summary> Material visto </summary>
+
+ - Capítulo 1. Páginas 20, 21, 22 y 23 del libro "The complete reference of HTML y CSS"
+  
+ ```html
+<!DOCTYPE html>
+<html lang="es">
+	<head>
+
+	</head>
+	
+	<body>
+
+
+	</body>
+</html>
+```
+- Inserción de imágenes  
+```html
+<body>
+	<img src="perro.jpeg" alt="imagen de perrito">
+</body>
+```
+  
+</details>
+
+----
+
+#### 29 de Marzo
+
+<details>
+  <summary> Material visto </summary>
+
+  - Capítulo 1. Páginas 20, 21, 22 y 23
+  - [The complete reference of HTML y CSS
+  
+</details>
+
+-----
+
 #### 22 de Marzo
 
 <details>
