@@ -2,7 +2,6 @@
 ## Taller de tecnologías de soporte informático - 5to
 ---
 
- 
 <details> 
   <summary> libros </summary>
 
@@ -11,6 +10,15 @@
   
 </details>
 
+----
+
+<details> 
+  <summary> libros </summary>
+ 
+ - Cap. 2, desde la página 24 a la página 31.
+ 
+ </details>
+ 
 ----
 
 <details>
