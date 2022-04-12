@@ -2,6 +2,17 @@
 ## Taller de tecnologías de soporte informático - 5to
 ---
 
+ 
+<details> 
+  <summary> libros </summary>
+
+ - [el gran libro de HTML, CSS y JavaScript](https://github.com/nadianoe/nadianoe.github.io/blob/master/taller5to2022/libros2022taller5to/El-gran-libro-de-HTML5-CSS3-y-JavaScript.pdf)
+ - [the-complete-reference-html-css-fifth-edition.pdf](https://github.com/nadianoe/nadianoe.github.io/blob/master/taller5to2022/libros2022taller5to/the-complete-reference-html-css-fifth-edition.pdf)
+  
+</details>
+
+----
+
 <details>
 
   <summary> 15 de Marzo - Ejercicio  </summary>
