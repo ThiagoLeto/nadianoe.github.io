@@ -13,7 +13,7 @@
 ----
 
 <details> 
-  <summary> libros </summary>
+  <summary> Contenido de hoy </summary>
  
  - Cap. 2, desde la página 24 a la página 31.
  
