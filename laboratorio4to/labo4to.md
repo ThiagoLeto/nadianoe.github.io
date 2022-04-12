@@ -12,7 +12,7 @@
 
 <details>
 
-<summary> Ejercicio 1 </summary>
+<summary> Ejercicio </summary>
   
 - Crear un programa que sirva para registrar los siguientes datos de productos:
     - nombre
@@ -20,7 +20,7 @@
 	
 - El programa deberá proveerle al usuario las siguientes tareas:
 
-* Registrar de producto.
+* Registrar un producto.
   Aquí se deberá pedir el nombre del producto y su precio.
 
 * Imprimir el importe parcial a pagar.
