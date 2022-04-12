@@ -41,9 +41,28 @@
 (primero el menor, luego el mayor) y luego se muestren todos los
 números intermedios (incluyendo los extremos).
 	
-	
 </details>
 
+
+<details>
+
+<summary> Ejercicios con strings </summary>
+
+1. Realizar un programa donde el usuario ingrese una palabra y se
+muestren todas las letras de la palabra separadas por un salto de
+línea (una letra por renglón).
+2. Realizar un programa donde el usuario ingrese dos cadenas de
+texto y el programa compare la última letra de ambas cadenas y
+muestre si son o no iguales.
+3. Realizar un programa en donde el usuario ingrese una cadena de
+texto y luego una letra. Se deberá mostrar la cadena con su última
+letra cambiada por la ingresada.
+4. Realizar un programa que reciba una cadena de texto y devuelva
+el número de minúsculas y mayúsculas.
+5. Realizar un programa que muestre el reverso de una cadena de
+texto. Por ejemplo: el reverso de “asado” es “odasa”.
+	
+</details>
 
 ----
 #### 7 de Abril
