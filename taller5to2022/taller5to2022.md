@@ -15,7 +15,9 @@
 <details> 
   <summary> Contenido de hoy </summary>
  
- - Cap. 2, desde la página 24 a la página 31.
+ - Cap. 2, desde la página 24 a la página 31 del libro "El-gran-libro-de-HTML5-CSS3-y-JavaScript.pdf"
+
+  <summary> libros </summary>"
  
  </details>
  
