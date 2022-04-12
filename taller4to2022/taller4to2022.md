@@ -6,9 +6,7 @@
 #### 5 de Abril
 
 <details>
-  <summary> Material visto </summary>
-
- - Capítulo 1. Páginas 20, 21, 22 y 23 del libro "The complete reference of HTML y CSS"
+  <summary> Imágenes </summary>
   
  ```html
 <!DOCTYPE html>
@@ -37,10 +35,15 @@
 #### 29 de Marzo
 
 <details>
-  <summary> Material visto </summary>
+  <summary> Estructura de un archivo .html </summary>
 
-  - Capítulo 1. Páginas 20, 21, 22 y 23
-  - [The complete reference of HTML y CSS
+- Capítulo 1. Páginas 20, 21, 22 y 23 de libre "The complete reference of HTML y CSS"
+	
+```html
+<head>
+	<title>Experimentos</title>
+</head>
+```
   
 </details>
 
