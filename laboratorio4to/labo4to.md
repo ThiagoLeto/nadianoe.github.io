@@ -43,6 +43,72 @@ números intermedios (incluyendo los extremos).
 	
 </details>
 
+<details>
+	<summary> Ejemplo visto en clase </summary>
+
+```c++
+// string assigning
+#include <iostream>
+
+using namespace std;
+
+int main (){
+
+  string palabra = "casa";
+  // c - 0, a - 1, s - 2, a - 3
+  cout << palabra[3] << endl;  
+  
+  string str1, str2, str3, str4;
+  
+  str1 = "Esto es un a frase#$#$&$56";  
+  
+  char caracter1 = 'f';
+  char caracter2 = '#';
+  
+  bool comparacion = caracter1 == caracter2;
+  
+  //str2 = 'x'; // "x"
+  str2 = "hojaldre";
+
+  cin >> str2;
+  int size = str2.size();
+  
+  int indice = 0;
+  while (indice < size){
+      cout << str2[indice] << endl;
+      indice++;
+  }
+  
+  str2 = "empa\"nada"; // empa"nada
+  cout << str2 << endl;
+  
+  str2 = str2 + " hola"; // hoja hola
+  
+  cout << str2 << endl;
+  str4 = "hola";
+  
+  str2 = "def";
+  str1 = "abc";
+  str3 = str1 + str2;
+  
+  string nombre = "Gabriela";
+  int indice = 1;
+  cout << nombre[indice + 2] <<  endl;
+  
+  nombre[0] = 'a'; //aabriela
+  nombre[2] = 'j'; //aajriela
+  nombre[5] = ' '; //aajri la
+  
+  cout << nombre <<  endl;
+
+  cout << str3  << '\n';
+  
+  return 0;
+}
+		   
+```
+	
+</details>
 
 <details>
 
