@@ -47,7 +47,7 @@ números intermedios (incluyendo los extremos).
 	<summary> Ejemplo visto en clase </summary>
 
 ```c++
-// string assigning
+
 #include <iostream>
 
 using namespace std;
@@ -72,13 +72,7 @@ int main (){
 
   cin >> str2;
   int size = str2.size();
-  
-  int indice = 0;
-  while (indice < size){
-      cout << str2[indice] << endl;
-      indice++;
-  }
-  
+
   str2 = "empa\"nada"; // empa"nada
   cout << str2 << endl;
   
