@@ -8,6 +8,38 @@
 
 ----
 
+#### 12 de Abril
+
+<details>
+
+<summary> Ejercicio 1 </summary>
+  
+- Crear un programa que sirva para registrar los siguientes datos de productos:
+    - nombre
+    - precio
+	
+- El programa deberá proveerle al usuario las siguientes tareas:
+
+* Registrar de producto.
+  Aquí se deberá pedir el nombre del producto y su precio.
+
+* Imprimir el importe parcial a pagar.
+  - Aquí se deberá imprimir el importe a pagar por 
+  los productos registrados hasta el momento.
+  - Cuando se termine de mostrar el importe mencionado, 
+  el programa deberá proveer la opción de realizar
+  un nuevo registro.
+
+* Finalizar registro. 
+  Aquí se deberá imprimir el importe total a pagar.
+  - Cuando se termine de mostrar el importe mencionado, 
+  el programa no deberá dar la opción de realizar 
+  un nuevo registro.
+  
+</details>
+
+
+----
 #### 7 de Abril
 
 <details>
