@@ -13,7 +13,8 @@
 <details>
 
 <summary> Ejercicio </summary>
-  
+
+1.
 - Crear un programa que sirva para registrar los siguientes datos de productos:
     - nombre
     - precio
@@ -36,6 +37,11 @@
   el programa no deberá dar la opción de realizar 
   un nuevo registro.
   
+2. Realizar un programa donde se ingresen dos números
+(primero el menor, luego el mayor) y luego se muestren todos los
+números intermedios (incluyendo los extremos).
+	
+	
 </details>
 
 
