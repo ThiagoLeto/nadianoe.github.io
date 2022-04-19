@@ -8,6 +8,42 @@
 
 ----
 
+#### 18 de Abril
+
+<details>
+	<summary> Ejemplo </summary>
+	
+```c++
+#include <iostream>
+#include <cctype>
+using namespace std;
+
+int main() {
+
+  string nombre = "GLORIA";
+  cout << nombre.size() << endl;
+  cout << nombre.length() << endl;
+  nombre.erase(4,1);
+  nombre.erase(2);
+  nombre.insert(1,"hola");
+  cout << nombre << endl;
+
+  char ch = tolower(nombre[3]);
+
+  cout << ch;
+
+  return 0;
+}
+
+/**
+https://www.cplusplus.com/reference/cctype/
+https://www.cplusplus.com/reference/string/string/
+*/
+```
+</details>
+	
+----
+
 #### 12 de Abril
 
 <details>
