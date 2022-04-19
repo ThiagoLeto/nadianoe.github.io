@@ -12,13 +12,14 @@
 
 <details> 
 	<summary> Ejercicios 1ra. parte </summary>
+	
 - Escribir programas con ciclos while para:
-a) Imprimir en pantalla los números del 1 al 10.
-b) Imprimir en pantalla los números del 10 al 1 (hacia atrás)
-c) Imprimir en pantalla los números de 2 al 20 incrementando de a dos (2, 4, 6, 8, etc.)
-d) Imprimir en pantalla los números de 1 a 16 y sus valores al cuadrado al lado (1 – 1, 2 – 4, 3 – 9, 4 – 16, 5 – 25, etc.)
-e) Que sume todos los valores del 1 al 10 y los imprima en pantalla.
-f) Que imprima en pantalla todos los múltiplos de 6, desde 6 hasta 30 (6, 12, 18, 24 y 30).
+1. Imprimir en pantalla los números del 1 al 10.
+2. Imprimir en pantalla los números del 10 al 1 (hacia atrás)
+3. Imprimir en pantalla los números de 2 al 20 incrementando de a dos (2, 4, 6, 8, etc.)
+4. Imprimir en pantalla los números de 1 a 16 y sus valores al cuadrado al lado (1 – 1, 2 – 4, 3 – 9, 4 – 16, 5 – 25, etc.)
+5. Que sume todos los valores del 1 al 10 y los imprima en pantalla.
+6. Que imprima en pantalla todos los múltiplos de 6, desde 6 hasta 30 (6, 12, 18, 24 y 30).
 
 </details>
 
