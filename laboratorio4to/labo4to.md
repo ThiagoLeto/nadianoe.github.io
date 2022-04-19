@@ -15,7 +15,7 @@
 	
 - Escribir programas con ciclos while para:
 1. Imprimir en pantalla los números del 1 al 10.
-2. Imprimir en pantalla los números del 10 al 1 (hacia atrás)
+2. Imprimir en pantalla los números del 10 al 1
 3. Imprimir en pantalla los números de 2 al 20 incrementando de a dos (2, 4, 6, 8, etc.)
 4. Imprimir en pantalla los números de 1 a 16 y sus valores al cuadrado al lado (1 – 1, 2 – 4, 3 – 9, 4 – 16, 5 – 25, etc.)
 5. Que sume todos los valores del 1 al 10 y los imprima en pantalla.
