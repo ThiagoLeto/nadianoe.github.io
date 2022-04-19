@@ -22,7 +22,7 @@
 6. Que imprima en pantalla todos los múltiplos de 6, desde 6 hasta 30 (6, 12, 18, 24 y 30).
 7. Otra versión del ejercicio 5: que suma todos los valores del 1 al 100 y que, además de imprimir el resultado, 
    imprima el string  "1+2+3+4+5+.....".
-8. Que imprima una matriz 10 x 10 que en vez de contener números, contenga un tipo de caracter distinto por fila.
+8. Que imprima una matriz 10 x 10 que en vez de contener números, contenga repeticiones de un tipo de caracter por fila.
    El caracter deberá ser elegido por el usuario.
 
 </details>
