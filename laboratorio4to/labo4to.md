@@ -20,6 +20,8 @@
 4. Imprimir en pantalla los números de 1 a 16 y sus valores al cuadrado al lado (1 – 1, 2 – 4, 3 – 9, 4 – 16, 5 – 25, etc.)
 5. Que sume todos los valores del 1 al 10 y los imprima en pantalla.
 6. Que imprima en pantalla todos los múltiplos de 6, desde 6 hasta 30 (6, 12, 18, 24 y 30).
+7. Otra versión del ejercicio 5: que suma todos los valores del 1 al 100 y que, además de imprimir el resultado, 
+   imprima el string  "1+2+3+4+5+.....".
 
 </details>
 
