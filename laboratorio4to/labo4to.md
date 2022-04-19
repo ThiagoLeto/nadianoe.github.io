@@ -34,17 +34,21 @@ using namespace std;
 
 int main() {
 
-  string nombre = "GLORIA";
+  string nombre = "Gloria Flores";
   cout << nombre.size() << endl;
   cout << nombre.length() << endl;
   nombre.erase(4,1);
   nombre.erase(2);
   nombre.insert(1,"hola");
+  nombre.substr(1,2);
+  nombre.substr(3);
   cout << nombre << endl;
 
-  char ch = tolower(nombre[3]);
-
-  cout << ch;
+  char letra1 = tolower(nombre[3]);
+  cout << letra1 << endl;
+	
+  char letra2 = toupper(nombre[3]);
+  cout << letra2 << endl;
 
   return 0;
 }
