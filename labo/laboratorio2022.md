@@ -34,9 +34,43 @@ Utilizar la comparación de HashSets para realizar la verificación.
 <details> 
 	<summary> Ejemplo - HashSets </summary>
 	
-´´´java
+```java
+import java.util.ArrayList;
+import java.util.HashSet;
+
+public class Main
+{
+	public static void main(String[] args) {
+	  
+	    ArrayList<Integer> lista = new ArrayList<>();
+	    lista.add(3);
+	    lista.add(7);
+	    
+	    HashSet<Integer> conjunto = new HashSet<>();
+	    conjunto.add(3);
+	    conjunto.add(3);
+	    conjunto.add(3);
+	    conjunto.add(7);
+	    // <7,3>
+	    
+	    for ( Integer numero : conjunto ){
+	        System.out.println(numero);
+	    }
+	    
+	  
+	    HashSet<Persona> personas = new HashSet<>();
+	    
+	    Persona p1 = new Persona();
+	    Persona p2 = new Persona();
+	    
+	    personas.add(p1);
+	    personas.add(p1);
+	    personas.add(p2);
+	    // <p2,p1>
+	}
+}
 	
-´´´
+```
 	
 </details>
 
