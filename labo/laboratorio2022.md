@@ -12,11 +12,9 @@
 	<summary> Ejercicio </summary>
 	
 1. Crear un programa que le pida al usuario una cantidad
-de números. La cantidad de números ingresados la determinará el usuario.
+de números. La cantidad de números ingresados la determinará el usuario. Los números ingresados deberán ser guardados en un ArrayList.
 
-Los números ingresados deberán ser guardados en un ArrayList.
-
-Luego, quitar los elementos repetidos del ArrayList utilizando
+- Luego, quitar los elementos repetidos del ArrayList utilizando
 un HashSet; mostrar en pantalla los elementos que el ArrayList
 contiene luego de haber quitado los repetidos.
 
@@ -24,10 +22,10 @@ contiene luego de haber quitado los repetidos.
 de números. La cantidad ingresada la determinará el usuario.
 Los números ingresados deberán ser guardados en un ArrayList.
 
-Pedir que el usuario realice lo mismo otra vez, crear otro
+- Pedir que el usuario realice lo mismo otra vez, crear otro
 ArrayList con los números ingresados en esta segunda vez.
 
-El programa deberá verificar si las dos secuencias tienen los 
+- El programa deberá verificar si las dos secuencias tienen los 
 mismos elementos, sin importar el orden o la cantidad de apariciones.
 Utilizar la comparación de HashSets para realizar la verificación.
 
