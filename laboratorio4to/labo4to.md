@@ -15,7 +15,10 @@
 	
 - Realizar los ejercicios del 7 y 18 de Abril con ciclos "for".
 	
-- Propuesta de solución
+</details>
+
+<details>
+	<summary> Propuesta de solución para ejercicio de matriz </summary>
 	
 ```c++
 
