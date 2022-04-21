@@ -3,6 +3,59 @@
 ###  Taller de Tecnologías de Soporte Informático
 ----
 
+#### 21 de Abril
+
+<details>
+	<summary> Ejemplo </summary>
+	
+```python
+	
+import pandas as pd
+df = pd.read_csv("datos_nomivac_covid19.csv")
+df = pd.read_csv("datos_nomivac_covid19.csv",sep=";",engine="python")
+print(df)
+print(list(df.columns))
+print(list(df.index))
+print(df['grupo_etario'])
+df.loc[0:1000]
+df.loc[[1,5,8]]
+dfConIndiceDNI = df.set_index('DNI')
+df['sexo'].value_counts()
+df_2 = df.drop_duplicates()
+df.to_csv("nuevo.csv")
+	
+```
+- [notebook](https://github.com/nadianoe/nadianoe.github.io/blob/master/taller6to/exp.ipynb)
+	
+</details>
+
+<details> 
+	<summary> Enunciado </summary>
+	
+1) Leer su archivo csv utilizado.
+	
+2) De ser posible, elegir una columna que pueda servir como índice y setearla como tal.
+	
+3) Eliminar las filas duplicadas
+	
+4 Escribir un nuevo archivo .csv con las modificaciones realizadas
+	
+5) Colocar en forma de tabla, las primeras 3000 filas  y luego, las ultimas 2000.
+Si su archivo csv no tiene una cantidad de datos que cumpla lo pedido, 
+la tabla deberá tener las primeras 300 y las últimas 200.
+
+6) Imprimir el data frame escrito en el nuevo archivo .csv
+	
+7) Colocar en forma de tabla las filas 1, 5, 12, 36.
+	
+8) Imprimir una lista con los nombres de todas las columnas.
+	
+9) Imprimir los datos de una columna a elección.
+	
+</details>
+
+----
+
 ####  31 de Marzo
 
 <details> 
