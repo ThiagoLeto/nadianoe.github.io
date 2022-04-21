@@ -13,6 +13,8 @@
 
 ## [BASES DE DATOS - 5TO](https://github.com/nadianoe/nadianoe.github.io/blob/master/bd5to2022/db5to2022.md#bases-de-datos---5to)
 
+## [DESARROLLO DE APLICACIONES INFORMÁTICAS - 5TO OI](https://github.com/nadianoe/nadianoe.github.io/blob/master/dearrolloAp.md)
+
 --------------------------------------
 
 #### [laboratorio - 5to - 2021](https://github.com/materiasipm/materiasipm.github.io/blob/master/labo/labo.md#programa-del-laboratorio-de-programaci%C3%B3n-oritentada-a-objetos)
