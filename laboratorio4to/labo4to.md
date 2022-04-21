@@ -8,6 +8,61 @@
 
 ----
 
+#### 21 de Abril
+
+<details>
+	<summary> Ejercicios </summary>
+	
+- Realizar los ejercicios del 7 y 18 de Abril con ciclos "for".
+	
+- Propuesta de solución
+	
+```c++
+
+#include <iostream>
+
+using namespace std;
+
+int main(){
+    
+    char caracter;
+    string matriz;
+    int cantidadDeCaracteresPorFila = 0;
+    int cantidadDeFilas = 0;
+    
+    while(cantidadDeFilas < 10){
+        
+        cout << "Ingrese un caracter: " << endl;
+        cin >> caracter;
+        string fila;
+        
+        while (cantidadDeCaracteresPorFila < 10){
+            fila = fila + caracter;
+            cantidadDeCaracteresPorFila++;
+        }
+        
+        cantidadDeCaracteresPorFila = 0;
+        cantidadDeFilas++;
+        
+        fila = fila + "\n";
+        matriz = matriz + fila;
+        cout << "La fila generada es: " << fila << endl;
+        fila = "";
+        
+    }
+    
+    cout << "La matriz es: \n" << matriz << endl; 
+    
+    return 0;
+}
+
+	
+```
+	
+</details>
+
+------
+
 #### 18 de Abril
 
 <details> 
