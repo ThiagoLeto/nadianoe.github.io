@@ -7,6 +7,31 @@
 #### [libro de consulta y ejercicios](https://github.com/nadianoe/nadianoe.github.io/blob/master/laboratorio4to/Nell%20Dale_%20Chip%20Weems%20-%20Programaci%C3%B3n%20y%20resoluci%C3%B3n%20de%20problemas%20con%20C++-McGraw%20Hill%20(2007).pdf)
 
 ----
+#### 26 de Abril
+
+<details>
+	<summary> Ejemplo </summary>
+
+```c++
+	
+int dia;
+cin >> dia;
+	
+switch (dia) {
+  case 1:
+    cout << "Hoy is Sábado";
+    break;
+  case 2:
+    cout << "Hoy is Domingo";
+    break;
+  default:
+    cout << "Hoy es algún otro día de la semana";
+}
+```
+	
+</details>
+
+----
 
 #### 21 de Abril
 
