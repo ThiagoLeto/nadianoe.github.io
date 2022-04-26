@@ -6,6 +6,40 @@
 
 ----
 
+#### 26 de Abril
+
+<details> 
+	<summary> Ejercicio </summary>
+
+- Con respecto al ejercicio relacionado con una librería, se necesitan agregar
+funcionalidades. Ahora, no sólo administrará la cantidad de libros 
+vendidos; también calculará el precio de libros comprados por cliente.
+
+- Con respecto al precio de libros, la librería ofrece un cincuenta 
+porciento de descuento al importe de cada libro que pertenece a cierto 
+conjunto de editoriales.
+
+Para ello, se debe:
+
+* crear HashSet de editoriales con descuento en la clase Librería.
+
+* crear un método que sirva para agregar editoriales al 
+HashSet mencionado.
+
+* Crear un hashmap para almacenar la información de cada venta realizada.
+  Dicho hashmap debe asociar una instancia de la clase cliente con el importe total 
+  de la compra que realizó.
+
+* Deberá exitir una clase llamada Cliente que tendrá un id y un hashmap que
+ asocia un libro y las unidades compradas del mismo.
+
+* Las instancias de la clase Cliente deberán estar almacenadas en un hashset.
+
+* Crear un método que imprima los libros comprados del cliente, sus respectivas
+unidades y el importe total de la compra.
+	
+----
+	
 #### 20 de Abril
 
 <details> 
