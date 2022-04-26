@@ -9,8 +9,8 @@
 #### 26 de Abril
 
 <details> 
-	<summary> Ejercicio </summary>
-
+	<summary> Ejercicio  1 </summary>
+	
 - Con respecto al ejercicio relacionado con una librería, se necesitan agregar
 funcionalidades. Ahora, no sólo administrará la cantidad de libros 
 vendidos; también calculará el precio de libros comprados por cliente.
@@ -21,24 +21,56 @@ conjunto de editoriales.
 
 Para ello, se debe:
 
-* crear HashSet de editoriales con descuento en la clase Librería.
+- crear HashSet de editoriales con descuento en la clase Librería.
 
-* crear un método que sirva para agregar editoriales al 
+- crear un método que sirva para agregar editoriales al 
 HashSet mencionado.
 
-* Crear un hashmap para almacenar la información de cada venta realizada.
+- Crear un hashmap para almacenar la información de cada venta realizada.
   Dicho hashmap debe asociar una instancia de la clase cliente con el importe total 
   de la compra que realizó.
 
-* Deberá exitir una clase llamada Cliente que tendrá un id y un hashmap que
+- Deberá exitir una clase llamada Cliente que tendrá un id y un hashmap que
  asocia un libro y las unidades compradas del mismo.
 
-* Las instancias de la clase Cliente deberán estar almacenadas en un hashset.
+- Las instancias de la clase Cliente deberán estar almacenadas en un hashset.
 
-* Crear un método que imprima los libros comprados del cliente, sus respectivas
-unidades y el importe total de la compra.
-	
-	
+- Crear un método que imprima los libros comprados del cliente, sus respectivas
+unidades y el importe total de la compra.	
+</details>
+
+<details>
+	<summary> Ejercicio 2 </summary>
+
+1) Crear una subclase de la clase persona que represente a un alumno de una escuela, debe llamarse Alumno. Los atributos que debe tener el alumno son:
+
+- Curso, que debe ser de tipo String.
+- Notas, que debe ser de tipo HashMap que asocia un String y un ArrayList de floats representando el nombre de la materia y las notas que tiene el alumno en la misma, respectivamente.
+La declaración del atributo será la siguiente:
+```java
+  private HashMap<String,ArrayList<Float> notasPorMateria;
+```
+2) Se deben crear los métodos:
+
+- Agregar Nota
+- Menor Nota
+- Mayor Nota
+- Promedio Notas
+
+- Agregar Materia
+
+Comentarios: 
+- En el/los constructor/es de la clase Alumno sólo se deberán inicializar el HashMap
+y el curso.
+- El método agregarMateria se deberá declarar de la siguiente forma:
+```java
+  public void agregarMateria(String nombreDeMateria){
+  
+  }
+```
+ Y en la implementación, se deberá crear un ArrayList, inicializarlo y luego
+ agregarlo al HashMap como valor acompañado de su correspondiente clave.
+
 </details>
 
 <details> 
