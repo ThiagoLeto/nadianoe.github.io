@@ -10,6 +10,25 @@
 #### 26 de Abril
 
 <details>
+	<summary> ejercicios </summary>
+	
+1.Crear un archivo y agregarle un contenido a elección.
+Realizar un programa en el cual el usuario ingrese por consola el
+nombre de un archivo a abrir, lo lea completamente e imprima su
+información tal cual está escrita, por pantalla.
+	
+2. Pedir a un usuario 3 nombres y 3 números. Luego, escribir un
+archivo con la cantidad de repeticiones correspondientes a cada número
+recibido. Ejemplo: si se ingresó "Gloria" y el número 5, se deberá escribir
+"Gloria" 5 veces.
+	
+3. Realizar un programa en el cual el usuario ingrese por consola el
+nombre de un archivo a abrir y otro string con un nombre de
+persona. El programa deberá indicar si el nombre recibido se encuentra escrito en el archivo.
+	
+</details>
+
+<details>
 	<summary> Ejemplo </summary>
 
 ```c++
