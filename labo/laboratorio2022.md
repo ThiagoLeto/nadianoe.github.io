@@ -38,6 +38,9 @@ HashSet mencionado.
 * Crear un método que imprima los libros comprados del cliente, sus respectivas
 unidades y el importe total de la compra.
 	
+	
+</details>
+
 ----
 	
 #### 20 de Abril
