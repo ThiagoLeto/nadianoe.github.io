@@ -29,6 +29,85 @@ persona. El programa deberá indicar si el nombre recibido se encuentra escrito 
 </details>
 
 <details>
+	<summary> Ejemplo, manejo de archivos </summary>
+	
+```c++
+#include <ctype.h>
+#include <iostream>
+#include <fstream>
+
+using namespace std;
+
+int main () {
+    
+    // -- ejemplo 1 , lectura hasta un espacio
+    
+    ifstream archivo;
+    string frase;
+    archivo.open("ejemplo.txt");
+    archivo >> frase;
+    archivo.close();
+    cout << frase << endl;
+    
+    // ---- otro ejemplo, lee hasta punto
+    
+    archivo.open("ejemplo.txt");
+    getline(archivo, frase, '.');
+    // lee todo
+    //getline(archivo, frase);
+    archivo.close();
+    cout << frase << endl;
+    
+    // ---- otro ejemplo, escribe palabra
+    
+    ofstream archivo1;
+    archivo1.open("ejemplo2.txt",ios::app);
+    cout << "Ingrese una frase" << endl;
+    cin >> frase;
+	archivo1 << frase << endl;
+    archivo1.close();
+
+
+
+    
+    /**
+    
+    string frase;
+	cout << "Ingrese una frase con espacios:" << endl;
+	getline(cin,frase);
+	cout << frase;
+    **/
+    /**
+    int cantidadDeMayusculas = 0;
+    int cantidadDeMinusculas = 0;
+    
+    for (int i = 0; i < str.size(); i++) {
+        char letra = str[i];
+        if ( isupper(letra) ){
+            cantidadDeMayusculas++;
+        } else {
+            cantidadDeMinusculas++;
+        }
+        if (letra == ' '){
+            cantidadDeEspacios++;
+        }
+    }
+    
+    cout << "Cantidad de mayúsculas: " << cantidadDeMayusculas << endl;
+    cout << "Cantidad de minúsculas: " << cantidadDeMinusculas << endl;
+    */
+   
+    
+  return 0;
+}
+								      
+
+	
+```	
+								      
+</details>
+
+<details>
 	<summary> Ejemplo </summary>
 
 ```c++
