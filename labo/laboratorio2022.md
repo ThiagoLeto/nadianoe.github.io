@@ -224,7 +224,6 @@ public class Main
 <details> 
 	<summary> Exámen </summary>
 	
-
 1. Tomar la clase Persona creada en clases anteriores y agregarle 
 	el método "esUnAdultoJoven" retorne true si la edad de la persona
 	es mayor o igual a 18 y menor o igual a 35.
