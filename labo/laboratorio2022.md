@@ -48,7 +48,7 @@ unidades y el importe total de la compra.
 - Notas, que debe ser de tipo HashMap que asocia un String y un ArrayList de floats representando el nombre de la materia y las notas que tiene el alumno en la misma, respectivamente.
 La declaración del atributo será la siguiente:
 ```java
-  private HashMap<String,ArrayList<Float> notasPorMateria;
+  private HashMap<String,ArrayList<Float>> notasPorMateria;
 ```
 2) Se deben crear los métodos:
 
